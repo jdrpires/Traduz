@@ -1,0 +1,13 @@
+messageCode: ID_CON0292
+messageDomain: cadastral-core
+summary: ID_CON0292 - Invalid profile type.
+type: error
+languages:
+- code: pt-BR
+  message: Tipo de perfil inválido.
+- code: en-US
+  message: Invalid profile type.
+- code: es-ES
+  message: Tipo de perfil no válido.
+- code: es-CL
+  message: Tipo de perfil no válido.

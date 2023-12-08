@@ -1,0 +1,9 @@
+messageCode: ID_CON0041
+messageDomain: cadastral
+summary: ID_CON0041 - An error occurred in check digit calculation.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro no cálculo do dígito verificador
+- code: en-US
+  message: An error occurred in check digit calculation.

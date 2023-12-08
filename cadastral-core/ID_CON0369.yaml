@@ -1,0 +1,9 @@
+messageCode: ID_CON0369
+messageDomain: cadastral-core
+summary: ID_CON0369 - Subcontract does not exist.
+type: error
+languages:
+- code: pt-BR
+  message: Código subcontrato não existe.
+- code: en-US
+  message: Subcontract does not exist.

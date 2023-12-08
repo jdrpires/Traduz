@@ -1,0 +1,9 @@
+messageCode: ID_CP0089
+messageDomain: cadastral-core
+summary: ID_CP0089 - Invalid residence start date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data Início Residência inválida.
+- code: en-US
+  message: Invalid residence start date.

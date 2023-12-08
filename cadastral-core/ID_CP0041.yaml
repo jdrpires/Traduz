@@ -1,0 +1,9 @@
+messageCode: ID_CP0041
+messageDomain: cadastral-core
+summary: ID_CP0041 - County of the address does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Município endereço não existe
+- code: en-US
+  message: County of the address does not exist.

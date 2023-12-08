@@ -1,0 +1,9 @@
+messageCode: ID_CON0183
+messageDomain: cadastral
+summary: ID_CON0183 - Owner beneficiary cancellation not allowed.
+type: error 
+languages:
+- code: pt-BR
+  message: Cancelamento de beneficiário titular não é permitido.
+- code: en-US
+  message: Owner beneficiary cancellation not allowed.

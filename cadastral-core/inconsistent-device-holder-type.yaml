@@ -1,0 +1,13 @@
+messageCode: inconsistent-device-holder-type
+messageDomain: cadastral-core
+summary: inconsistent-device-holder-type
+type: error
+languages:
+- code: pt-BR
+  message: Tipo de beneficiário inconsistente.
+- code: en-US
+  message: Inconsistent device holder type.
+- code: es-ES
+  message: Tipo de beneficiario incoherente.
+- code: es-CL
+  message: Tipo de beneficiario incoherente.

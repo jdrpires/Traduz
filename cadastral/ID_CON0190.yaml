@@ -1,0 +1,9 @@
+messageCode: ID_CON0190
+messageDomain: cadastral
+summary: ID_CON0190 - No device X current account association was found.
+type: error 
+languages:
+- code: pt-BR
+  message: Não foi encontrada nenhuma associação dispositivo x conta corrente.
+- code: en-US
+  message: No device X current account association was found.

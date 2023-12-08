@@ -1,0 +1,9 @@
+messageCode: ID_CON0227
+messageDomain: cadastral
+summary: ID_CON0227 - Card brand not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Bandeira não informada
+- code: en-US
+  message: Card brand not informed.

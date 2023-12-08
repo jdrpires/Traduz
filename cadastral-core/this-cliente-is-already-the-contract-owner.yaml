@@ -1,0 +1,9 @@
+messageCode: this-cliente-is-already-the-contract-owner
+messageDomain: cadastral-core
+summary: This client is already the contract owner
+type: error
+languages:
+- code: pt-BR
+  message: Este cliente já é o titular do contrato.
+- code: en-US
+  message: This client is already the contract owner.

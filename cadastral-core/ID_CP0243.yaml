@@ -1,0 +1,9 @@
+messageCode: ID_CP0243
+messageDomain: cadastral-core
+summary: ID_CP0243 - Bussiness area code invalid.
+type: error 
+languages:
+- code: pt-BR
+  message: Código da área do negócio inválido.
+- code: en-US
+  message: Bussiness area code invalid.

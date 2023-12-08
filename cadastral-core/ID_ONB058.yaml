@@ -1,0 +1,9 @@
+messageCode: ID_ONB058
+messageDomain: cadastral-core
+summary: ID_ONB058 - By-product code is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Código do SubProduto não informado.
+- code: en-US
+  message: By-product code is required.

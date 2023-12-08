@@ -1,0 +1,9 @@
+messageCode: ID_CON0271
+messageDomain: cadastral
+summary: ID_CON0271 - Device type description not parameterixed in PM034.
+type: error 
+languages:
+- code: pt-BR
+  message: Descrição de tipo de dispositivo não parametrizada na PM034
+- code: en-US
+  message: Device type description not parameterixed in PM034.

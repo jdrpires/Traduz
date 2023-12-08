@@ -1,0 +1,9 @@
+messageCode: ID_CP0192
+messageDomain: cadastral-core
+summary: ID_CP0192 - Deletion cannot be performed because there is a personId registered in another base.
+type: error 
+languages:
+- code: pt-BR
+  message: A Exclusão não pode ser realizada pois existe personId cadastrado em outra base
+- code: en-US
+  message: Deletion cannot be performed because there is a personId registered in another base.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0310
+messageDomain: cadastral-core
+summary: ID_CON0310 - Device situation divergent from the standard.
+type: error 
+languages:
+- code: pt-BR
+  message: Situação de dispositivo recebido diferente do padronizado
+- code: en-US
+  message: Device situation divergent from the standard.

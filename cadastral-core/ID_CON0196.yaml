@@ -1,0 +1,9 @@
+messageCode: ID_CON0196
+messageDomain: cadastral-core
+summary: ID_CON0196 - Beneficiary removal not allowed. There're devices linked.
+type: error 
+languages:
+- code: pt-BR
+  message: Remoção de beneficiário não permitida. Existem dispositivos vinculados.
+- code: en-US
+  message: Beneficiary removal not allowed. There're devices linked.

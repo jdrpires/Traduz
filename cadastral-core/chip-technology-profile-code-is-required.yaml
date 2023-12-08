@@ -1,0 +1,11 @@
+messageCode: chip-technology-profile-code-is-required
+messageDomain: cadastral-core
+summary: chip-technology-profile-code-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Codigo de tecnologia do chip é obrigatório.
+- code: en-US
+  message: chip technology profile code is required.
+- code: es-ES
+  message: Se requiere codigo de perfil de tecnologia de chip.

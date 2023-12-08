@@ -1,0 +1,9 @@
+messageCode: ID_CON0138
+messageDomain: cadastral
+summary: ID_CON0138 - Contract condition does not permit device activation.
+type: error 
+languages:
+- code: pt-BR
+  message: Condição do Contrato não permite ativação do dispositivo
+- code: en-US
+  message: Contract condition does not permit device activation.

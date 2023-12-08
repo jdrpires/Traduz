@@ -1,0 +1,9 @@
+messageCode: ID_CP0122
+messageDomain: cadastral-core
+summary: ID_CP0122 - Intervener already exists.
+type: error 
+languages:
+- code: pt-BR
+  message: Interveniente já existe
+- code: en-US
+  message: Intervener already exists.

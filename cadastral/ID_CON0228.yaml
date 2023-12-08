@@ -1,0 +1,9 @@
+messageCode: ID_CON0228
+messageDomain: cadastral
+summary: ID_CON0228 - Subproduct code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código do subproduto não informado
+- code: en-US
+  message: Subproduct code not informed.

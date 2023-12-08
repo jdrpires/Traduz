@@ -1,0 +1,9 @@
+messageCode: ID_CON0191
+messageDomain: cadastral-core
+summary: ID_CON0191 - Error reversing the contract cancellation.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na reversão do cancelamento do contrato.
+- code: en-US
+  message: Error reversing the contract cancellation.

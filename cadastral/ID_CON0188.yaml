@@ -1,0 +1,9 @@
+messageCode: ID_CON0188
+messageDomain: cadastral
+summary: ID_CON0188 - Additional account cannot be included as main.
+type: error 
+languages:
+- code: pt-BR
+  message: Conta Adicional não pode ser incluída como Principal
+- code: en-US
+  message: Additional account cannot be included as main.

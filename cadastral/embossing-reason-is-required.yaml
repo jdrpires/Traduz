@@ -1,0 +1,9 @@
+messageCode: embossing-reason-is-required
+messageDomain: cadastral
+summary: embossing-reason-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo do embossing é obrigatório.
+- code: en-US
+  message: Embossing reason is Required.

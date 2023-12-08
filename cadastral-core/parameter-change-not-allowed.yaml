@@ -1,0 +1,13 @@
+messageCode: parameter-change-not-allowed
+messageDomain: cadastral-core
+summary: parameter-change-not-allowed
+type: error
+languages:
+- code: pt-BR
+  message: Alteração não permitida, deve ser escolhido outro card design default.
+- code: en-US
+  message: Parameter change not allowed, another default card design must be chosen.
+- code: es-ES
+  message: No se permite el cambio de parámetros, se debe elegir otro diseño de tarjeta predeterminado.
+- code: es-CL
+  message: No se permite el cambio de parámetros, se debe elegir otro diseño de tarjeta predeterminado.

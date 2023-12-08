@@ -1,0 +1,11 @@
+messageCode: ID_PM0019
+messageDomain: cadastral
+summary: ID_PM0019 - Same Group and Use type
+type: error
+languages:
+- code: pt-BR
+  message: Grupo de tipo de uso e tipo de uso nao podem ter o mesmo valor.
+- code: en-US
+  message: Usage Type Group and Usage Type cannot have the same value.
+- code: es-ES
+  message: El grupo de tipo de uso y el tipo de uso no pueden tener el mismo valor.

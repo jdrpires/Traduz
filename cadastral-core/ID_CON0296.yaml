@@ -1,0 +1,9 @@
+messageCode: ID_CON0296
+messageDomain: cadastral-core
+summary: ID_CON0296 - Contract acronym not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Sigla do contrato não informada
+- code: en-US
+  message: Contract acronym not informed.

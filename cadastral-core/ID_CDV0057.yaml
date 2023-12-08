@@ -1,0 +1,13 @@
+messageCode: ID_CDV0057
+messageDomain: cadastral-core
+summary: ID_CDV0057 - Invalid cancellation reason.
+type: error
+languages:
+- code: pt-BR
+  message: Motivo de cancelamento inválido.
+- code: en-US
+  message: Invalid cancellation reason.
+- code: es-ES
+  message: Motivo de cancelación no válido.
+- code: es-CL
+  message: Motivo de cancelación no válido.

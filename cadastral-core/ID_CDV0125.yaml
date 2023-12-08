@@ -1,0 +1,9 @@
+messageCode: ID_CDV0125
+messageDomain: cadastral-core
+summary: ID_CDV0125 - Social benefit not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Benefício Social não informado
+- code: en-US
+  message: Social benefit not informed.

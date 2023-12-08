@@ -1,0 +1,9 @@
+messageCode: ID_CON0093
+messageDomain: cadastral
+summary: ID_CON0093 - Contract or cancellation reason not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato ou motivo de cancelamento não enviados.
+- code: en-US
+  message: Contract or cancellation reason not sent.

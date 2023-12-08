@@ -1,0 +1,11 @@
+messageCode: ID_PM0009
+messageDomain: cadastral
+summary: ID_PM0009 - certificate expiration
+type: error
+languages:
+- code: pt-BR
+  message: Data de expiracao do certificado do BIN deve ser superior a data atual.
+- code: en-US
+  message: BIN certificate expiration date must be greater than the current date.
+- code: es-ES
+  message: La fecha de vencimiento del certificado BIN debe ser posterior a la fecha actual.

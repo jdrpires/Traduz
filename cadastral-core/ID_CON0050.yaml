@@ -1,0 +1,9 @@
+messageCode: ID_CON0050
+messageDomain: cadastral-core
+summary: ID_CON0050 - Invalid owner inclusion. Contract has no owner.
+type: error 
+languages:
+- code: pt-BR
+  message: Inclusão de titular inválida. Titular já vinculado.
+- code: en-US
+  message: Invalid owner inclusion. Contract has no owner.

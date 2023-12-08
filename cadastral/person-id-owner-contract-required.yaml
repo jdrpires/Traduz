@@ -1,0 +1,9 @@
+messageCode: person-id-owner-contract-required
+messageDomain: cadastral
+summary: person-id-owner-contract-required
+type: error 
+languages:
+- code: pt-BR
+  message: O person id do titular é obrigatório.
+- code: en-US
+  message: Person Id Owner Contract Required.

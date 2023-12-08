@@ -1,0 +1,9 @@
+messageCode: economic-condition-code-not-available-for-this-person-qualification-code
+messageDomain: cadastral
+summary: economic-condition-code-not-available-for-this-person-qualification-code
+type: error 
+languages:
+- code: pt-BR
+  message: Condição Econômica não disponível para essa pessoa.
+- code: en-US
+  message: Economia Condition Code not Avaible for this person qualification code.

@@ -1,0 +1,9 @@
+messageCode: device-holder-id-is-required
+messageDomain: cadastral
+summary: device-holder-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do Portador é obrigatório.
+- code: en-US
+  message: device holder id is required.

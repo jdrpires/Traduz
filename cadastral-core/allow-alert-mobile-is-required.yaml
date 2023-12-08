@@ -1,0 +1,9 @@
+messageCode: allow-alert-mobile-is-required
+messageDomain: cadastral-core
+summary: Allow alert mobile is required.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador se autoriza envio de alerta por SMS não informado.
+- code: en-US
+  message: Allow alert mobile is required.

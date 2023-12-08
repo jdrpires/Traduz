@@ -1,0 +1,9 @@
+messageCode: ID_CON0259
+messageDomain: cadastral
+summary: ID_CON0259 - Error updating device cancellation on table.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao atualizar o cancelamento do dispositivo na tabela.
+- code: en-US
+  message: Error updating device cancellation on table.

@@ -1,0 +1,9 @@
+messageCode: ID_CDV0122
+messageDomain: cadastral-core
+summary: ID_CDV0122 - Limit value not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Valor do limite não informado
+- code: en-US
+  message: Limit value not reported.

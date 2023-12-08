@@ -1,0 +1,9 @@
+messageCode: ID_CP0196
+messageDomain: cadastral-core
+summary: ID_CP0196 - Failed to exclude usage type.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro exclusão de tipo de uso.
+- code: en-US
+  message: Failed to exclude usage type.

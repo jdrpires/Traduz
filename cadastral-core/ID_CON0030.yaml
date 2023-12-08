@@ -1,0 +1,13 @@
+messageCode: ID_CON0030
+messageDomain: cadastral-core
+summary: ID_CON0030 - Contract not found.
+type: error
+languages:
+- code: pt-BR
+  message: Contrato não encontrado.
+- code: en-US
+  message: Contract not found.
+- code: es-ES
+  message: Contrato no encontrado.
+- code: es-CL
+  message: Contrato no encontrado.

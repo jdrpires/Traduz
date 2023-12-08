@@ -1,0 +1,9 @@
+messageCode: ID_CON0362
+messageDomain: cadastral-core
+summary: ID_CON0362 - Cancelled subcontract.
+type: error
+languages:
+- code: pt-BR
+  message: Subcontrato Cancelado.
+- code: en-US
+  message: Cancelled subcontract.

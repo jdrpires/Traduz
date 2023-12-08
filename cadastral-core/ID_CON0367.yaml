@@ -1,0 +1,9 @@
+messageCode: ID_CON0367
+messageDomain: cadastral-core
+summary: ID_CON0367 - Acronym is required.
+type: error
+languages:
+- code: pt-BR
+  message: Acronimo não enviado.
+- code: en-US
+  message: Acronym is required.

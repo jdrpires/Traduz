@@ -1,0 +1,9 @@
+messageCode: ID_CON0314
+messageDomain: cadastral
+summary: ID_CON0314 - Unupdatable device situation.
+type: error 
+languages:
+- code: pt-BR
+  message: Situação do dispositivo não pode ser atualizada
+- code: en-US
+  message: Unupdatable device situation.

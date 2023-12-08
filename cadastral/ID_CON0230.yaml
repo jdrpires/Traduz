@@ -1,0 +1,9 @@
+messageCode: ID_CON0230
+messageDomain: cadastral
+summary: ID_CON0230 - Operational function reference not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Função operacional de referência não informada
+- code: en-US
+  message: Operational function reference not informed.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0297
+messageDomain: cadastral-core
+summary: ID_CON0297 - Unity code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código de unidade não informado
+- code: en-US
+  message: Unity code not informed.

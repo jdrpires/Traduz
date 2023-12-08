@@ -1,0 +1,9 @@
+messageCode: ID_CP0199
+messageDomain: cadastral-core
+summary: ID_CP0199 - Contract is required.
+type: error
+languages:
+- code: pt-BR
+  message: Contrato não informado.
+- code: en-US
+  message: Contract is required.

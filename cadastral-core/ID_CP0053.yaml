@@ -1,0 +1,9 @@
+messageCode: ID_CP0053
+messageDomain: cadastral-core
+summary: ID_CP0053 - Invalid preferred email indicator.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador email preferencial inválido.
+- code: en-US
+  message: Invalid preferred email indicator.

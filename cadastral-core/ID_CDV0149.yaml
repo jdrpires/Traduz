@@ -1,0 +1,13 @@
+messageCode: ID_CDV0149
+messageDomain: cadastral-core
+summary: ID_CDV0149 - Indicator for searching for contract locks not informed.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador para pesquisa de bloqueios do contrato não informado.
+- code: en-US
+  message: Indicator for searching for contract locks not informed.
+- code: es-ES
+  message: Indicador para buscar bloques de contratos no informados.
+- code: es-CL
+  message: Indicador para buscar bloques de contratos no informados.

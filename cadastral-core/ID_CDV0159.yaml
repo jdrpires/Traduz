@@ -1,0 +1,9 @@
+messageCode: ID_CDV0159
+messageDomain: cadastral-core
+summary: ID_CDV0159 - Indicator for subcontract data search not informed.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador para pesquisa de dados do subcontrato não informado.
+- code: en-US
+  message: Indicator for subcontract data search not informed.

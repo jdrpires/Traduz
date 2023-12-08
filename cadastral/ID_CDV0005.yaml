@@ -1,0 +1,9 @@
+messageCode: ID_CDV0005
+messageDomain: cadastral
+summary: ID_CDV0005 - Parameter not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Parametro não encontrado
+- code: en-US
+  message: Parameter not found.

@@ -1,0 +1,9 @@
+messageCode: ID_CON282
+messageDomain: cadastral
+summary: ID_CON282 - brandcoe information not found
+type: error 
+languages:
+- code: pt-BR
+  message: Informações sobre a bandeira não encontrada
+- code: en-US
+  message: brandcoe information not found

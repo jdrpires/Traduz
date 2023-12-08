@@ -1,0 +1,9 @@
+messageCode: ID_CP0269
+messageDomain: cadastral-core
+summary: ID_CP0269 - Invalid income type.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de renda inválido.
+- code: en-US
+  message: Invalid income type.

@@ -1,0 +1,9 @@
+messageCode: device-or-card-refer-are-required
+messageDomain: cadastral-core
+summary: device-or-card-refer-are-required
+type: error
+languages:
+- code: pt-BR
+  message: Device id ou card Refer devem ser informados.
+- code: en-US
+  message: Device or card refer must be informed.

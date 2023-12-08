@@ -1,0 +1,9 @@
+messageCode: ID_CON0149
+messageDomain: cadastral
+summary: ID_CON0149 - Address ID is needed for physical device.
+type: error 
+languages:
+- code: pt-BR
+  message: Sequência do endereço e/ou indicador responsável pela sequencia de endereço obrigatórios para dispositivo físico.
+- code: en-US
+  message: Address ID is needed for physical device.

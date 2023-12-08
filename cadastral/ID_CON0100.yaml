@@ -1,0 +1,9 @@
+messageCode: ID_CON0100
+messageDomain: cadastral
+summary: ID_CON0100 - There is no main account for this device.
+type: error 
+languages:
+- code: pt-BR
+  message: Não existe conta principal para este dispositivo.
+- code: en-US
+  message: There is no main account for this device.

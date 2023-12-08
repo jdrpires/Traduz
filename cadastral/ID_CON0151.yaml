@@ -1,0 +1,9 @@
+messageCode: ID_CON0151
+messageDomain: cadastral
+summary: ID_CON0151 - An error occurred during search.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro na consulta.
+- code: en-US
+  message: An error occurred during search.

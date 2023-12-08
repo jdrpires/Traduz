@@ -1,0 +1,9 @@
+messageCode: ID_CON0386
+messageDomain: cadastral-core
+summary: ID_CON0386 - Grouping not Found.
+type: error
+languages:
+- code: pt-BR
+  message: Agrupamento não encontrado.
+- code: en-US
+  message: Grouping not Found.

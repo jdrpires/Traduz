@@ -1,0 +1,9 @@
+messageCode: ID_CON0234
+messageDomain: cadastral
+summary: ID_CON0234 - Company print indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de impressão de empresa não informado
+- code: en-US
+  message: Company print indicator not informed.

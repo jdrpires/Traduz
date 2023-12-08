@@ -1,0 +1,9 @@
+messageCode: direct-inclusion-of-derivative-limit-not-allowed
+messageDomain: cadastral
+summary: direct-inclusion-of-derivative-limit-not-allowed
+type: error 
+languages:
+- code: pt-BR
+  message: Inclusão direta de limite derivado não permitida.
+- code: en-US
+  message: Direct inclusion of derivative limit not allowed.

@@ -1,0 +1,9 @@
+messageCode: device-type-code-is-required
+messageDomain: cadastral
+summary: device-type-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do tipo de dispositivo é obrigatório.
+- code: en-US
+  message: Device type code is required.

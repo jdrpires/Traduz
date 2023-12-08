@@ -1,0 +1,9 @@
+messageCode: ID_CP0212
+messageDomain: cadastral-core
+summary: ID_CP0212 - There is no physical or email address association for the search arguments.
+type: error 
+languages:
+- code: pt-BR
+  message: Não há associação de endereço físico ou eletrônico para os argumentos de pesquisa.
+- code: en-US
+  message: There is no physical or email address association for the search arguments.

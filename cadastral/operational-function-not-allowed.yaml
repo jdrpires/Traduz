@@ -1,0 +1,9 @@
+messageCode: operational-function-not-allowed
+messageDomain: cadastral
+summary: operational-function-not-allowed
+type: error 
+languages:
+- code: pt-BR
+  message: função operacional não permitida
+- code: en-US
+  message: Operational function not allowed

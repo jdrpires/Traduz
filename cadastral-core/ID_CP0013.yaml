@@ -1,0 +1,9 @@
+messageCode: ID_CP0013
+messageDomain: cadastral-core
+summary: ID_CP0013 - No segment found for this customer.
+type: error 
+languages:
+- code: pt-BR
+  message: Não foi localizado segmento para esse cliente
+- code: en-US
+  message: No segment found for this customer.

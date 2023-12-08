@@ -1,0 +1,9 @@
+messageCode: this-contract-is-blocked-for-renewal
+messageDomain: cadastral
+summary: this-contract-is-blocked-for-renewal
+type: error 
+languages:
+- code: pt-BR
+  message: Este contrato está bloqueado para renovação.
+- code: en-US
+  message: This contract is blocked for renewal.

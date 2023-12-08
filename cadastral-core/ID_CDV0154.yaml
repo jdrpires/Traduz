@@ -1,0 +1,13 @@
+messageCode: ID_CDV0154
+messageDomain: cadastral-core
+summary: ID_CDV0154 - BlockFormat not sent.
+type: error
+languages:
+- code: pt-BR
+  message: BlockFormat não enviado.
+- code: en-US
+  message: BlockFormat not sent.
+- code: es-CL
+  message: BlockFormat no enviado.
+- code: es-ES
+  message: BlockFormat no enviado.

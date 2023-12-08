@@ -1,0 +1,13 @@
+messageCode: device-reissuing-in-process
+messageDomain: cadastral-core
+summary: device-reissuing-in-process
+type: error
+languages:
+- code: pt-BR
+  message: Reemissão do dispositivo em processamento.
+- code: en-US
+  message: Device reissuing in process.
+- code: es-CL
+  message: Reemisión del dispositivo en proceso.
+- code: es-ES
+  message: Reemisión del dispositivo en proceso.

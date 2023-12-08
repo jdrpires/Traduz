@@ -1,0 +1,11 @@
+messageCode: ID_PM0021
+messageDomain: cadastral
+summary: ID_PM0021 - Zip code overlap error
+type: error
+languages:
+- code: pt-BR
+  message: Faixa de CEP de Risco está sobrepondo uma outra Faixa de CEP de Risco.
+- code: en-US
+  message: Risk zip code range is overlapping another risk zip code range.
+- code: es-ES
+  message: El rango de código postal de riesgo se superpone a otro rango de código postal de riesgo.

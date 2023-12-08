@@ -1,0 +1,9 @@
+messageCode: email-address-is-required
+messageDomain: cadastral-core
+summary: Email address is required.
+type: error
+languages:
+- code: pt-BR
+  message: Obrigatório informar endereço de e-mail.
+- code: en-US
+  message: Email address is required.

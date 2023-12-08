@@ -1,0 +1,9 @@
+messageCode: ID_CP0195
+messageDomain: cadastral-core
+summary: ID_CP0195 - Usage type deleted.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de uso excluído.
+- code: en-US
+  message: Usage type deleted.

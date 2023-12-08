@@ -1,0 +1,9 @@
+messageCode: ID_ONB076
+messageDomain: cadastral-core
+summary: ID_ONB076 - Delivery unit type is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo da unidade de entrega não informado.
+- code: en-US
+  message: Delivery unit type is required.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0211
+messageDomain: cadastral-core
+summary: ID_CON0211 - Error generating log event.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na geração do evento de log
+- code: en-US
+  message: Error generating log event.

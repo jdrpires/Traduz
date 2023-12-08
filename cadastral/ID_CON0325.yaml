@@ -1,0 +1,9 @@
+messageCode: ID_CON0325
+messageDomain: cadastral
+summary: ID_CON0325 - A password sending request does not exists.
+type: error 
+languages:
+- code: pt-BR
+  message: Não existe uma solicitação de envio de senha
+- code: en-US
+  message: A password sending request does not exists.

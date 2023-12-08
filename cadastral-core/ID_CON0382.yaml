@@ -1,0 +1,9 @@
+messageCode: ID_CON0382
+messageDomain: cadastral-core
+summary: ID_CON0382 - Entry contract does not belong to the informed person.
+type: error
+languages:
+- code: pt-BR
+  message: Contrato enviado não pertence a pessoa informada.
+- code: en-US
+  message: Entry contract does not belong to the informed person.

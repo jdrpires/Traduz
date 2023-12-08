@@ -1,0 +1,9 @@
+messageCode: ID_CON0345
+messageDomain: cadastral-core
+summary: ID_CON0345 - Password label not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Rótulo de senha não enviado.
+- code: en-US
+  message: Password label not sent.

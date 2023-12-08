@@ -1,0 +1,13 @@
+messageCode: invalid-function-against-parameters
+messageDomain: cadastral-core
+summary: invalid-function-against-parameters
+type: error
+languages:
+- code: pt-BR
+  message: Funcionalidade inválida em parâmetros.
+- code: en-US
+  message: Invalid functionality in parameters.
+- code: es-ES
+  message: Funcionalidad no válida en los parámetros.
+- code: es-CL
+  message: Funcionalidad no válida en los parámetros.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0142
+messageDomain: cadastral
+summary: ID_CON0142 - Reissue is not permitted for cancelled devices.
+type: error 
+languages:
+- code: pt-BR
+  message: A reemissão não é permitida para dispositivos cancelados
+- code: en-US
+  message: Reissue is not permitted for cancelled devices.

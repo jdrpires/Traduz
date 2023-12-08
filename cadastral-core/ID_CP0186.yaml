@@ -1,0 +1,9 @@
+messageCode: ID_CP0186
+messageDomain: cadastral-core
+summary: ID_CP0186 - Reversal of change/inclusion of stakeholder performed.
+type: error 
+languages:
+- code: pt-BR
+  message: Reversão de alteração/inclusão de interveniente realizada
+- code: en-US
+  message: Reversal of change/inclusion of stakeholder performed.

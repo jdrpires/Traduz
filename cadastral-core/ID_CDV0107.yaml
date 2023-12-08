@@ -1,0 +1,9 @@
+messageCode: ID_CDV0107
+messageDomain: cadastral-core
+summary: ID_CDV0107 - Reference operational function not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Função operacional de referência não informada
+- code: en-US
+  message: Reference operational function not reported.

@@ -1,0 +1,11 @@
+messageCode: ID_PM0008
+messageDomain: cadastral
+summary: ID_PM0008 - Invalid range
+type: error
+languages:
+- code: pt-BR
+  message: Range Final deve ser maior ou igual ao Rage Inicial do BIN.
+- code: en-US
+  message: Final Range must be greater than or equal to the Initial Rage of the BIN.
+- code: es-ES
+  message: El rango final debe ser mayor o igual que el rango inicial del BIN.

@@ -1,0 +1,13 @@
+messageCode: segment-code-is-required
+messageDomain: cadastral
+summary: segment-code-is-required
+type: error
+languages:
+- code: pt-BR
+  message: O código de segmento é obrigatório.
+- code: en-US
+  message: Segment code is required.
+- code: es-ES
+  message: Se requiere código de segmento.
+- code: es-CL
+  message: Se requiere código de segmento.

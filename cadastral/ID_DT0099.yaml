@@ -1,0 +1,11 @@
+messageCode: ID_DT0099
+messageDomain: cadastral
+summary: Operation not performed. HSM service unavailable for generation of the Visa File.
+type: erro
+languages:
+- code: pt-BR
+  message: Operação não realizada. Serviço HSM para geração do Arquivo Visa indisponível.
+- code: en-US
+  message: Operation not performed. HSM service unavailable for generation of the Visa File.
+- code: es-ES
+  message: Operación no realizada. El servicio HSM para la generación de archivos de Visa no está disponible .

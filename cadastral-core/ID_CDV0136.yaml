@@ -1,0 +1,13 @@
+messageCode: ID_CDV0136
+messageDomain: cadastral-core
+summary: ID_CDV0136 - Cancelling Reason is required.
+type: error
+languages:
+- code: pt-BR
+  message: Motivo do cancelamento não informado.
+- code: en-US
+  message: Cancelling Reason is required.
+- code: es-ES
+  message: Banco, Sucursal o Cuenta no Encontrada.
+- code: es-CL
+  message: Banco, Sucursal o Cuenta no Encontrada.

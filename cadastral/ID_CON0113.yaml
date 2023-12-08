@@ -1,0 +1,9 @@
+messageCode: ID_CON0113
+messageDomain: cadastral
+summary: ID_CON0113 - There are no groups to be consulted.
+type: error 
+languages:
+- code: pt-BR
+  message: Não existem agrupamentos para serem consultados.
+- code: en-US
+  message: There are no groups to be consulted.

@@ -1,0 +1,9 @@
+messageCode: this-contract-already-has-another-owner
+messageDomain: cadastral-core
+summary: This contract already has another owner
+type: error
+languages:
+- code: pt-BR
+  message: Este contrato já possui outro titular.
+- code: en-US
+  message: This contract already has another owner.

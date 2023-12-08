@@ -1,0 +1,9 @@
+messageCode: ID_CON0279
+messageDomain: cadastral
+summary: ID_CON0279 - There is no devices related to the contract.
+type: error 
+languages:
+- code: pt-BR
+  message: Não há dispositivos relacionados ao contrato.
+- code: en-US
+  message: There is no devices related to the contract.

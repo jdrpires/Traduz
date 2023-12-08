@@ -1,0 +1,11 @@
+messageCode: ID_DT0097
+messageDomain: cadastral
+summary: Operation not performed. HSM service unavailable for generation of the Amex File.
+type: error
+languages:
+- code: pt-BR
+  message: Operação não realizada. Serviço HSM indisponível para geração do Arquivo Amex.
+- code: en-US
+  message: Operation not performed. HSM service unavailable for generation of the Amex File.
+- code: es-ES
+  message: Operación no realizada. Servicio HSM para la generación del archivo Amex no disponible.

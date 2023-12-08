@@ -1,0 +1,9 @@
+messageCode: ID_CON0300
+messageDomain: cadastral
+summary: ID_CON0300 - Password sending mode indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador modo envío de senha não informado
+- code: en-US
+  message: Password sending mode indicator not informed.

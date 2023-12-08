@@ -1,0 +1,9 @@
+messageCode: error-at-device-inclusion
+messageDomain: cadastral
+summary: error-at-device-inclusion
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na inclusão do dispositivo.
+- code: en-US
+  message: Error at device inclusion.

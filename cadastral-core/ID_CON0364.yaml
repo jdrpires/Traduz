@@ -1,0 +1,13 @@
+messageCode: ID_CON0364
+messageDomain: cadastral-core
+summary: ID_CON0364 - Subcontract is required.
+type: error
+languages:
+- code: pt-BR
+  message: Subcontrato não informado.
+- code: en-US
+  message: Subcontract is required.
+- code: es-ES
+  message: Subcontrato no informado.
+- code: es-CL
+  message: Subcontrato no informado.

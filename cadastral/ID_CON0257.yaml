@@ -1,0 +1,9 @@
+messageCode: ID_CON0257
+messageDomain: cadastral
+summary: ID_CON0257 - Device not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo não informado na entrada
+- code: en-US
+  message: Device not informed.

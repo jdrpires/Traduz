@@ -1,0 +1,9 @@
+messageCode: ID_CP0284
+messageDomain: cadastral-core
+summary: ID_CP0284 - Invalid allow info mobile indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador se permite envio de informações para celular inválido.
+- code: en-US
+  message: Invalid allow info mobile indicator.

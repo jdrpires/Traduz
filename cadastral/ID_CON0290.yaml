@@ -1,0 +1,9 @@
+messageCode: ID_CON0290
+messageDomain: cadastral
+summary: ID_CON0290 - Grouping not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Agrupamento não enviado
+- code: en-US
+  message: Grouping not sent.

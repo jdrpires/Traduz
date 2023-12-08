@@ -1,0 +1,9 @@
+messageCode: ID_CON0208
+messageDomain: cadastral
+summary: ID_CON0208 - Contract does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato Inexistente.
+- code: en-US
+  message: Contract does not exist.

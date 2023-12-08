@@ -1,0 +1,13 @@
+messageDomain: cadastral
+messageCode: operation-performed-successfully
+type: error
+summary: operation-performed-successfully
+languages:
+  - code: pt-BR
+    message: Operacao realizada com sucesso.
+  - code: en-US
+    message: Operation performed successfully.
+  - code: es-ES
+    message: Operación realizada con éxito.
+  - code: es-CL
+    message: Operación realizada con éxito.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0321
+messageDomain: cadastral
+summary: ID_CON0321 - Required transaction Id. Operation suspended.
+type: error 
+languages:
+- code: pt-BR
+  message: O Id da transação não foi enviado. Operação suspensa
+- code: en-US
+  message: Required transaction Id. Operation suspended.

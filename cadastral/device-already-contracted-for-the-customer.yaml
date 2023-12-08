@@ -1,0 +1,9 @@
+messageCode: device-already-contracted-for-the-customer
+messageDomain: cadastral
+summary: device-already-contracted-for-the-customer
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo já contratado para o cliente.
+- code: en-US
+  message: Device already contracted for the customer

@@ -1,0 +1,9 @@
+messageCode: ID_ONB0007
+messageDomain: cadastral-core
+summary: ID_ONB0007 - Sale channel is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Canal de Venda não informado.
+- code: en-US
+  message: Sale channel is required.

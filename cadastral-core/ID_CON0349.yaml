@@ -1,0 +1,9 @@
+messageCode: ID_CON0349
+messageDomain: cadastral-core
+summary: ID_CON0349 - Device Locked.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo Bloqueado.
+- code: en-US
+  message: Device Locked.

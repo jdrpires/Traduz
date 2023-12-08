@@ -1,0 +1,13 @@
+messageCode: invalid-derivative-stamping-product-subproduct
+messageDomain: cadastral-core
+summary: invalid-derivative-stamping-product-subproduct
+type: error 
+languages:
+- code: pt-BR
+  message: Código de derivação de estampação ou derivação de tipo de dispositivo inválido para produto e subproduto recebidos.
+- code: en-US
+  message: Invalid derivative stamping code our derivative device type code for entered product/subproduct.
+- code: es-ES
+  message: Código de derivación de impresión o derivación del tipo de dispositivo no válido para el producto y por producto.
+- code: es-CL
+  message: Código de derivación de impresión o derivación del tipo de dispositivo no válido para el producto y por producto.

@@ -1,0 +1,9 @@
+messageCode: quantity-holders-not-allowed
+messageDomain: cadastral-core
+summary: quantity-holders-not-allowed
+type: error 
+languages:
+- code: pt-BR
+  message: Quantidade de portadores não permitida.
+- code: en-US
+  message: Quantity holders not allowed.

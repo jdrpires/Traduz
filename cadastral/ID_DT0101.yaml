@@ -1,0 +1,11 @@
+messageCode: ID_DT0101
+messageDomain: cadastral
+summary: Operation not performed. Upload files with error
+type: error
+languages:
+- code: pt-BR
+  message: Operação não realizada. Upload arquivos com erro.
+- code: en-US
+  message: Operation not performed. Upload files with error.
+- code: es-ES
+  message: Operación no realizada. Cargar archivos con error.

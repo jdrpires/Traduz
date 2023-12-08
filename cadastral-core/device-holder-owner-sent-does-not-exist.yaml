@@ -1,0 +1,9 @@
+messageCode: device-holder-owner-sent-does-not-exist
+messageDomain: cadastral-core
+summary: Device_holder_owner sent does not exist
+type: error
+languages:
+- code: pt-BR
+  message: O responsável pelo beneficiário enviado na entrada não existe.
+- code: en-US
+  message: Device_holder_owner sent does not exist.

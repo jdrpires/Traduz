@@ -1,0 +1,9 @@
+messageCode: ID_CP0295
+messageDomain: cadastral-core
+summary: ID_CP0295 - Invalid voter registration sector.
+type: error 
+languages:
+- code: pt-BR
+  message: Setor do título de eleitor inválido.
+- code: en-US
+  message: Invalid voter registration sector.

@@ -1,0 +1,9 @@
+messageCode: ID_CP0153
+messageDomain: cadastral-core
+summary: ID_CP0153 - Invalid device holder type code.
+type: error 
+languages:
+- code: pt-BR
+  message: Código do tipo de beneficiário inválido.
+- code: en-US
+  message: Invalid device holder type code.

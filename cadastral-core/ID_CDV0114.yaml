@@ -1,0 +1,9 @@
+messageCode: ID_CDV0114
+messageDomain: cadastral-core
+summary: ID_CDV0114 - Name printing indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de impressão de nome não informado
+- code: en-US
+  message: Name printing indicator not informed.

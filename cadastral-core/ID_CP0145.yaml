@@ -1,0 +1,9 @@
+messageCode: ID_CP0145
+messageDomain: cadastral-core
+summary: ID_CP0145 - Address person relationship error.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro relação pessoa endereço
+- code: en-US
+  message: Address person relationship error.

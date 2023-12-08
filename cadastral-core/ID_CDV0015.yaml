@@ -1,0 +1,13 @@
+messageCode: ID_CDV0015
+messageDomain: cadastral-core
+summary: ID_CDV0015 - Invalid data received.
+type: error
+languages:
+- code: pt-BR
+  message: Dados recebidos estão inválidos.
+- code: en-US
+  message: Invalid data received.
+- code: es-ES
+  message: Datos no válidos recibidos.
+- code: es-CL
+  message: Datos no válidos recibidos.

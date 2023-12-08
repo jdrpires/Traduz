@@ -1,0 +1,11 @@
+messageCode: ID_PR0001
+messageDomain: cadastral
+summary: ID_PR0001 - Not found
+type: error
+languages:
+- code: pt-BR
+  message: Registro(s) nao encontrado(s).
+- code: en-US
+  message: Record(s) not found.
+- code: es-ES
+  message: Registro(s) no encontrado(s).

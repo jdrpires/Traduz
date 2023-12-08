@@ -1,0 +1,9 @@
+messageCode: ID_CP0031
+messageDomain: cadastral-core
+summary: ID_CP0031 - Invalid marital-status
+type: error 
+languages:
+- code: pt-BR
+  message: Estado civil informado não existe
+- code: en-US
+  message: Invalid marital-status

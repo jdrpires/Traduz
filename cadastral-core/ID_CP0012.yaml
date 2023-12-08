@@ -1,0 +1,9 @@
+messageCode: ID_CP0012
+messageDomain: cadastral-core
+summary: ID_CP0012 - No intervening participants or owner was found for the contract.
+type: error 
+languages:
+- code: pt-BR
+  message: Não foram localizados intervenientes  participantes e titulares para esse contrato
+- code: en-US
+  message: No intervening participants or owner was found for the contract.

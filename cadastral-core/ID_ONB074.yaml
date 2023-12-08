@@ -1,0 +1,9 @@
+messageCode: ID_ONB074
+messageDomain: cadastral-core
+summary: ID_ONB074 - Device delivery mode is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Modo de entrega do dispositivo não informado.
+- code: en-US
+  message: Device delivery mode is required.

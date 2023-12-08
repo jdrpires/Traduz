@@ -1,0 +1,9 @@
+messageCode: ID_CON0145
+messageDomain: cadastral-core
+summary: ID_CON0145 - Cancelled contract.
+type: error 
+languages:
+- code: pt-BR
+  message: O Contrato encontra-se cancelado
+- code: en-US
+  message: Cancelled contract.

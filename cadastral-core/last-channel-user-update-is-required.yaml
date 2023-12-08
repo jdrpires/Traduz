@@ -1,0 +1,13 @@
+messageCode: last-channel-user-update-is-required
+messageDomain: cadastral-core
+summary: last-channel-user-update-is-required - Last channel user update is required
+type: error
+languages:
+- code: pt-BR
+  message: A última atualização do usuário do canal é obrigatória.
+- code: en-US
+  message: Last channel user update is required
+- code: es-ES
+  message: Se requiere la última actualización del usuario del canal.
+- code: es-CL
+  message: Se requiere la última actualización del usuario del canal.

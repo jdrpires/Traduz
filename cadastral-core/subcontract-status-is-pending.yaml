@@ -1,0 +1,9 @@
+messageCode: subcontract-status-is-pending
+messageDomain: cadastral-core
+summary: subcontract-status-is-pending
+type: error
+languages:
+- code: pt-BR
+  message: Status do subcontrato está pendente.
+- code: en-US
+  message: subcontract status is pending.

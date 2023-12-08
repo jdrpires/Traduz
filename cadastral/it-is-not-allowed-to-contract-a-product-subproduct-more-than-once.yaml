@@ -1,0 +1,9 @@
+messageCode: it-is-not-allowed-to-contract-a-product-subproduct-more-than-once
+messageDomain: cadastral
+summary: it-is-not-allowed-to-contract-a-product-subproduct-more-than-once
+type: error 
+languages:
+- code: pt-BR
+  message: Não é permitida a contratação de um produto/subproduto mais de uma vez
+- code: en-US
+  message: It is not allowed to contract a product/subproduct more than once

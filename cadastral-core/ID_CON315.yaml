@@ -1,0 +1,9 @@
+messageCode: ID_CON315
+messageDomain: cadastral-core
+summary: ID_CON315 - Invalid function agaisnt parameters.
+type: error 
+languages:
+- code: pt-BR
+  message: Funcionalidade inválida em parâmetros
+- code: en-US
+  message: Invalid function agaisnt parameters.

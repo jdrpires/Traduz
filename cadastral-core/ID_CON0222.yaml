@@ -1,0 +1,9 @@
+messageCode: ID_CON0222
+messageDomain: cadastral-core
+summary: ID_CON0222 - person_id of the bearer not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: person_id do portador não informado
+- code: en-US
+  message: person_id of the bearer not informed.

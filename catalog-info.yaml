@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "atualiza-mensagem-erro"
+  template: blank-template
+  description: "programa em python para ajuste das mensagens de erro do serviço sharedservices-mensagens-erro-info-data-repository"
+  annotations:
+    github.com/project-slug: f1rst-odin-org/atualiza-mensagem
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "shared-services"

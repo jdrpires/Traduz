@@ -1,0 +1,9 @@
+messageCode: ID_CP0070
+messageDomain: cadastral-core
+summary: ID_CP0070 - Invalid main document indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador documento principal informado inválido
+- code: en-US
+  message: Invalid main document indicator.

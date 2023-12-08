@@ -1,0 +1,9 @@
+messageCode: property-value-is-required
+messageDomain: cadastral
+summary: property-value-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: O valor da propriedade é necessário.
+- code: en-US
+  message: Property value is required.

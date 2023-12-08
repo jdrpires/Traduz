@@ -1,0 +1,8 @@
+site_name: "atualiza-mensagem-erro"
+site_description: "programa em python para ajuste das mensagens de erro do serviço sharedservices-mensagens-erro-info-data-repository"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

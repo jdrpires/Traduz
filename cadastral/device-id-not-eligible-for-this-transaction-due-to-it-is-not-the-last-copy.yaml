@@ -1,0 +1,9 @@
+messageCode: device-id-not-eligible-for-this-transaction-due-to-it-is-not-the-last-copy
+messageDomain: cadastral
+summary: device-id-not-eligible-for-this-transaction-due-to-it-is-not-the-last-copy
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo não elegível para esta transação, pois esta não é a última via.
+- code: en-US
+  message: Device id not eligible for this transaction due to it is not the last copy.

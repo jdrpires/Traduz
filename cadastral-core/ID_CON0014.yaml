@@ -1,0 +1,9 @@
+messageCode: ID_CON0014
+messageDomain: cadastral-core
+summary: ID_CON0014 - Inconsistent credit limit value - Non-numeric.
+type: error 
+languages:
+- code: pt-BR
+  message: Valor de limite de crédito inconsistente - Não numérico.
+- code: en-US
+  message: Inconsistent credit limit value - Non-numeric.

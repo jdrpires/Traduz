@@ -1,0 +1,9 @@
+messageCode: device-id-not-eligible-for-this-transaction-due-to-its-renovation-is-not-allowed
+messageDomain: cadastral
+summary: device-id-not-eligible-for-this-transaction-due-to-its-renovation-is-not-allowed
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo não elegível para esta transação, pois sua renovação não é autorizada.
+- code: en-US
+  message: Device id not eligible for this transaction due to its renovation is not allowed.

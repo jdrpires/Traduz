@@ -1,0 +1,9 @@
+messageCode: ID_CP0009
+messageDomain: cadastral-core
+summary: ID_CP0009 - No additional data was found for this customer.
+type: error 
+languages:
+- code: pt-BR
+  message: Não foram localizados dados complementares para esse cliente
+- code: en-US
+  message: No additional data was found for this customer.

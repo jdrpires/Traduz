@@ -1,0 +1,9 @@
+messageCode: ID_CON0187
+messageDomain: cadastral-core
+summary: ID_CON0187 - Device range different than expected.
+type: error
+languages:
+- code: pt-BR
+  message: Alcance dispositivo diferente do esperado
+- code: en-US
+  message: Device range different than expected.

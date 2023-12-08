@@ -1,0 +1,9 @@
+messageCode: subcontract-is-required
+messageDomain: cadastral
+summary: subcontract-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Subcontrato é obrigatório
+- code: en-US
+  message: subcontract is required

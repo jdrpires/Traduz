@@ -1,0 +1,9 @@
+messageCode: "ID_CON0015"
+messageDomain: "cadastral"
+summary: "ID_CON0015 - Inconsistent credit limit value - Value < R$ 0."
+type: "error"
+languages:
+- code: "pt-BR"
+  message: "Valor de limite de crédito inconsistente - Valor < R$ 000."
+- code: "en-US"
+  message: "Inconsistent credit limit value - Value < R$ 0."

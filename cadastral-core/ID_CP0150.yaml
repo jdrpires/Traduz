@@ -1,0 +1,9 @@
+messageCode: ID_CP0150
+messageDomain: cadastral-core
+summary: ID_CP0150 - Invalid Client Since date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data Cliente Desde é inválida
+- code: en-US
+  message: Invalid Client Since date.

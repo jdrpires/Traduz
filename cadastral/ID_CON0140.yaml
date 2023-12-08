@@ -1,0 +1,9 @@
+messageCode: ID_CON0140
+messageDomain: cadastral
+summary: ID_CON0140 - Device does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo Inexistente
+- code: en-US
+  message: Device does not exist.

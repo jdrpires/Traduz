@@ -1,0 +1,9 @@
+messageCode: ID_CP0267
+messageDomain: cadastral-core
+summary: ID_CP0267 - Invalid district name.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome do Bairro inválido.
+- code: en-US
+  message: Invalid district name.

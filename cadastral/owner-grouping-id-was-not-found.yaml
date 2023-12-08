@@ -1,0 +1,9 @@
+messageCode: owner-grouping-id-was-not-found
+messageDomain: cadastral
+summary: owner-grouping-id-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: Código do beneficiário não encontrado.
+- code: en-US
+  message: Owner grouping id was not found.

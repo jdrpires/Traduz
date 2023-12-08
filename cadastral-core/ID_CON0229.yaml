@@ -1,0 +1,9 @@
+messageCode: ID_CON0229
+messageDomain: cadastral-core
+summary: ID_CON0229 - Operational function not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Função operacional não informada
+- code: en-US
+  message: Operational function not informed.

@@ -1,0 +1,11 @@
+messageCode: ID_CON0231
+messageDomain: cadastral-core
+summary: ID_CON0231 - Device type not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de Dispositivo não informado
+- code: en-US
+  message: Device type not informed.
+- code: es-ES
+  message: Tipo de dispositivo desconocido

@@ -1,0 +1,9 @@
+messageCode: ID_CDV0134
+messageDomain: cadastral-core
+summary: ID_CDV0134 - Beneficiary type not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de beneficiário não informado
+- code: en-US
+  message: Beneficiary type not informed.

@@ -1,0 +1,11 @@
+messageCode: ID_TC0002
+messageDomain: cadastral
+summary: ID_TC0002 - Success
+type: info
+languages:
+- code: pt-BR
+  message: Registros encontrados com sucesso.
+- code: en-US
+  message: Records found successfully.
+- code: es-ES
+  message: Registros encontrados con exito.

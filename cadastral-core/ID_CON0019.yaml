@@ -1,0 +1,9 @@
+messageCode: ID_CON0019
+messageDomain: cadastral-core
+summary: ID_CON0019 - Inconsistent client type.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de beneficiario inconsistente.
+- code: en-US
+  message: Inconsistent client type.

@@ -1,0 +1,9 @@
+messageCode: -2
+messageDomain: cadastral
+summary: -2 - Unexpected Error.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro Inesperado.
+- code: en-US
+  message: Unexpected Error.

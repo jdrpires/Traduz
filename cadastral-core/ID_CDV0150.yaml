@@ -1,0 +1,13 @@
+messageCode: ID_CDV0150
+messageDomain: cadastral-core
+summary: ID_CDV0150 - Error calling contract service.
+type: error
+languages:
+- code: pt-BR
+  message: Erro ao chamar o serviço de contrato.
+- code: en-US
+  message: Error calling contract service.Erro ao chamar o serviço de contrato
+- code: es-ES
+  message: Error al llamar al servicio de contrato.
+- code: es-CL
+  message: Error al llamar al servicio de contrato.

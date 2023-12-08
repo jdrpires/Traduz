@@ -1,0 +1,9 @@
+messageCode: ID_CON0210
+messageDomain: cadastral-core
+summary: ID_CON0210 - Account information not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Informação de conta não enviada.
+- code: en-US
+  message: Account information not sent.

@@ -1,0 +1,9 @@
+messageCode: subcontractid-not-found
+messageDomain: cadastral-core
+summary: subcontractid-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: SubContrato não encontrado.
+- code: en-US
+  message: subContractId not found

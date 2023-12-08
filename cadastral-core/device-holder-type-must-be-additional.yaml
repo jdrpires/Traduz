@@ -1,0 +1,9 @@
+messageCode: device-holder-type-must-be-additional
+messageDomain: cadastral-core
+summary: Device holder type must be additional.
+type: error
+languages:
+- code: pt-BR
+  message: Tipo de portador deve ser adicional.
+- code: en-US
+  message: Device holder type must be additional.

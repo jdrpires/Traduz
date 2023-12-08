@@ -1,0 +1,9 @@
+messageCode: ID_CON0036
+messageDomain: cadastral
+summary: ID_CON0036 - Invalid device type for informed product/subproduct.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de dispositivo inválido para produto/subproduto
+- code: en-US
+  message: Invalid device type for informed product/subproduct.

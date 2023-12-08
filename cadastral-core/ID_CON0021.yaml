@@ -1,0 +1,9 @@
+messageCode: ID_CON0021
+messageDomain: cadastral-core
+summary: ID_CON0021 - Client already exists.
+type: error 
+languages:
+- code: pt-BR
+  message: Beneficiário já existe.
+- code: en-US
+  message: Client already exists.

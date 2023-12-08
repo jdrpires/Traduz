@@ -1,0 +1,9 @@
+messageCode: ID_CP0095
+messageDomain: cadastral-core
+summary: ID_CP0095 - Invalid segment date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data Segmentação inválido
+- code: en-US
+  message: Invalid segment date.

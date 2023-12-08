@@ -1,0 +1,9 @@
+messageCode: ID_CP0198
+messageDomain: cadastral-core
+summary: ID_CP0198 - Uninformed person.
+type: error 
+languages:
+- code: pt-BR
+  message: Pessoa não informada
+- code: en-US
+  message: Uninformed person.

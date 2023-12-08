@@ -1,0 +1,9 @@
+messageCode: ID_CP0271
+messageDomain: cadastral-core
+summary: ID_CP0271 - Invalid income periodicity.
+type: error 
+languages:
+- code: pt-BR
+  message: Peridiocidade de renda inválido.
+- code: en-US
+  message: Invalid income periodicity.

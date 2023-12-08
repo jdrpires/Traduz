@@ -1,0 +1,9 @@
+messageCode: ID_CP0050
+messageDomain: cadastral-core
+summary: ID_CP0050 - Phone class does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Classe telefone não existe
+- code: en-US
+  message: Phone class does not exist.

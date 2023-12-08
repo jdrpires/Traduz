@@ -1,0 +1,9 @@
+messageCode: ID_ONB059
+messageDomain: cadastral-core
+summary: ID_ONB059 - Brand code is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Código da bandeira não informado.
+- code: en-US
+  message: Brand code is required.

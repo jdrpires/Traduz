@@ -1,0 +1,9 @@
+messageCode: ID_CON0298
+messageDomain: cadastral-core
+summary: ID_CON0298 - Limit value not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Valor do limite não informado
+- code: en-US
+  message: Limit value not informed.

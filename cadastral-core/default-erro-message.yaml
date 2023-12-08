@@ -1,0 +1,9 @@
+messageCode: default-erro-message
+messageDomain: cadastral-core
+summary: default-erro-message - Unexpected error.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro inesperado.
+- code: en-US
+  message: Unexpected error.

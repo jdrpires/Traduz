@@ -1,0 +1,9 @@
+messageCode: contract-migrator-indicator-is-required
+messageDomain: cadastral
+summary: contract-migrator-indicator-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de migração do contrato é obrigatória.
+- code: en-US
+  message: Contract migrator indicator is required.

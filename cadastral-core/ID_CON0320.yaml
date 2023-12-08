@@ -1,0 +1,9 @@
+messageCode: ID_CON0320
+messageDomain: cadastral-core
+summary: ID_CON0320 - Inconsistent block extension
+type: error 
+languages:
+- code: pt-BR
+  message: Alcance de bloqueio inconsistente
+- code: en-US
+  message: Inconsistent block extension

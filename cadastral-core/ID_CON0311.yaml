@@ -1,0 +1,9 @@
+messageCode: ID_CON0311
+messageDomain: cadastral-core
+summary: ID_CON0311 - Divergent password.
+type: error 
+languages:
+- code: pt-BR
+  message: Senha divergente
+- code: en-US
+  message: Divergent password.

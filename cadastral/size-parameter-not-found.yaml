@@ -1,0 +1,11 @@
+messageDomain: cadastral
+messageCode: size-parameter-not-found
+type: error
+summary: incomplete-pagination-parameters
+languages:
+  - code: pt-BR
+    message: Foram encontrados parâmetros de paginação incompletos. O parâmetro de consulta 'size' deve ser especificado quando a página é especificada.
+  - code: en-US
+    message: Incomplete pagination parameters found. 'size' query parameter must be specified when the page is specified.
+  - code: es-ES
+    message: Paramètres de pagination incomplets trouvés. Le paramètre de requête 'size' doit être spécifié lorsque la page est spécifiée.

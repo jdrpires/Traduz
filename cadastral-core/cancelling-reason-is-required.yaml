@@ -1,0 +1,9 @@
+messageCode: cancelling-reason-is-required
+messageDomain: cadastral-core
+summary: Cancelling Reason is required
+type: error
+languages:
+- code: pt-BR
+  message: Motivo do cancelamento é obrigatório.
+- code: en-US
+  message: Cancelling Reason is required.

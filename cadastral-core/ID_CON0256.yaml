@@ -1,0 +1,9 @@
+messageCode: ID_CON0256
+messageDomain: cadastral-core
+summary: ID_CON0256 - Uninformed person.
+type: error 
+languages:
+- code: pt-BR
+  message: Pessoa não informada
+- code: en-US
+  message: Uninformed person.

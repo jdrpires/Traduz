@@ -1,0 +1,9 @@
+messageCode: ID_CDV0100
+messageDomain: cadastral-core
+summary: ID_CDV0100 - Person Code in the Origin System not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Código da Pessoa no Sistema Origem não enviado
+- code: en-US
+  message: Person Code in the Origin System not sent.

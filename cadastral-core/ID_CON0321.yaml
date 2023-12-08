@@ -1,0 +1,9 @@
+messageCode: ID_CON0321
+messageDomain: cadastral-core
+summary: ID_CON0321 - Transaction Id not sent. Operation suspended.
+type: error 
+languages:
+- code: pt-BR
+  message: O Id da transação não foi enviado. Operação suspensa.
+- code: en-US
+  message: Transaction Id not sent. Operation suspended.

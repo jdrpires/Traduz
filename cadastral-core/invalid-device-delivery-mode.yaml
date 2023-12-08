@@ -1,0 +1,9 @@
+messageCode: invalid-device-delivery-mode
+messageDomain: cadastral-core
+summary: invalid-device-delivery-mode
+type: error
+languages:
+- code: pt-BR
+  message: Modo de envio do dispositivo inválido
+- code: en-US
+  message: invalid device delivery mode

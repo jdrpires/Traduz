@@ -1,0 +1,9 @@
+messageCode: allow-info-mobile-is-required
+messageDomain: cadastral-core
+summary: Allow info mobile is required.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador se autoriza o envio de informações para o celular não informado.
+- code: en-US
+  message: Allow info mobile is required.

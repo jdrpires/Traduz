@@ -1,0 +1,13 @@
+messageCode: ID_CDV0148
+messageDomain: cadastral-core
+summary: ID_CDV0148 - Invalid lock extension.
+type: error
+languages:
+- code: pt-BR
+  message: Extensão de bloqueio inválida.
+- code: en-US
+  message: Invalid information sent.
+- code: es-ES
+  message: Extensión de bloqueo no válida.
+- code: es-CL
+  message: Extensión de bloqueo no válida.

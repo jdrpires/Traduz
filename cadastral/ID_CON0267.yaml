@@ -1,0 +1,9 @@
+messageCode: ID_CON0267
+messageDomain: cadastral
+summary: ID_CON0267 - Contract has a block that does not allow reissue.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato contém bloqueio que não permite remissão.
+- code: en-US
+  message: Contract has a block that does not allow reissue.

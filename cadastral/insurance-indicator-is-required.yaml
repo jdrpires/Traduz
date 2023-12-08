@@ -1,0 +1,9 @@
+messageCode: insurance-indicator-is-required
+messageDomain: cadastral
+summary: insurance-indicator-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de seguro é obrigatório.
+- code: en-US
+  message: Insurance indicator is required.

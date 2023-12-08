@@ -1,0 +1,11 @@
+messageCode: ID_PM0011
+messageDomain: cadastral
+summary: ID_PM0011 - Invalid CEP range
+type: error
+languages:
+- code: pt-BR
+  message: Faixa de CEP Final deve ser maior ou igual a Faixa de CEP Inicial.
+- code: en-US
+  message: Final CEP Range must be greater than or equal to Initial CEP Range.
+- code: es-ES
+  message: El rango de CEP final debe ser mayor o igual que el rango de CEP inicial.

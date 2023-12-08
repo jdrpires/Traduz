@@ -1,0 +1,9 @@
+messageCode: ID_CDV0117
+messageDomain: cadastral-core
+summary: ID_CDV0117 - Password sending mode indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador modo de envio de senha não informado
+- code: en-US
+  message: Password sending mode indicator not informed.

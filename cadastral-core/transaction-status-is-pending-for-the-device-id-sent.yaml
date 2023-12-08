@@ -1,0 +1,9 @@
+messageCode: transaction-status-is-pending-for-the-device-id-sent
+messageDomain: cadastral-core
+summary: transaction-status-is-pending-for-the-device-id-sent
+type: error 
+languages:
+- code: pt-BR
+  message: O status da transação está pendente para o dispositivo informado.
+- code: en-US
+  message: Transaction status is pending for the device id sent.

@@ -1,0 +1,9 @@
+messageCode: ID_CON0360
+messageDomain: cadastral-core
+summary: ID_CON0360 - Current account not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Conta Corrente Inexistente.
+- code: en-US
+  message: Current account not found.

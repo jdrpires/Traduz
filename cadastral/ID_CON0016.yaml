@@ -1,0 +1,9 @@
+messageCode: ID_CON0016
+messageDomain: cadastral
+summary: ID_CON0016 - Inconsistent block. Not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Bloqueio inconsistente. Não localizado.
+- code: en-US
+  message: Inconsistent block. Not found.

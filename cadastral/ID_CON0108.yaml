@@ -1,0 +1,9 @@
+messageCode: ID_CON0108
+messageDomain: cadastral
+summary: ID_CON0108 - The are no products/subproducts for the contract.
+type: error 
+languages:
+- code: pt-BR
+  message: Não existem produtos / subprodutos para o contrato
+- code: en-US
+  message: The are no products/subproducts for the contract.

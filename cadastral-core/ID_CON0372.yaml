@@ -1,0 +1,9 @@
+messageCode: ID_CON0372
+messageDomain: cadastral-core
+summary: ID_CON0372 - There is no phone elegible for sending password by SMS.
+type: error 
+languages:
+- code: pt-BR
+  message: Não existe celular elegível para envio de senha por SMS.
+- code: en-US
+  message: There is no phone elegible for sending password by SMS.

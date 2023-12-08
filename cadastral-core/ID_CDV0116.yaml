@@ -1,0 +1,9 @@
+messageCode: ID_CDV0116
+messageDomain: cadastral-core
+summary: ID_CDV0116 - Device shipping mode indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de modo de envio do dispositivo não informado
+- code: en-US
+  message: Device shipping mode indicator not informed.

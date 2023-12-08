@@ -1,0 +1,9 @@
+messageCode: ID_CP0155
+messageDomain: cadastral-core
+summary: ID_CP0155 - Invalid cancel reason code.
+type: error 
+languages:
+- code: pt-BR
+  message: Código motivo cancelamento inválido
+- code: en-US
+  message: Invalid cancel reason code.

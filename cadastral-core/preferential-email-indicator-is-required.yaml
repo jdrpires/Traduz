@@ -1,0 +1,9 @@
+messageCode: preferential-email-indicator-is-required
+messageDomain: cadastral-core
+summary: Preferential email indicator is required.
+type: error
+languages:
+- code: pt-BR
+  message: Obrigatório informar Indicador Email Preferencial.
+- code: en-US
+  message: Preferential email indicator is required.

@@ -1,0 +1,9 @@
+messageCode: ID_ONB060
+messageDomain: cadastral-core
+summary: ID_ONB060 - Operational function is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Função operacional não informado.
+- code: en-US
+  message: Operational function is required.

@@ -1,0 +1,13 @@
+messageCode: subproductcode-is-required
+messageDomain: cadastral-core
+summary: subproductcode-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Código do subproduto é obrigatório.
+- code: en-US
+  message: subproductcode is required.
+- code: es-ES
+  message: Código de subproducto es obligatorio.
+- code: es-CL
+  message: Código de subproducto es obligatorio.

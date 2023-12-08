@@ -1,0 +1,11 @@
+messageCode: bian-duplicated-parameter
+messageDomain: cadastral
+summary: Duplicated parameter found during processing the request
+type: error
+languages:
+  - code: pt-BR
+    message: O parâmetro "{{parameterName}}" está duplicado, contendo os seguintes valores [{{values}}], revisar os parâmetros da query.
+  - code: en-US
+    message: The parameter "{{parameterName}}" is duplicated with following values [{{values}}] please review the query parameters.
+  - code: es-ES
+    message: El parámetro "{{parameterName}}" está duplicado con los siguientes valores [{{values}}]. Revise los parámetros de consulta.

@@ -1,0 +1,13 @@
+messageCode: pinblock-is-required
+messageDomain: cadastral-core
+summary: pinblock-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Senha é obrigatória.
+- code: en-US
+  message: Pinblock is required.
+- code: es-ES
+  message: Se requiere pinblock.
+- code: es-CL
+  message: Se requiere pinblock.

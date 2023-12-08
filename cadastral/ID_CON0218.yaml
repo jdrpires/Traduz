@@ -1,0 +1,9 @@
+messageCode: ID_CON0218
+messageDomain: cadastral
+summary: ID_CON0218 - Dormant credit indicator not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador crédito adormecido não enviado.
+- code: en-US
+  message: Dormant credit indicator not sent.

@@ -1,0 +1,10 @@
+messageCode: ID_CDV0145
+messageDomain: cadastral-core
+summary: ID_CDV0145 - person_id of device holder not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Não informado código da pessoa no sistema origem para o portador.
+- code: en-US
+  message: person_id of device holder not informed.
+

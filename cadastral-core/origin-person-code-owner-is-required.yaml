@@ -1,0 +1,9 @@
+messageCode: origin-person-code-owner-is-required
+messageDomain: origin-person-code-owner-is-required
+summary: invalid-bank-branch-account - Banco/Agência/Conta inválidos.
+type: error
+languages:
+- code: pt-BR
+  message: Código da pessoa no sistema origem é obrigatório
+- code: en-US
+  message: origin-person-code-owner-is-required

@@ -1,0 +1,9 @@
+messageCode: ID_CON0137
+messageDomain: cadastral-core
+summary: ID_CON0137 - Activation not permitted.
+type: error 
+languages:
+- code: pt-BR
+  message: Ativação não permitida
+- code: en-US
+  message: Activation not permitted.

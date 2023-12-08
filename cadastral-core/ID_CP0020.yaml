@@ -1,0 +1,9 @@
+messageCode: ID_CP0020
+messageDomain: cadastral-core
+summary: ID_CP0020 - No document meeting the informed parameters was found.
+type: error 
+languages:
+- code: pt-BR
+  message: Não foi encontrado nenhum documento que atenda aos parâmetros informados
+- code: en-US
+  message: No document meeting the informed parameters was found.

@@ -1,0 +1,9 @@
+messageCode: type-embossing-is-invalid
+messageDomain: cadastral
+summary: type-embossing-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de emissão do embossing é inválido.
+- code: en-US
+  message: Type Embossing is invalid.

@@ -1,0 +1,13 @@
+messageCode: invalid-insertion-date
+messageDomain: cadastral-core
+summary: invalid-insertion-date - Data de inserção inválida.
+type: error
+languages:
+- code: pt-BR
+  message: Data de inserção inválida.
+- code: en-US
+  message: Invalid insertion date.
+- code: es-ES
+  message: Fecha de inserción no válida.
+- code: es-CL
+  message: Fecha de inserción no válida.

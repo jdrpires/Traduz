@@ -1,0 +1,9 @@
+messageCode: ID_CON0143
+messageDomain: cadastral
+summary: ID_CON0143 - Reissue not permitted to this device.
+type: error 
+languages:
+- code: pt-BR
+  message: Reemissão não permitida para o dispositivo
+- code: en-US
+  message: Reissue not permitted to this device.

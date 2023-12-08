@@ -1,0 +1,11 @@
+messageCode: cadastral-0100
+messageDomain: cadastral
+summary: Operation not performed. Download files with error.
+type: error
+languages:
+  - code: pt-BR
+    message: Operação não realizada. Download de arquivos com erro.
+  - code: en-US
+    message: Operation not performed. Download files with error.
+  - code: es-ES
+    message: Operación no realizada. Error de descarga de archivos.

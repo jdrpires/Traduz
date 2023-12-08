@@ -1,0 +1,9 @@
+messageCode: ID_CDV0006
+messageDomain: cadastral
+summary: ID_CDV0006 - Online device not permitted.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo online não permitido
+- code: en-US
+  message: Online device not permitted.

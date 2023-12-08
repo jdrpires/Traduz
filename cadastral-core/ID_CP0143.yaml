@@ -1,0 +1,9 @@
+messageCode: ID_CP0143
+messageDomain: cadastral-core
+summary: ID_CP0143 - Usage type included.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de uso incluído
+- code: en-US
+  message: Usage type included.

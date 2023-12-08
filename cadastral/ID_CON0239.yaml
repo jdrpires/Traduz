@@ -1,0 +1,9 @@
+messageCode: ID_CON0239
+messageDomain: cadastral
+summary: ID_CON0239 - Checking account print indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de impressão de conta corrente não informado
+- code: en-US
+  message: Checking account print indicator not informed.

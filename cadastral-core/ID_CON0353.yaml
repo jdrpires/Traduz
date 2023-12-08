@@ -1,0 +1,9 @@
+messageCode: ID_CON0354
+messageDomain: cadastral-core
+summary: ID_CON0354 - Non-open by-product for sales.
+type: error 
+languages:
+- code: pt-BR
+  message: Subproduto não aberto para vendas
+- code: en-US
+  message: Non-open by-product for sales.

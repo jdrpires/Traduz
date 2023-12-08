@@ -1,0 +1,9 @@
+messageCode: ID_CON0052
+messageDomain: cadastral-core
+summary: ID_CON0052 - An error occurred during event generation to the authorizer.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro durante a geração ou envio do evento ao Autorizador.
+- code: en-US
+  message: An error occurred during event generation to the authorizer.

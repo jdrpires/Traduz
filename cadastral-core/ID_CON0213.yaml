@@ -1,0 +1,9 @@
+messageCode: ID_CON0213
+messageDomain: cadastral-core
+summary: ID_CON0213 - Functionality not allowed.
+type: error 
+languages:
+- code: pt-BR
+  message: Funcionalidade não permitida
+- code: en-US
+  message: Functionality not allowed.

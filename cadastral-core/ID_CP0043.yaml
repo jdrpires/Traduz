@@ -1,0 +1,9 @@
+messageCode: ID_CP0043
+messageDomain: cadastral-core
+summary: ID_CP0043 - Country address does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: País endereço não existe
+- code: en-US
+  message: Country address does not exist.

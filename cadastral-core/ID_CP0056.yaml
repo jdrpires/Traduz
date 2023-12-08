@@ -1,0 +1,9 @@
+messageCode: ID_CP0056
+messageDomain: cadastral-core
+summary: ID_CP0056 - Invalid proof indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador comprovação bem inválido
+- code: en-US
+  message: Invalid proof indicator.

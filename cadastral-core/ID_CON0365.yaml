@@ -1,0 +1,9 @@
+messageCode: ID_CON0365
+messageDomain: cadastral-core
+summary: ID_CON0365 - Subcontract generation error.
+type: error
+languages:
+- code: pt-BR
+  message: Erro na geração do código de subcontrato.
+- code: en-US
+  message: Subcontract generation error.

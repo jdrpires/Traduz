@@ -1,0 +1,9 @@
+messageCode: ID_CON0209
+messageDomain: cadastral-core
+summary: ID_CON0209 - Lock code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código de bloqueio não informado.
+- code: en-US
+  message: Lock code not informed.

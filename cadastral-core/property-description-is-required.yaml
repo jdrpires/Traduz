@@ -1,0 +1,9 @@
+messageCode: property-description-is-required
+messageDomain: cadastral-core
+summary: property-description-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Descrição da propriedade é necessária
+- code: en-US
+  message: Property description is required

@@ -1,0 +1,9 @@
+messageCode: ID_CDV0019
+messageDomain: cadastral-core
+summary: ID_CDV0019 - Device not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo não encontrado.
+- code: en-US
+  message: Device not found.

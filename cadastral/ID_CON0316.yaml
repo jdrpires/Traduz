@@ -1,0 +1,9 @@
+messageCode: ID_CON0316
+messageDomain: cadastral
+summary: ID_CON0316 - An owner device holder already exists.
+type: error 
+languages:
+- code: pt-BR
+  message: Já existe um beneficiário titular associado ao contrato.
+- code: en-US
+  message: An owner device holder already exists.

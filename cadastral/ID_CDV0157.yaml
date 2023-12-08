@@ -1,0 +1,9 @@
+messageCode: ID_CDV0157
+messageDomain: cadastral
+summary: ID_CDV0157 - An error occurred in the SMS and/or Push Trigger Event.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao gerar evento para o Trigger enviar o SMS e/ou Push.
+- code: en-US
+  message: An error occurred in the SMS and/or Push Trigger Event.

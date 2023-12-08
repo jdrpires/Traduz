@@ -1,0 +1,9 @@
+messageCode: product-code-is-required
+messageDomain: cadastral
+summary: product-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do produto é obrigatório.
+- code: en-US
+  message: Product code is required.

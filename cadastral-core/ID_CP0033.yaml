@@ -1,0 +1,9 @@
+messageCode: ID_CP0033
+messageDomain: cadastral-core
+summary: ID_CP0033 - Invalid birth state code.
+type: error 
+languages:
+- code: pt-BR
+  message: UF nascimento informado não existe
+- code: en-US
+  message: Invalid birth state code.

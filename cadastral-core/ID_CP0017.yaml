@@ -1,0 +1,9 @@
+messageCode: ID_CP0017
+messageDomain: cadastral-core
+summary: ID_CP0017 - The informed person does not exist in the Odin Personnel Registry.
+type: error 
+languages:
+- code: pt-BR
+  message: Pessoa informada não existe no Cadastro de Pessoas.
+- code: en-US
+  message: The informed person does not exist in the Odin Personnel Registry.

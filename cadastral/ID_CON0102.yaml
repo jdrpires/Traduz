@@ -1,0 +1,9 @@
+messageCode: ID_CON0102
+messageDomain: cadastral
+summary: ID_CON0102 - There is already an association to this device.
+type: error 
+languages:
+- code: pt-BR
+  message: Associação já existente para este dispositivo.
+- code: en-US
+  message: There is already an association to this device.

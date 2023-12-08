@@ -1,0 +1,9 @@
+messageCode: card-refer-is-required
+messageDomain: cadastral-core
+summary: card-refer-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Card Refer deve ser informado.
+- code: en-US
+  message: Card refer is required.

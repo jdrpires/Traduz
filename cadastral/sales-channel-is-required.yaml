@@ -1,0 +1,9 @@
+messageCode: sales-channel-is-required
+messageDomain: cadastral
+summary: sales-channel-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código canal de vendas é obrigatório.
+- code: en-US
+  message: Sales Channel is Required.

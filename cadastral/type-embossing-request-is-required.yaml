@@ -1,0 +1,9 @@
+messageCode: type-embossing-request-is-required
+messageDomain: cadastral
+summary: type-embossing-request-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de emissão do embossing é obrigatório.
+- code: en-US
+  message: Type Embossing Request is Required.

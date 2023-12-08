@@ -1,0 +1,9 @@
+messageCode: subcontractmanagerworkshop-is-required
+messageDomain: cadastral
+summary: subcontractmanagerworkshop-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código da unidade do subcontrato não informado.
+- code: en-US
+  message: SubContractManagerWorkshop is required

@@ -1,0 +1,9 @@
+messageCode: grouping-id-is-required
+messageDomain: cadastral-core
+summary: grouping-id-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Código do grupo não informado.
+- code: en-US
+  message: Grouping id is required.

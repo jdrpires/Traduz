@@ -1,0 +1,9 @@
+messageCode: ID_CP0039
+messageDomain: cadastral-core
+summary: ID_CP0039 - Address type does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo endereço não existe
+- code: en-US
+  message: Address type does not exist.

@@ -1,0 +1,9 @@
+messageCode: insurance-generation-error
+messageDomain: cadastral
+summary: insurance-generation-error
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na geração do seguro.
+- code: en-US
+  message: Insurance generation error

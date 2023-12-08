@@ -1,0 +1,9 @@
+messageCode: ID_CON0342
+messageDomain: cadastral-core
+summary: ID_CON0342 - Error when calling the parameter service.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao chamar o serviço de parâmetros.
+- code: en-US
+  message: Error when calling the parameter service.

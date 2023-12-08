@@ -1,0 +1,9 @@
+messageCode: delivery-unit-type-required
+messageDomain: cadastral
+summary: delivery-unit-type-required
+type: error 
+languages:
+- code: pt-BR
+  message: É necessário indentificar Tipo de Unidade da Agência.
+- code: en-US
+  message: Delivery unit type Required.

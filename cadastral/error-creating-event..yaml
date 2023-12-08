@@ -1,0 +1,9 @@
+messageCode: error-creating-event.
+messageDomain: cadastral
+summary: error-creating-event.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao criar evento.
+- code: en-US
+  message: Error creating event.

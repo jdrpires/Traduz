@@ -1,0 +1,9 @@
+messageCode: ID_CON0317
+messageDomain: cadastral
+summary: ID_CON0317 - Transaction status is pending for the informed contract.
+type: error 
+languages:
+- code: pt-BR
+  message: O status da transação está pendente para o contrato informado.
+- code: en-US
+  message: Transaction status is pending for the informed contract.

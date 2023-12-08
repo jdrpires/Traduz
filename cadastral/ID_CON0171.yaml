@@ -1,0 +1,9 @@
+messageCode: ID_CON0171
+messageDomain: cadastral
+summary: ID_CON0171 - Embossing name not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome de embossing não informado
+- code: en-US
+  message: Embossing name not informed.

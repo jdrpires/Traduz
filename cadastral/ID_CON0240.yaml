@@ -1,0 +1,9 @@
+messageCode: ID_CON0240
+messageDomain: cadastral
+summary: ID_CON0240 - Embossing reason not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo de embossing não informado
+- code: en-US
+  message: Embossing reason not informed.

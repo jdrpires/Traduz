@@ -1,0 +1,13 @@
+messageCode: ID_CDV0151
+messageDomain: cadastral-core
+summary: ID_CDV0151 - Error calling people service.
+type: error
+languages:
+- code: pt-BR
+  message: Erro ao chamar o serviço de pessoas.
+- code: en-US
+  message: Error calling people service.
+- code: es-ES
+  message: Error al llamar al servicio de personas.
+- code: es-CL
+  message: Error al llamar al servicio de personas.

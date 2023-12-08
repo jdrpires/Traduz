@@ -1,0 +1,9 @@
+messageCode: ID_CON0104
+messageDomain: cadastral
+summary: ID_CON0104 - Invalid Function indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de função inválido.
+- code: en-US
+  message: Invalid Function indicator.

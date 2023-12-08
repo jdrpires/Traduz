@@ -1,0 +1,9 @@
+messageCode: ID_CON0237
+messageDomain: cadastral
+summary: ID_CON0237 - 4th print line format not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Formato da 4ª linha de impressão não informado
+- code: en-US
+  message: 4th print line format not informed.
