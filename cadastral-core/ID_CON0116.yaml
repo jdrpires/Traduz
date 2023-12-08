@@ -1,9 +1,0 @@
-messageCode: ID_CON0116
-messageDomain: cadastral-core
-summary: ID_CON0116 - Block already registered to the device.
-type: error
-languages:
-- code: pt-BR
-  message: Bloqueio já cadastrado para o dispositivo.
-- code: en-US
-  message: Block already registered to the device.

@@ -1,9 +1,0 @@
-messageCode: requestoriginindicator-is-required
-messageDomain: cadastral
-summary: requestoriginindicator-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de Origem é obrigatório.
-- code: en-US
-  message: requestOriginIndicator is required.

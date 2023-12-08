@@ -1,9 +1,0 @@
-messageCode: ID_CP0168
-messageDomain: cadastral-core
-summary: ID_CP0168 - Cannot delete Required Document.
-type: error 
-languages:
-- code: pt-BR
-  message: Não pode excluir Documento Obrigatório
-- code: en-US
-  message: Cannot delete Required Document.

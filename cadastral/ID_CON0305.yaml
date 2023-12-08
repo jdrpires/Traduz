@@ -1,9 +1,0 @@
-messageCode: ID_CON0305
-messageDomain: cadastral
-summary: ID_CON0305 - Device is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Dispositivo não informado
-- code: en-US
-  message: Device is required.

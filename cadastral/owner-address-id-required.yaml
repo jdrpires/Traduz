@@ -1,9 +1,0 @@
-messageCode: owner-address-id-required
-messageDomain: cadastral
-summary: owner-address-id-required
-type: error 
-languages:
-- code: pt-BR
-  message: É necessário indentificar o código do responsável pelo endereço.
-- code: en-US
-  message: Owner Address id Required.

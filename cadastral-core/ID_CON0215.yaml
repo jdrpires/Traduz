@@ -1,9 +1,0 @@
-messageCode: ID_CON0215
-messageDomain: cadastral-core
-summary: ID_CON0215 - Limit not allowed.
-type: error 
-languages:
-- code: pt-BR
-  message: Limite não permitido
-- code: en-US
-  message: Limit not allowed.

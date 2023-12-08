@@ -1,9 +1,0 @@
-messageCode: ID_CON0294
-messageDomain: cadastral
-summary: ID_CON0294 - Password change indicator not sent.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de troca de senha não enviado.
-- code: en-US
-  message: Password change indicator not sent.

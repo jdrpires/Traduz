@@ -1,9 +1,0 @@
-messageCode: device-holder-id-or-device-holder-type-not-related-with-this-contract-id.
-messageDomain: cadastral
-summary: device-holder-id-or-device-holder-type-not-related-with-this-contract-id.
-type: error 
-languages:
-- code: pt-BR
-  message: O Portador ou tipo de portador não tem relação com este contrato.
-- code: en-US
-  message: device holder id or device holder type not related with this contract id.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0109
-messageDomain: cadastral-core
-summary: ID_CDV0109 - Device Model not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Modelo do Dispositivo não informado
-- code: en-US
-  message: Device Model not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_CP0263
-messageDomain: cadastral-core
-summary: ID_CP0263 - Invalid county name.
-type: error 
-languages:
-- code: pt-BR
-  message: Nome do Município inválido.
-- code: en-US
-  message: Invalid county name.

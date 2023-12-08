@@ -1,9 +1,0 @@
-messageCode: ID_ONB061
-messageDomain: cadastral-core
-summary: ID_ONB061 - Device type is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de dispositivo não informado.
-- code: en-US
-  message: Device type is required.

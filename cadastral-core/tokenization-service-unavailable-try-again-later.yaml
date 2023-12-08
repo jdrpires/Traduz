@@ -1,9 +1,0 @@
-messageCode: tokenization-service-unavailable-try-again-later
-messageDomain: cadastral-core
-summary: Tokenization service unavailable. Try again later.
-type: error
-languages:
-- code: pt-BR
-  message: Serviço de Tokenização indisponível. Tente novamente mais tarde.
-- code: en-US
-  message: Tokenization service unavailable. Try again later.

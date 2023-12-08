@@ -1,9 +1,0 @@
-messageCode: subcontract-is-canceled
-messageDomain: cadastral-core
-summary: Subontract is canceled.
-type: error
-languages:
-- code: pt-BR
-  message: Subcontrato Cancelado.
-- code: en-US
-  message: Subontract is canceled.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0308
-messageDomain: cadastral-core
-summary: ID_CON0308 - Invalid device holder type code
-type: error 
-languages:
-- code: pt-BR
-  message: Código do tipo de beneficiário recebido é inválido
-- code: en-US
-  message: Invalid device holder type code

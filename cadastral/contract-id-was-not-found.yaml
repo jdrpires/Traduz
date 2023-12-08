@@ -1,9 +1,0 @@
-messageCode: contract-id-was-not-found
-messageDomain: cadastral
-summary: contract-id-was-not-found
-type: error 
-languages:
-- code: pt-BR
-  message: O código do contrato não foi encontrado.
-- code: en-US
-  message: Contract id was not found.

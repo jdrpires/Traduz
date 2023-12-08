@@ -1,9 +1,0 @@
-messageCode: this-subcontract-is-blocked-for-renewal
-messageDomain: cadastral
-summary: this-subcontract-is-blocked-for-renewal
-type: error 
-languages:
-- code: pt-BR
-  message: Este subcontrato está bloqueado para renovação.
-- code: en-US
-  message: This subcontract is blocked for renewal.

@@ -1,9 +1,0 @@
-messageCode: entry-contract-does-not-belong-to-the-informed-person
-messageDomain: cadastral
-summary: entry-contract-does-not-belong-to-the-informed-person
-type: error 
-languages:
-- code: pt-BR
-  message: Contrato enviado não pertence a pessoa informada.
-- code: en-US
-  message: Entry contract does not belong to the informed person

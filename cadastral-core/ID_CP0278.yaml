@@ -1,9 +1,0 @@
-messageCode: ID_CP0278
-messageDomain: cadastral-core
-summary: ID_CP0278 - Invalid extension number.
-type: error 
-languages:
-- code: pt-BR
-  message: Número do Ramal inválido.
-- code: en-US
-  message: Invalid extension number.

@@ -1,9 +1,0 @@
-messageCode: ID_ONB078
-messageDomain: cadastral-core
-summary: ID_ONB078 - Contracted insurance indicator is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de seguro contratado não informado.
-- code: en-US
-  message: Contracted insurance indicator is required.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0016
-messageDomain: cadastral
-summary: ID_CDV0016 - Physical device not permitted.
-type: error 
-languages:
-- code: pt-BR
-  message: Dispositivo fisico não permitido.
-- code: en-US
-  message: Physical device not permitted.

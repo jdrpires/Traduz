@@ -1,9 +1,0 @@
-messageCode: ID_CON0084
-messageDomain: cadastral-core
-summary: ID_CON0084 - Sleeping credit indicator not sent.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de crédito adormecido não enviado.
-- code: en-US
-  message: Sleeping credit indicator not sent.

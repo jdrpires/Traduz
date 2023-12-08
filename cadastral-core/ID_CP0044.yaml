@@ -1,9 +1,0 @@
-messageCode: ID_CP0044
-messageDomain: cadastral-core
-summary: ID_CP0044 - Invalid returned mail indicator.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador correspondência devolvida inválido
-- code: en-US
-  message: Invalid returned mail indicator.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0377
-messageDomain: cadastral-core
-summary: ID_CON0377 - Subcontract unit not informed.
-type: error
-languages:
-- code: pt-BR
-  message: Código da unidade do subcontrato não informado.
-- code: en-US
-  message: Subcontract unit not informed.

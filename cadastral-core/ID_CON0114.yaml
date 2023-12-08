@@ -1,9 +1,0 @@
-messageCode: ID_CON0114
-messageDomain: cadastral-core
-summary: ID_CON0114 - Client cancelling date not sent.
-type: error 
-languages:
-- code: pt-BR
-  message: Dados para cancelamento de beneficiário não enviados
-- code: en-US
-  message: Client cancelling date not sent.

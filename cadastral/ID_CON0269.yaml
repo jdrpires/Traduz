@@ -1,9 +1,0 @@
-messageCode: ID_CON0269
-messageDomain: cadastral
-summary: ID_CON0269 - Renewal not allowed.
-type: error 
-languages:
-- code: pt-BR
-  message: Renovação não permitida.
-- code: en-US
-  message: Renewal not allowed.

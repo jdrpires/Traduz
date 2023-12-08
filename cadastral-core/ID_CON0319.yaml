@@ -1,9 +1,0 @@
-messageCode: ID_CON0319
-messageDomain: cadastral-core
-summary: ID_CON0319 - Contract condition is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Condição do Contrato não informada
-- code: en-US
-  message: Contract condition is required.

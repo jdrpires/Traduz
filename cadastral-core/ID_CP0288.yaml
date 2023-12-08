@@ -1,9 +1,0 @@
-messageCode: ID_CP0288
-messageDomain: cadastral-core
-summary: ID_CP0288 - Invalid document number.
-type: error 
-languages:
-- code: pt-BR
-  message: Número de Documento inválido.
-- code: en-US
-  message: Invalid document number.

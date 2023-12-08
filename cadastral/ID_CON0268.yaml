@@ -1,9 +1,0 @@
-messageCode: ID_CON0268
-messageDomain: cadastral
-summary: ID_CON0268 - Contract has a block that does not allow renewal.
-type: error 
-languages:
-- code: pt-BR
-  message: Contrato contém bloqueio que não permite renovação.
-- code: en-US
-  message: Contract has a block that does not allow renewal.

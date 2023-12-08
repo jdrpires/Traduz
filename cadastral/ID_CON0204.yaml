@@ -1,9 +1,0 @@
-messageCode: ID_CON0204
-messageDomain: cadastral
-summary: ID_CON0204 - Bearer type not found.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo Portador não encontrado
-- code: en-US
-  message: Bearer type not found.

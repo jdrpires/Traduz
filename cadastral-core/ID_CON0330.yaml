@@ -1,9 +1,0 @@
-messageCode: ID_CON0330
-messageDomain: cadastral-core
-summary: ID_CON0330 - Transaction status is reverted for the informed device.
-type: error
-languages:
-- code: pt-BR
-  message: O status da transação está revertida para o dispositivo informado.
-- code: en-US
-  message: Transaction status is reverted for the informed device.

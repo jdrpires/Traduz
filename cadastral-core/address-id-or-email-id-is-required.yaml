@@ -1,9 +1,0 @@
-messageCode: address-id-or-email-id-is-required
-messageDomain: cadastral-core
-summary: address-id-or-email-id-is-required
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar endereço ou e-mail.
-- code: en-US
-  message: Addressid or emailid is required.

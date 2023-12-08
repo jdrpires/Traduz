@@ -1,9 +1,0 @@
-messageCode: the-condition-of-the-subcontract-is-not-allowed-for-this-operation
-messageDomain: cadastral-core
-summary: The condition of the subcontract is not allowed for this operation.
-type: error
-languages:
-- code: pt-BR
-  message: A condição do subcontrato não é permitida para esta operação.
-- code: en-US
-  message: The condition of the subcontract is not allowed for this operation.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0255
-messageDomain: cadastral
-summary: ID_CON0255 - Bearer type not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: O Tipo do Portador não foi informado
-- code: en-US
-  message: Bearer type not informed.

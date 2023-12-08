@@ -1,9 +1,0 @@
-messageCode: ID_ONB077
-messageDomain: cadastral-core
-summary: ID_ONB077 - Delivery unit code is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Código da unidade de entrega não informado.
-- code: en-US
-  message: Delivery unit code is required.

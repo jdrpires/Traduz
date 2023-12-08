@@ -1,9 +1,0 @@
-messageCode: invoice-group-id-is-required
-messageDomain: cadastral
-summary: invoice-group-id-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: O código do grupo de fatura é obrigatório
-- code: en-US
-  message: Invoice group id is required

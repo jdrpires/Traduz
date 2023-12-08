@@ -1,9 +1,0 @@
-messageCode: ID_CON0288
-messageDomain: cadastral-core
-summary: ID_CON0288 - Embossing generation indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador Gera Embossing não informado
-- code: en-US
-  message: Embossing generation indicator not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0339
-messageDomain: cadastral-core
-summary: ID_CON0339 - No contracts were found for the specified customer.
-type: error 
-languages:
-- code: pt-BR
-  message: Não foram encontrados contratos para o cliente informado.
-- code: en-US
-  message: No contracts were found for the specified customer.

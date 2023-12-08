@@ -1,9 +1,0 @@
-messageCode: ID_CP0280
-messageDomain: cadastral-core
-summary: ID_CP0280 - Invalid spouse document type.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de Documento do conjuge inválido.
-- code: en-US
-  message: Invalid spouse document type.

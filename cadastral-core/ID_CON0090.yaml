@@ -1,9 +1,0 @@
-messageCode: ID_CON0090
-messageDomain: cadastral-core
-summary: ID_CON0090 - An error occurred in device inclusion.
-type: error 
-languages:
-- code: pt-BR
-  message: Erro na inclusão do dispositivo
-- code: en-US
-  message: An error occurred in device inclusion.

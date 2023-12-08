@@ -1,9 +1,0 @@
-messageCode: ID_CON0351
-messageDomain: cadastral-core
-summary: ID_CON0351 - BlockFormat was not received.
-type: error 
-languages:
-- code: pt-BR
-  message: BlockFormat não recebido.
-- code: en-US
-  message: BlockFormat was not received.

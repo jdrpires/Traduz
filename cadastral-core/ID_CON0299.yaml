@@ -1,9 +1,0 @@
-messageCode: ID_CON0299
-messageDomain: cadastral-core
-summary: ID_CON0299 - Required account list.
-type: error 
-languages:
-- code: pt-BR
-  message: Lista de conta não enviada
-- code: en-US
-  message: Required account list.

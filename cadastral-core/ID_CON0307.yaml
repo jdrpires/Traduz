@@ -1,9 +1,0 @@
-messageCode: ID_CON0307
-messageDomain: cadastral-core
-summary: ID_CON0307 - Password sending mode indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador modo de entrega de senha não informado.
-- code: en-US
-  message: Password sending mode indicator not informed.

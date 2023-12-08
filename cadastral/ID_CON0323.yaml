@@ -1,9 +1,0 @@
-messageCode: ID_CON0323
-messageDomain: cadastral
-summary: ID_CON0323 - A password sending request alreadt exists.
-type: error 
-languages:
-- code: pt-BR
-  message: Já existe uma solicitação de envio de senha
-- code: en-US
-  message: A password sending request alreadt exists.

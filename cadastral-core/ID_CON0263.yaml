@@ -1,9 +1,0 @@
-messageCode: ID_CON0263
-messageDomain: cadastral-core
-summary: ID_CON0263 - Currency code not provided.
-type: error 
-languages:
-- code: pt-BR
-  message: Código de moeda não informado.
-- code: en-US
-  message: Currency code not provided.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0165
-messageDomain: cadastral-core
-summary: ID_CDV0165 - Unable to perform block search without contract search.
-type: error
-languages:
-- code: pt-BR
-  message: Não é possível realizar pesquisa de bloqueio sem a pesquisa de contrato.
-- code: en-US
-  message: Unable to perform block search without contract search.

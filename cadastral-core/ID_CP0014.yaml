@@ -1,9 +1,0 @@
-messageCode: ID_CP0014
-messageDomain: cadastral-core
-summary: ID_CP0014 - No fiscal domicile could be found for this customer.
-type: error 
-languages:
-- code: pt-BR
-  message: Não foi localizado domicílio fiscal para esse cliente
-- code: en-US
-  message: No fiscal domicile could be found for this customer.

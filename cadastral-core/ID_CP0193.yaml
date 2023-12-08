@@ -1,9 +1,0 @@
-messageCode: ID_CP0193
-messageDomain: cadastral-core
-summary: ID_CP0193 - No contracts with this type of participation were found for this customer.
-type: error 
-languages:
-- code: pt-BR
-  message: Não foram encontrados contratos com esse tipo de participação para este cliente.
-- code: en-US
-  message: No contracts with this type of participation were found for this customer.

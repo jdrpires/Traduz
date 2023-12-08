@@ -1,9 +1,0 @@
-messageCode: ID_CP0289
-messageDomain: cadastral-core
-summary: ID_CP0289 - Invalid dispatcher agency code.
-type: error 
-languages:
-- code: pt-BR
-  message: Orgão expedidor inválido.
-- code: en-US
-  message: Invalid dispatcher agency code.

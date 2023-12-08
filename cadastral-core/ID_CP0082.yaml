@@ -1,9 +1,0 @@
-messageCode: ID_CP0082
-messageDomain: cadastral-core
-summary: ID_CP0082 - No contracts related to this customer were found.
-type: error 
-languages:
-- code: pt-BR
-  message: Não foram encontrados contratos relacionados a este cliente
-- code: en-US
-  message: No contracts related to this customer were found.

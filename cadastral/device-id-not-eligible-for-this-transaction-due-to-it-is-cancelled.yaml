@@ -1,9 +1,0 @@
-messageCode: device-id-not-eligible-for-this-transaction-due-to-it-is-cancelled
-messageDomain: cadastral
-summary: device-id-not-eligible-for-this-transaction-due-to-it-is-cancelled
-type: error 
-languages:
-- code: pt-BR
-  message: Dispositivo não elegível para esta transação, pois está cancelado.
-- code: en-US
-  message: Device id not eligible for this transaction due to it is cancelled.

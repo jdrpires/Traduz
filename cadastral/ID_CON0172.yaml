@@ -1,9 +1,0 @@
-messageCode: ID_CON0172
-messageDomain: cadastral
-summary: ID_CON0172 - Block removal not permitted.
-type: error
-languages:
-- code: pt-BR
-  message: Desbloqueio não permitido para este caso.
-- code: en-US
-  message: Block removal not permitted.

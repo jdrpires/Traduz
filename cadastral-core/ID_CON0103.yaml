@@ -1,9 +1,0 @@
-messageCode: ID_CON0103
-messageDomain: cadastral-core
-summary: ID_CON0103 - Invalid Account type indicator.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador tipo conta inválido.
-- code: en-US
-  message: Invalid Account type indicator.

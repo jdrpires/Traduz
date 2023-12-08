@@ -1,9 +1,0 @@
-messageCode: ID_CON0293
-messageDomain: cadastral
-summary: ID_CON0293 - Insurance generation error.
-type: error 
-languages:
-- code: pt-BR
-  message: Erro na geração do seguro
-- code: en-US
-  message: Insurance generation error.

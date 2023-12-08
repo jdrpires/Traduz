@@ -1,9 +1,0 @@
-messageCode: ID_CP0172
-messageDomain: cadastral-core
-summary: ID_CP0172 - Required address sequential.
-type: error 
-languages:
-- code: pt-BR
-  message: Número sequencial de endereço deve ser informado
-- code: en-US
-  message: Required address sequential.

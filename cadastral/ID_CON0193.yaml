@@ -1,9 +1,0 @@
-messageCode: ID_CON0193
-messageDomain: cadastral
-summary: ID_CON0193 - Main account cannot be include as additional.
-type: error 
-languages:
-- code: pt-BR
-  message: Conta principal não pode ser incluída como Adicional
-- code: en-US
-  message: Main account cannot be include as additional.

@@ -1,9 +1,0 @@
-messageCode: phone-id-is-required
-messageDomain: cadastral-core
-summary: Phone id is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar ID do telefone
-- code: en-US
-  message: Phone id is required.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0135
-messageDomain: cadastral
-summary: ID_CON0135 - Activation not permitted. Cancelled device.
-type: error 
-languages:
-- code: pt-BR
-  message: Ativação não permitida  Dispositivo Cancelado
-- code: en-US
-  message: Activation not permitted. Cancelled device.

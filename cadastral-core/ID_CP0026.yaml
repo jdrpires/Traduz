@@ -1,9 +1,0 @@
-messageCode: ID_CP0026
-messageDomain: cadastral-core
-summary: ID_CP0026 - Failed to delete Intervener. There is no Contract Client relationship. 
-type: error 
-languages:
-- code: pt-BR
-  message: Exclusão não efetuada. Interveniente não encontrado no Contrato informado
-- code: en-US
-  message: Failed to delete Intervener. There is no Contract Client relationship. 

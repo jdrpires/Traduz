@@ -1,9 +1,0 @@
-messageCode: ID_CON0006
-messageDomain: cadastral-core
-summary: ID_CON0006 - Contract range unavailable for informed key.
-type: error 
-languages:
-- code: pt-BR
-  message: Range de contratos indisponível para a chave.
-- code: en-US
-  message: Contract range unavailable for informed key.

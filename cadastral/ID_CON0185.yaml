@@ -1,9 +1,0 @@
-messageCode: ID_CON0185
-messageDomain: cadastral
-summary: ID_CON0185 - Forced grouping creation indicator not valid.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador Forçar Criação Agrupamento inválido.
-- code: en-US
-  message: Forced grouping creation indicator not valid.

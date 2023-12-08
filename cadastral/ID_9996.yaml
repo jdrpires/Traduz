@@ -1,9 +1,0 @@
-messageCode: ID_9996
-messageDomain: cadastral
-summary: ID_9996 - Operation successfully completed.
-type: error 
-languages:
-- code: pt-BR
-  message: Operação realizada com sucesso
-- code: en-US
-  message: Operation successfully completed.

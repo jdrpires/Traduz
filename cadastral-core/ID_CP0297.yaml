@@ -1,9 +1,0 @@
-messageCode: ID_CP0297
-messageDomain: cadastral-core
-summary: ID_CP0297 - Invalid reservist certification region.
-type: error 
-languages:
-- code: pt-BR
-  message: Região administrativa do certificado de reservista inválida.
-- code: en-US
-  message: Invalid reservist certification region.

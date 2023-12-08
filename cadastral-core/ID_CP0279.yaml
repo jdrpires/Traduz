@@ -1,9 +1,0 @@
-messageCode: ID_CP0279
-messageDomain: cadastral-core
-summary: ID_CP0279 - Invalid spouse document number.
-type: error 
-languages:
-- code: pt-BR
-  message: Número de Documento do conjuge inválido.
-- code: en-US
-  message: Invalid spouse document number.

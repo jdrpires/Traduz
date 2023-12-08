@@ -1,9 +1,0 @@
-messageCode: ID_CON0274
-messageDomain: cadastral
-summary: ID_CON0274 - Brandcode description not parameterized in TC036.
-type: error 
-languages:
-- code: pt-BR
-  message: Descrição de brandcode não parametrizada na TC003
-- code: en-US
-  message: Brandcode description not parameterized in TC036.

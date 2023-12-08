@@ -1,9 +1,0 @@
-messageCode: ID_CP0152
-messageDomain: cadastral-core
-summary: ID_CP0152 - Reported contract unit does not exist.
-type: error 
-languages:
-- code: pt-BR
-  message: Unidade de contrato informada não existe
-- code: en-US
-  message: Reported contract unit does not exist.

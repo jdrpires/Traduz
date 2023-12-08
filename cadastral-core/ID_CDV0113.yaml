@@ -1,9 +1,0 @@
-messageCode: ID_CDV0113
-messageDomain: cadastral-core
-summary: ID_CDV0113 - Current account printing indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de impressão de conta corrente não informado
-- code: en-US
-  message: Current account printing indicator not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_ONB055
-messageDomain: cadastral-core
-summary: ID_ONB055 - Limit type is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de limite não informado.
-- code: en-US
-  message: Limit type is required.

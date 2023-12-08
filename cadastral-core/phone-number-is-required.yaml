@@ -1,9 +1,0 @@
-messageCode: phone-number-is-required
-messageDomain: cadastral-core
-summary: Phone number is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar Número de Telefone.
-- code: en-US
-  message: Phone number is required.

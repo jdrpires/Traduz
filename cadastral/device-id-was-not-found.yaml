@@ -1,9 +1,0 @@
-messageCode: device-id-was-not-found
-messageDomain: cadastral
-summary: device-id-was-not-found
-type: error 
-languages:
-- code: pt-BR
-  message: O dispositivo não foi encontrado.
-- code: en-US
-  message: Device id was not found.

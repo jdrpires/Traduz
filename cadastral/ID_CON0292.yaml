@@ -1,9 +1,0 @@
-messageCode: ID_CON0292
-messageDomain: cadastral
-summary: ID_CON0292 - The profile type sent is invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: O tipo de perfil enviado é inválido
-- code: en-US
-  message: The profile type sent is invalid.

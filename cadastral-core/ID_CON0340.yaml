@@ -1,9 +1,0 @@
-messageCode: ID_CON0340
-messageDomain: cadastral-core
-summary: ID_CON0340 - Person code in source system not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Código de pessoa no sistema origem não informado.
-- code: en-US
-  message: Person code in source system not informed.

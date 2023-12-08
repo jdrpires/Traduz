@@ -1,9 +1,0 @@
-messageCode: ID_CP0110
-messageDomain: cadastral-core
-summary: ID_CP0110 - Invalid phone type.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de telefone inválido
-- code: en-US
-  message: Invalid phone type.

@@ -1,9 +1,0 @@
-messageCode: ID_9998
-messageDomain: cadastral-core
-summary: ID_9998 - Beneficiary removal not allowed. There are linked devices.
-type: error 
-languages:
-- code: pt-BR
-  message: Remoção de beneficiário não permitida. Existem dispositivos vinculados.
-- code: en-US
-  message: Beneficiary removal not allowed. There are linked devices.

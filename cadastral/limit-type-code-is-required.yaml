@@ -1,9 +1,0 @@
-messageCode: limit-type-code-is-required
-messageDomain: cadastral
-summary: limit-type-code-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: Código do tipo de limite é obrigatório
-- code: en-US
-  message: limit type code is required

@@ -1,9 +1,0 @@
-messageCode: ID_ONB081
-messageDomain: cadastral-core
-summary: ID_ONB081 - By-product current account is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Subproduto da conta corrente não informado.
-- code: en-US
-  message: By-product current account is required.

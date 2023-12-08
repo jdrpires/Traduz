@@ -1,9 +1,0 @@
-messageCode: ID_CP0085
-messageDomain: cadastral-core
-summary: ID_CP0085 - Invalid modification date.
-type: error 
-languages:
-- code: pt-BR
-  message: Data Modificação inválida
-- code: en-US
-  message: Invalid modification date.

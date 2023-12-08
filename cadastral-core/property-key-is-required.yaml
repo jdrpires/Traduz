@@ -1,9 +1,0 @@
-messageCode: property-key-is-required
-messageDomain: cadastral-core
-summary: Property key is required
-type: error
-languages:
-- code: pt-BR
-  message: A chave da propriedade é obrigatória.
-- code: en-US
-  message: Property key is required

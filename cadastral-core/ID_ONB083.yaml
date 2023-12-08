@@ -1,9 +1,0 @@
-messageCode: ID_ONB083
-messageDomain: cadastral-core
-summary: ID_ONB083 - Code that identifies current account is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Código que identifica conta corrente não informado.
-- code: en-US
-  message: Code that identifies current account is required.

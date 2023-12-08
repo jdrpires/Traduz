@@ -1,9 +1,0 @@
-messageCode: contract-doesnt-have-limit
-messageDomain: cadastral
-summary: contract-doesnt-have-limit
-type: error 
-languages:
-- code: pt-BR
-  message: O contrato não possui limite cadastrado para o tipo e moeda informado
-- code: en-US
-  message: Contract does not have a limit registered for the limit type and currency received

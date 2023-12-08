@@ -1,9 +1,0 @@
-messageCode: ID_CON307
-messageDomain: cadastral
-summary: ID_CON307 - Device delivery mode mode not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador modo de entrega do dispositivo não informado
-- code: en-US
-  message: Device delivery mode mode not informed.

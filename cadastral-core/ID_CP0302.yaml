@@ -1,9 +1,0 @@
-messageCode: ID_CP0302
-messageDomain: cadastral-core
-summary: ID_CP0302 - Error when calling the parameter service.
-type: error
-languages:
-- code: pt-BR
-  message: Erro na chamada do serviço de parâmetros
-- code: en-US
-  message: Error when calling the parameter service.

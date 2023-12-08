@@ -1,9 +1,0 @@
-messageCode: ID_CON0181
-messageDomain: cadastral
-summary: ID_CON0181 - Beneficiary cancellation not allowed. There are still active devices linked.
-type: error 
-languages:
-- code: pt-BR
-  message: Cancelamento de beneficiário não permitido. Existem dispositivos ativos vinculados.
-- code: en-US
-  message: Beneficiary cancellation not allowed. There are still active devices linked.

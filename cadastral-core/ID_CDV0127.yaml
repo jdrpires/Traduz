@@ -1,9 +1,0 @@
-messageCode: ID_CDV0127
-messageDomain: cadastral-core
-summary: ID_CDV0127 - Contract Management Unit not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Unidade Gestora do contrato não informada
-- code: en-US
-  message: Contract Management Unit not informed.

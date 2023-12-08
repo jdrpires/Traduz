@@ -1,9 +1,0 @@
-messageCode: ID_CP0102
-messageDomain: cadastral-core
-summary: ID_CP0102 - Invalid International Direct Dialing code.
-type: error 
-languages:
-- code: pt-BR
-  message: DDI informado é inválido
-- code: en-US
-  message: Invalid International Direct Dialing code.

@@ -1,9 +1,0 @@
-messageCode: ID_ONB057
-messageDomain: cadastral-core
-summary: ID_ONB057 - Product code is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Código do Produto não informado.
-- code: en-US
-  message: Product code is required.

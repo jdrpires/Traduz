@@ -1,9 +1,0 @@
-messageCode: grouping-id-sent-is-not-eligible-for-this-operation
-messageDomain: cadastral
-summary: grouping-id-sent-is-not-eligible-for-this-operation
-type: error 
-languages:
-- code: pt-BR
-  message: O agrupamento enviado não é elegível para esta operação
-- code: en-US
-  message: The grouping id sent is not eligible for this operation

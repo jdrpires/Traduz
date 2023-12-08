@@ -1,9 +1,0 @@
-messageCode: ID_CON0051
-messageDomain: cadastral
-summary: ID_CON0051 - Block not permitted for this type of client.
-type: error 
-languages:
-- code: pt-BR
-  message: Este bloqueio não é permitido para este tipo de usuário
-- code: en-US
-  message: Block not permitted for this type of client.

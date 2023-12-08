@@ -1,9 +1,0 @@
-messageCode: alphacode-by-currency-code-parameter-was-not-found
-messageDomain: cadastral
-summary: alphacode-by-currency-code-parameter-was-not-found
-type: error 
-languages:
-- code: pt-BR
-  message: O codigo ISO da moeda não foi encontrado.
-- code: en-US
-  message: Alphacode by currency code parameter was not found.

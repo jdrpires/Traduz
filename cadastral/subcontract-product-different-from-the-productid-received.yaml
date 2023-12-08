@@ -1,9 +1,0 @@
-messageCode: subcontract-product-different-from-the-productid-received
-messageDomain: cadastral
-summary: subcontract-product-different-from-the-productid-received
-type: error 
-languages:
-- code: pt-BR
-  message: Produto do subcontrato divergente do produto recebido
-- code: en-US
-  message: Subcontract productcode different from the productid received

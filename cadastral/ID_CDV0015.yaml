@@ -1,9 +1,0 @@
-messageCode: ID_CDV0015
-messageDomain: cadastral
-summary: ID_CDV0015 - Invalid parameters.
-type: error 
-languages:
-- code: pt-BR
-  message: Parametros inválidos.
-- code: en-US
-  message: Invalid parameters.

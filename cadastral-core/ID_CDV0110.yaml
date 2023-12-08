@@ -1,9 +1,0 @@
-messageCode: ID_CDV0110
-messageDomain: cadastral-core
-summary: ID_CDV0110 - Company impression indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de impressão de empresa não informado
-- code: en-US
-  message: Company impression indicator not informed.

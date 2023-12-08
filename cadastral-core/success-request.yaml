@@ -1,9 +1,0 @@
-messageCode: success-request
-messageDomain: cadastral-core
-summary: success-request
-type: error 
-languages:
-- code: pt-BR
-  message: Sucesso
-- code: en-US
-  message: Success

@@ -1,9 +1,0 @@
-messageCode: ID_CON0295
-messageDomain: cadastral
-summary: ID_CON0295 - Instant emission indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador emissão instantânea não informado.
-- code: en-US
-  message: Instant emission indicator not informed.

@@ -1,9 +1,0 @@
-messageCode: address-type-email-is-required
-messageDomain: cadastral-core
-summary: Address type email is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar Tipo Endereço Email.
-- code: en-US
-  message: Address type email is required.

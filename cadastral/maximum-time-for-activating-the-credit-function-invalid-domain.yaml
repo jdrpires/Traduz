@@ -1,9 +1,0 @@
-messageCode: maximum-time-for-activating-the-credit-function-invalid-domain
-messageDomain: cadastral
-summary: maximum-time-for-activating-the-credit-function-invalid-domain
-type: error 
-languages:
-- code: pt-BR
-  message: Domínio inválido para quantidade de dias para ativação da função do crédito.
-- code: en-US
-  message: Invalid domain for the amount of days of the credit function activation.

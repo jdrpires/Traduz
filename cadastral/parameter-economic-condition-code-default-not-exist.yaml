@@ -1,9 +1,0 @@
-messageCode: parameter-economic-condition-code-default-not-exist
-messageDomain: cadastral
-summary: parameter-economic-condition-code-default-not-exist
-type: error 
-languages:
-- code: pt-BR
-  message: Parâmetro da codigo da condição econômica default não existe.
-- code: en-US
-  message: parameter economic condition code default not exist

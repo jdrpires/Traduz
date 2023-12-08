@@ -1,9 +1,0 @@
-messageCode: ID_CON0335
-messageDomain: cadastral
-summary: ID_CON0335 - Contract not found for the informed transaction.
-type: error 
-languages:
-- code: pt-BR
-  message: Não encontrado contrato para transação informada.
-- code: en-US
-  message: Contract not found for the informed transaction.

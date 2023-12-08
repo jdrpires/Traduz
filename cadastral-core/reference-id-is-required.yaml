@@ -1,9 +1,0 @@
-messageCode: reference-id-is-required
-messageDomain: cadastral-core
-summary: Reference id is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar Código interno que identifica unicamente uma referência pessoal
-- code: en-US
-  message: Reference id is required.

@@ -1,9 +1,0 @@
-messageCode: transaction-uuid-is-required
-messageDomain: cadastral
-summary: transaction-uuid-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: O id da transação é obrigatória.
-- code: en-US
-  message: Transaction uuid is required.

@@ -1,9 +1,0 @@
-messageCode: economic-condition-code-is-required
-messageDomain: cadastral
-summary: economic-condition-code-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: Código da condição econômica é obrigatório.
-- code: en-US
-  message: economic condition code is required

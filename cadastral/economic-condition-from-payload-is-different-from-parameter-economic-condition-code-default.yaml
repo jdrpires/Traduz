@@ -1,9 +1,0 @@
-messageCode: economic-condition-from-payload-is-different-from-parameter-economic-condition-code-default
-messageDomain: cadastral
-summary: economic-condition-from-payload-is-different-from-parameter-economic-condition-code-default
-type: error 
-languages:
-- code: pt-BR
-  message: Código da Condição Econômica de Entrada é diferente do Parâmetro da codigo da condição econômica default.
-- code: en-US
-  message: Payload Economic Condition Code is different from Parameter economic condition code default

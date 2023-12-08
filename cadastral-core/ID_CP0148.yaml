@@ -1,9 +1,0 @@
-messageCode: ID_CP0148
-messageDomain: cadastral-core
-summary: ID_CP0148 - The relationship status code entered is invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Código de situação da relação informado é inválido.
-- code: en-US
-  message: The relationship status code entered is invalid.

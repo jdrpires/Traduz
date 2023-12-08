@@ -1,9 +1,0 @@
-messageCode: ID_CP0149
-messageDomain: cadastral-core
-summary: ID_CP0149 - Relation termination date is invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Data de baixa da relação é inválida
-- code: en-US
-  message: Relation termination date is invalid.

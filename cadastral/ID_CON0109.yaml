@@ -1,9 +1,0 @@
-messageCode: ID_CON0109
-messageDomain: cadastral
-summary: ID_CON0109 - Entity and/or device_id not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Entidade e/ou Pan Token não informados.
-- code: en-US
-  message: Entity and/or device_id not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0108
-messageDomain: cadastral-core
-summary: ID_CDV0108 - Device Type not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de Dispositivo não informado
-- code: en-US
-  message: Device Type not informed.

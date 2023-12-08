@@ -1,9 +1,0 @@
-messageCode: ID_CP0188
-messageDomain: cadastral-core
-summary: ID_CP0188 - Failed to delete a person's data
-type: error 
-languages:
-- code: pt-BR
-  message: Erro na exclusão de dados da pessoa física
-- code: en-US
-  message: Failed to delete a person's data

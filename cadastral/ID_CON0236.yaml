@@ -1,9 +1,0 @@
-messageCode: ID_CON0236
-messageDomain: cadastral
-summary: ID_CON0236 - 4th line print indicator.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de impressão de 4ª linha
-- code: en-US
-  message: 4th line print indicator.

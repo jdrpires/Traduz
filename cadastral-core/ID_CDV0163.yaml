@@ -1,9 +1,0 @@
-messageCode: ID_CDV0163
-messageDomain: cadastral-core
-summary: ID_CDV0163 - Subcontract unit is required.
-type: error
-languages:
-- code: pt-BR
-  message: Código da unidade do subcontrato não informado.
-- code: en-US
-  message: Subcontract unit is required.

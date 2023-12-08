@@ -1,9 +1,0 @@
-messageCode: ID_CON0115
-messageDomain: cadastral-core
-summary: ID_CON0115 - Device situation update data not sent.
-type: error 
-languages:
-- code: pt-BR
-  message: Dados para atualização da situação do dispositivo não enviados
-- code: en-US
-  message: Device situation update data not sent.

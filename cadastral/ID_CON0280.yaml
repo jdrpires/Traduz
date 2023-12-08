@@ -1,9 +1,0 @@
-messageCode: ID_CON0280
-messageDomain: cadastral
-summary: ID_CON0280 - Embossing reason not allowed.
-type: error 
-languages:
-- code: pt-BR
-  message: Motivo de Embossing não permitido
-- code: en-US
-  message: Embossing reason not allowed.

@@ -1,9 +1,0 @@
-messageCode: device-holder-owner-sent-is-inactive
-messageDomain: cadastral-core
-summary: Device holder owner sent is inactive
-type: error
-languages:
-- code: pt-BR
-  message: O responsável pelo adicional vinculado recebido está inativo.
-- code: en-US
-  message: Device holder owner sent is inactive.

@@ -2,9 +2,9 @@ import os
 from googletrans import Translator
 
 # Parâmetros de entrada
-pasta = '/Users/t736796/Projetos/Arqs'  # '.' = diretorio atual, '..' => anterior
+pasta = 'Z:\GitHub\Traduz\cadastral-core\Ciclo_X'  # '.' = diretorio atual, '..' => anterior
 extensoes = ['yaml']  # deixe em branco para todos
-buscaArq = 'es-ES'
+buscaArq = 'es-CL'
 BuscaLanguage = 'pt-BR'
 LinguagemTraduzir = 'es'
 

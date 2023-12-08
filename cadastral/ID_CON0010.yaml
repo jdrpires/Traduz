@@ -1,9 +1,0 @@
-messageCode: ID_CON0010
-messageDomain: cadastral
-summary: ID_CON0010 - Cancelled contract.
-type: error 
-languages:
-- code: pt-BR
-  message: Contrato cancelado.
-- code: en-US
-  message: Cancelled contract.

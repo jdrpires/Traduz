@@ -1,9 +1,0 @@
-messageCode: ID_CON0189
-messageDomain: cadastral
-summary: ID_CON0189 - There are still active devices.
-type: error 
-languages:
-- code: pt-BR
-  message: Ainda existem dispositivos ativos
-- code: en-US
-  message: There are still active devices.

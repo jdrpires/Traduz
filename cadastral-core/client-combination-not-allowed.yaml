@@ -1,9 +1,0 @@
-messageCode: client-combination-not-allowed
-messageDomain: cadastral-core
-summary: client-combination-not-allowed
-type: error 
-languages:
-- code: pt-BR
-  message: Combinação de cliente não permitida.
-- code: en-US
-  message: Client combination not allowed.

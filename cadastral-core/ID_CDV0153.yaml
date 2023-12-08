@@ -1,9 +1,0 @@
-messageCode: ID_CDV0153
-messageDomain: cadastral-core
-summary: ID_CDV0153 - PinBlock label not sent.
-type: error
-languages:
-- code: pt-BR
-  message: Pinblock label não enviado.
-- code: en-US
-  message: PinBlock label not sent.

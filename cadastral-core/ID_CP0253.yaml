@@ -1,9 +1,0 @@
-messageCode: ID_CP0253
-messageDomain: cadastral-core
-summary: ID_CP0253 - Mother name invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Nome da mãe inválido.
-- code: en-US
-  message: Mother name invalid.

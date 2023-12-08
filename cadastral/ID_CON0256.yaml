@@ -1,9 +1,0 @@
-messageCode: ID_CON0256
-messageDomain: cadastral
-summary: ID_CON0256 - Person not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Pessoa não foi informada
-- code: en-US
-  message: Person not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0333
-messageDomain: cadastral
-summary: ID_CON0333 - No ranges available in cardbook.
-type: error 
-languages:
-- code: pt-BR
-  message: Não há Ranges disponíveis no cardbook.
-- code: en-US
-  message: No ranges available in cardbook.

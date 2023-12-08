@@ -1,9 +1,0 @@
-messageCode: owner-address-id-must-be-of-the-device-holder-id-or-the-owner-grouping-id
-messageDomain: cadastral
-summary: owner-address-id-must-be-of-the-device-holder-id-or-the-owner-grouping-id
-type: error 
-languages:
-- code: pt-BR
-  message: O Código do responsável pelo endereço deve ser do portador ou titular do contrato.
-- code: en-US
-  message: Owner address id must be of the device holder id or the owner grouping id.

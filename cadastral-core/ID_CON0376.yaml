@@ -1,9 +1,0 @@
-messageCode: ID_CON0376
-messageDomain: cadastral-core
-summary: ID_CON0376 - Contract or subContract are required.
-type: error
-languages:
-- code: pt-BR
-  message: Contrato ou subcontrato não informado.
-- code: en-US
-  message: Contract or subContract are required.

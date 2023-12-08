@@ -1,9 +1,0 @@
-messageCode: relation-type-is-required
-messageDomain: cadastral-core
-summary: Relation type is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar Tipo de Referência
-- code: en-US
-  message: Relation type is required.

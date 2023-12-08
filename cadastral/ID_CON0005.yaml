@@ -1,9 +1,0 @@
-messageCode: ID_CON0005
-messageDomain: cadastral
-summary: ID_CON0005 - Contract is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Contrato não informado.
-- code: en-US
-  message: Contract is required.

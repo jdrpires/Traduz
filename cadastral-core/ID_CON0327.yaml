@@ -1,9 +1,0 @@
-messageCode: ID_CON0327
-messageDomain: cadastral-core
-summary: ID_CON0327 - Invalid status.
-type: error 
-languages:
-- code: pt-BR
-  message: Status informado não é válido.
-- code: en-US
-  message: Invalid status.

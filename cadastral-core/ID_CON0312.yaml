@@ -1,9 +1,0 @@
-messageCode: ID_CON0312
-messageDomain: cadastral-core
-summary: ID_CON0312 - Divergent CVV.
-type: error 
-languages:
-- code: pt-BR
-  message: CVV divergente
-- code: en-US
-  message: Divergent CVV.

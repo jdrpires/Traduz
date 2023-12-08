@@ -1,9 +1,0 @@
-messageCode: ID_CON0242
-messageDomain: cadastral-core
-summary: ID_CON0242 - Delivery indicator at the agency not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de entrega na agência não informado
-- code: en-US
-  message: Delivery indicator at the agency not informed.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0235
-messageDomain: cadastral
-summary: ID_CON0235 - Social benefit not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Benefício Social não informado
-- code: en-US
-  message: Social benefit not informed.

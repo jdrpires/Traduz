@@ -1,9 +1,0 @@
-messageCode: ID_CON0273
-messageDomain: cadastral
-summary: ID_CON0273 - Subproduct description not parameterized in TC036.
-type: error 
-languages:
-- code: pt-BR
-  message: Descrição de subproduto não parametrizada na TC049
-- code: en-US
-  message: Subproduct description not parameterized in TC036.

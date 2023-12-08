@@ -1,9 +1,0 @@
-messageCode: email-id-is-required
-messageDomain: cadastral-core
-summary: Email id is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar Código sequencial que identifica unicamente um email.
-- code: en-US
-  message: Email id is required.

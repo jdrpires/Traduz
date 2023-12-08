@@ -1,9 +1,0 @@
-messageCode: origin-person-code-or-personid-are-required
-messageDomain: cadastral-core
-summary: origin-person-code-or-personId-are-required
-type: error
-languages:
-- code: pt-BR
-  message: Código de pessoa de origem ou personId são obrigatórios.
-- code: en-US
-  message: origin person code or personId are required

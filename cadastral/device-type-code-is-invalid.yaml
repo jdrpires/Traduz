@@ -1,9 +1,0 @@
-messageCode: device-type-code-is-invalid
-messageDomain: cadastral
-summary: device-type-code-is-invalid
-type: error 
-languages:
-- code: pt-BR
-  message: Descrição de Tipo de Dispositivo é inválida.
-- code: en-US
-  message: device type code is invalid

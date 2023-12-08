@@ -1,9 +1,0 @@
-messageCode: ID_CON0042
-messageDomain: cadastral
-summary: ID_CON0042 - An error occurred in device expiration date calculation.
-type: error 
-languages:
-- code: pt-BR
-  message: Erro no cálculo de validade do dispositivo
-- code: en-US
-  message: An error occurred in device expiration date calculation.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0142
-messageDomain: cadastral-core
-summary: ID_CDV0142 - A request to send password embossing already exists.
-type: error 
-languages:
-- code: pt-BR
-  message: Já existe uma solicitação ao embossing de envio de senha.
-- code: en-US
-  message: A request to send password embossing already exists.

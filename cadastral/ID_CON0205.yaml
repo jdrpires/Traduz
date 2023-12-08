@@ -1,9 +1,0 @@
-messageCode: ID_CON0205
-messageDomain: cadastral
-summary: ID_CON0205 - The threshold that's being added already exists on the contract.
-type: error 
-languages:
-- code: pt-BR
-  message: O limite que está sendo incluído já existe no contrato.
-- code: en-US
-  message: The threshold that's being added already exists on the contract.

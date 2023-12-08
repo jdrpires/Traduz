@@ -1,9 +1,0 @@
-messageCode: ID_CP0213
-messageDomain: cadastral-core
-summary: ID_CP0213 - Required Client name.
-type: error 
-languages:
-- code: pt-BR
-  message: Nome do cliente não informado
-- code: en-US
-  message: Required Client name.

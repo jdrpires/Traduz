@@ -1,9 +1,0 @@
-messageCode: ID_CON0206
-messageDomain: cadastral
-summary: ID_CON0206 - Bearer informed invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Portador informado inválido
-- code: en-US
-  message: Bearer informed invalid.

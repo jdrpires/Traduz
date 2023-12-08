@@ -1,9 +1,0 @@
-messageCode: ID_CON0352
-messageDomain: cadastral-core
-summary: ID_CON0352 - Card Password / IDP (security key) Invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Senha / IDP (chave de segurança) do Cartão Inválida.
-- code: en-US
-  message: Card Password / IDP (security key) Invalid.

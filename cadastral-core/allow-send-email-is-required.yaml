@@ -1,9 +1,0 @@
-messageCode: allow-send-email-is-required
-messageDomain: cadastral-core
-summary: Allow send email is required.
-type: error
-languages:
-- code: pt-BR
-  message: Obrigatório informar indicador autorização recebimento email.
-- code: en-US
-  message: Allow send email is required.

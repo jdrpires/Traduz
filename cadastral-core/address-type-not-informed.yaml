@@ -1,9 +1,0 @@
-messageCode: address-type-not-informed
-messageDomain: cadastral-core
-summary: address-type-not-informed
-type: error
-languages:
-- code: pt-BR
-  message: Tipo de uso de endereço não informado.
-- code: en-US
-  message: Address type not informed.

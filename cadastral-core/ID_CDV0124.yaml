@@ -1,9 +1,0 @@
-messageCode: ID_CDV0124
-messageDomain: cadastral-core
-summary: ID_CDV0124 - Print indicator of Social Benefit not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de impressão de Benefício Social não informado
-- code: en-US
-  message: Print indicator of Social Benefit not informed.

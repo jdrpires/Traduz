@@ -1,9 +1,0 @@
-messageCode: ID_CON0326
-messageDomain: cadastral-core
-summary: ID_CON0326 - Status is required.
-type: error 
-languages:
-- code: pt-BR
-  message: Status não informado.
-- code: en-US
-  message: Status is required.

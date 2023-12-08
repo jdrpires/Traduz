@@ -1,9 +1,0 @@
-messageCode: ID_CON0226
-messageDomain: cadastral-core
-summary: ID_CON0226 - Product code not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Código do Produto não informado.
-- code: en-US
-  message: Product code not informed.

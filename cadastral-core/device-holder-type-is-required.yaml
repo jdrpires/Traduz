@@ -1,9 +1,0 @@
-messageCode: device-holder-type-is-required
-messageDomain: cadastral-core
-summary: Device holder type is required.
-type: error
-languages:
-- code: pt-BR
-  message: Tipo de portador é obrigatório.
-- code: en-US
-  message: Device holder type is required.

@@ -1,9 +1,0 @@
-messageCode: ID_CDV0130
-messageDomain: cadastral-core
-summary: ID_CDV0130 - Current account product not reported.
-type: error 
-languages:
-- code: pt-BR
-  message: Produto da conta corrente não informado
-- code: en-US
-  message: Current account product not reported.

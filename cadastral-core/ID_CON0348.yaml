@@ -1,9 +1,0 @@
-messageCode: ID_CON0348
-messageDomain: cadastral-core
-summary: ID_CON0348 - Contract Blocked.
-type: error 
-languages:
-- code: pt-BR
-  message: Contrato Bloqueado.
-- code: en-US
-  message: Contract Blocked.

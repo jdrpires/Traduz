@@ -1,9 +1,0 @@
-messageCode: ID_CON0009
-messageDomain: cadastral-core
-summary: ID_CON0009 - Inconsistent block. Already registered for informed contract.
-type: error 
-languages:
-- code: pt-BR
-  message: Bloqueio inconsistente. Já cadastrado para o contrato.
-- code: en-US
-  message: Inconsistent block. Already registered for informed contract.

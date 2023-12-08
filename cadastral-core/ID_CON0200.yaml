@@ -1,9 +1,0 @@
-messageCode: ID_CON0200
-messageDomain: cadastral-core
-summary: ID_CON0200 - An error occurred during the event generation.
-type: error 
-languages:
-- code: pt-BR
-  message: Ocorreu um erro durante a geração do evento
-- code: en-US
-  message: An error occurred during the event generation.

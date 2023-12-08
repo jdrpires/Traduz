@@ -1,9 +1,0 @@
-messageCode: operational-function-is-required
-messageDomain: cadastral
-summary: operational-function-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: Função operacional escolhida pelo cliente é obrigatória.
-- code: en-US
-  message: Operational Function is Required.

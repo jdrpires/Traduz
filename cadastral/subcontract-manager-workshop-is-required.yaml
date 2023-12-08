@@ -1,9 +1,0 @@
-messageCode: subcontract-manager-workshop-is-required
-messageDomain: cadastral
-summary: subcontract-manager-workshop-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: Unidade do subcontrato é obrigatória.
-- code: en-US
-  message: Subcontract manager workshop is required.

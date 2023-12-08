@@ -1,9 +1,0 @@
-messageCode: ID_CP0226
-messageDomain: cadastral-core
-summary: ID_CP0226 - Type of address usage not registered in the general parameters table.
-type: error 
-languages:
-- code: pt-BR
-  message: Tipo de uso de endereço não cadastrado na tabela de parâmetros gerais
-- code: en-US
-  message: Type of address usage not registered in the general parameters table.

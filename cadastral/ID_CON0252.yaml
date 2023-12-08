@@ -1,9 +1,0 @@
-messageCode: ID_CON0252
-messageDomain: cadastral
-summary: ID_CON0252 - Device already registered to the specified client.
-type: error 
-languages:
-- code: pt-BR
-  message: Dispositivo já contratado para o cliente
-- code: en-US
-  message: Device already registered to the specified client.

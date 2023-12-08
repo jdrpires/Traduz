@@ -1,9 +1,0 @@
-messageCode: ID_CP0075
-messageDomain: cadastral-core
-summary: ID_CP0075 - Segment class does not exist.
-type: error 
-languages:
-- code: pt-BR
-  message: Classe segmento não existe
-- code: en-US
-  message: Segment class does not exist.

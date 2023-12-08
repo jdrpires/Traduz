@@ -1,9 +1,0 @@
-messageCode: ID_CON0091
-messageDomain: cadastral-core
-summary: ID_CON0091 - Contract not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: COntrato não informado.
-- code: en-US
-  message: Contract not informed.

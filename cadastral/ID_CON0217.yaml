@@ -1,9 +1,0 @@
-messageCode: ID_CON0217
-messageDomain: cadastral
-summary: ID_CON0217 - Agency number not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Número da agência não enviado
-- code: en-US
-  message: Agency number not informed.

@@ -1,9 +1,0 @@
-messageCode: this-operation-is-not-allowed-for-this-contract-condition
-messageDomain: cadastral
-summary: this-operation-is-not-allowed-for-this-contract-condition
-type: error 
-languages:
-- code: pt-BR
-  message: Esta operação não é permitida para esta condição de contrato.
-- code: en-US
-  message: This operation is not allowed for this contract condition.

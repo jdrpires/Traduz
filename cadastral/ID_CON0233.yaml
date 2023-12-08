@@ -1,9 +1,0 @@
-messageCode: ID_CON0233
-messageDomain: cadastral
-summary: ID_CON0233 - Social Security print indicator not informed.
-type: error 
-languages:
-- code: pt-BR
-  message: Indicador de impressão de Benefício Social não informado
-- code: en-US
-  message: Social Security print indicator not informed.

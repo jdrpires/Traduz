@@ -1,9 +1,0 @@
-messageCode: ID_CON0358
-messageDomain: cadastral-core
-summary: ID_CON0358 - Customer already has a grouping contracted.
-type: error 
-languages:
-- code: pt-BR
-  message: Cliente já possui um agrupamento contratado.
-- code: en-US
-  message: Customer already has a grouping contracted.

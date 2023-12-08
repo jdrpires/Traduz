@@ -1,9 +1,0 @@
-messageCode: ID_CON0201
-messageDomain: cadastral
-summary: ID_CON0201 - Error when consulting the General Parameters service
-type: error 
-languages:
-- code: pt-BR
-  message: Erro durante a consulta ao serviço de Parâmentros Gerais
-- code: en-US
-  message: Error when consulting the General Parameters service

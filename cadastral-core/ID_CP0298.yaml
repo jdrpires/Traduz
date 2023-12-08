@@ -1,9 +1,0 @@
-messageCode: ID_CP0298
-messageDomain: cadastral-core
-summary: ID_CP0298 - Invalid new birth certificate number.
-type: error 
-languages:
-- code: pt-BR
-  message: Número da nova certidão de nascimento inválido.
-- code: en-US
-  message: Invalid new birth certificate number.

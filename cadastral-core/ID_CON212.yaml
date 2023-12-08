@@ -1,9 +1,0 @@
-messageCode: ID_CON212
-messageDomain: cadastral-core
-summary: ID_CON212 - Invalid device situation.
-type: error 
-languages:
-- code: pt-BR
-  message: Situação do dispositivo inválida
-- code: en-US
-  message: Invalid device situation.

@@ -1,9 +1,0 @@
-messageCode: ID_CON0032
-messageDomain: cadastral-core
-summary: ID_CON0032 - Client not found.
-type: error
-languages:
-- code: pt-BR
-  message: Cliente não encontrado.
-- code: en-US
-  message: Client not found.

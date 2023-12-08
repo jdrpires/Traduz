@@ -1,9 +1,0 @@
-messageCode: ID_CON0324
-messageDomain: cadastral
-summary: ID_CON0324 - Embossing requisition process error.
-type: error 
-languages:
-- code: pt-BR
-  message: Houve um erro de processamento na chamada ao embossing
-- code: en-US
-  message: Embossing requisition process error.

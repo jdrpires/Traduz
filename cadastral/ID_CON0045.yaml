@@ -1,9 +1,0 @@
-messageCode: ID_CON0045
-messageDomain: cadastral
-summary: ID_CON0045 - An error occurred during block update.
-type: error 
-languages:
-- code: pt-BR
-  message: Ocorreu um erro durante a atualização do bloqueio nas bases.
-- code: en-US
-  message: An error occurred during block update.

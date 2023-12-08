@@ -1,9 +1,0 @@
-messageCode: ID_CDV0085
-messageDomain: cadastral-core
-summary: ID_CDV0085 - Channel information not sent.
-type: error 
-languages:
-- code: pt-BR
-  message: Informações sobre canal não enviadas.
-- code: en-US
-  message: Channel information not sent.

@@ -1,9 +1,0 @@
-messageCode: product-operability-is-required
-messageDomain: cadastral
-summary: product-operability-is-required
-type: error 
-languages:
-- code: pt-BR
-  message: O código de operatividade do produto é obrigatório
-- code: en-US
-  message: Product Operability is Required

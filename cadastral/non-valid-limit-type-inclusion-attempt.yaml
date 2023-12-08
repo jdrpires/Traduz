@@ -1,9 +1,0 @@
-messageCode: non-valid-limit-type-inclusion-attempt
-messageDomain: cadastral
-summary: non-valid-limit-type-inclusion-attempt
-type: error 
-languages:
-- code: pt-BR
-  message: Tentativa de inclusão de tipo de limite não válido.
-- code: en-US
-  message: Non valid limit type inclusion attempt

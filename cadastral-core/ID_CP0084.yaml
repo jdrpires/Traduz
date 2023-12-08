@@ -1,9 +1,0 @@
-messageCode: ID_CP0084
-messageDomain: cadastral-core
-summary: ID_CP0084 - Invalid inclusion date.
-type: error 
-languages:
-- code: pt-BR
-  message: Data de inclusão inválida
-- code: en-US
-  message: Invalid inclusion date.

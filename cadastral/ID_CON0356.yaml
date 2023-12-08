@@ -1,9 +1,0 @@
-messageCode: ID_CON0356
-messageDomain: cadastral
-summary: ID_CON0356 - Invalid Option.
-type: error
-languages:
-- code: pt-BR
-  message: Opção não é válido.
-- code: en-US
-  message: Invalid Option.

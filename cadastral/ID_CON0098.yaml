@@ -1,9 +1,0 @@
-messageCode: ID_CON0098
-messageDomain: cadastral
-summary: ID_CON0098 - One or more entered information are invalid.
-type: error 
-languages:
-- code: pt-BR
-  message: Uma ou mais informações de entrada enviadas não são válidas.
-- code: en-US
-  message: One or more entered information are invalid.
