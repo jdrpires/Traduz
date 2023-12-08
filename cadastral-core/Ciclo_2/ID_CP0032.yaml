@@ -1,0 +1,13 @@
+messageCode: ID_CP0032
+messageDomain: cadastral-core
+summary: ID_CP0032 - Invalid gender.
+type: error 
+languages:
+- code: pt-BR
+  message: Sexo informado inválido
+- code: en-US
+  message: Invalid gender.
+- code: es-ES
+  message: Sexo informado inválido
+- code: es-CL
+  message: Sexo informado inválido

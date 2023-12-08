@@ -1,0 +1,13 @@
+messageCode: ID_CP0285
+messageDomain: cadastral-core
+summary: ID_CP0285 - Invalid allow alert mobile indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador se autoriza envio de alerta por SMS inválido.
+- code: en-US
+  message: Invalid allow alert mobile indicator.
+- code: es-ES
+  message: Indicador se autoriza envio de alerta por SMS inválido.
+- code: es-CL
+  message: Indicador se autoriza envio de alerta por SMS inválido.

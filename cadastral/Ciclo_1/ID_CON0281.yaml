@@ -1,0 +1,13 @@
+messageCode: ID_CON0281
+messageDomain: cadastral
+summary: ID_CON0281 - Invalid last device indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de última via enviado com campo inválido
+- code: en-US
+  message: Invalid last device indicator.
+- code: es-ES
+  message: Indicador de última via enviado com campo inválido
+- code: es-CL
+  message: Indicador de última via enviado com campo inválido

@@ -1,0 +1,13 @@
+messageCode: parameter-economic-condition-was-not-found
+messageDomain: cadastral
+summary: parameter-economic-condition-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: ParÃ¢metro CondiÃ§Ã£o EconÃ´mica nÃ£o encontrado.
+- code: en-US
+  message: parameter economic condition was not found.
+- code: es-ES
+  message: Parámetro de condición económica no encontrado.
+- code: es-CL
+  message: Parámetro de condición económica no encontrado.

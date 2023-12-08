@@ -1,0 +1,13 @@
+messageCode: ID_CON0251
+messageDomain: cadastral-core
+summary: ID_CON0251 - Invalid contract.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato inválido
+- code: en-US
+  message: Invalid contract.
+- code: es-ES
+  message: Contrato inválido
+- code: es-CL
+  message: Contrato inválido

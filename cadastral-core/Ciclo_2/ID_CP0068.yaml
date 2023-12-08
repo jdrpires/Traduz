@@ -1,0 +1,13 @@
+messageCode: ID_CP0068
+messageDomain: cadastral-core
+summary: ID_CP0068 - Document type does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo Documento não existe
+- code: en-US
+  message: Document type does not exist.
+- code: es-ES
+  message: Tipo Documento não existe
+- code: es-CL
+  message: Tipo Documento não existe

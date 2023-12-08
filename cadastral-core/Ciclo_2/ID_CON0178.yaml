@@ -1,0 +1,13 @@
+messageCode: ID_CON0178
+messageDomain: cadastral-core
+summary: ID_CON0178 - There is already an association to the account.
+type: error 
+languages:
+- code: pt-BR
+  message: AssociaÃ§Ã£o com conta principal existente.
+- code: en-US
+  message: There is already an association to the account.
+- code: es-ES
+  message: Asociación con cuenta principal existente.
+- code: es-CL
+  message: Asociación con cuenta principal existente.

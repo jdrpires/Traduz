@@ -1,0 +1,13 @@
+messageCode: ID_CON0329
+messageDomain: cadastral
+summary: ID_CON0329 - Code that references the device as assured is required.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo que referencia o dispositivo como assegurado n√£o preenchido
+- code: en-US
+  message: Code that references the device as assured is required.
+- code: es-ES
+  message: CÛdigo que hace referencia al dispositivo como asegurado no cumplimentado
+- code: es-CL
+  message: CÛdigo que hace referencia al dispositivo como asegurado no cumplimentado

@@ -1,0 +1,13 @@
+messageCode: ID_CON0275
+messageDomain: cadastral
+summary: ID_CON0275 - Device situation description not parameterized in PM032.
+type: error 
+languages:
+- code: pt-BR
+  message: DescriÃ§Ã£o de situaÃ§Ã£o de dispositivo nÃ£o parametrizada na PM032
+- code: en-US
+  message: Device situation description not parameterized in PM032.
+- code: es-ES
+  message: Descripción de situación del dispositivo no parametrizado en PM032
+- code: es-CL
+  message: Descripción de situación del dispositivo no parametrizado en PM032

@@ -1,0 +1,13 @@
+messageCode: ID_CP0169
+messageDomain: cadastral-core
+summary: ID_CP0169 - Cannot change Document required.
+type: error 
+languages:
+- code: pt-BR
+  message: Não pode alterar Documento obrigatório
+- code: en-US
+  message: Cannot change Document required.
+- code: es-ES
+  message: No se puede cambiar el documento obligatorio.
+- code: es-CL
+  message: No se puede cambiar el documento obligatorio.

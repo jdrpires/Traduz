@@ -1,0 +1,13 @@
+messageCode: ID_CP0185
+messageDomain: cadastral-core
+summary: ID_CP0185 - One or more entered information are invalid.
+type: error
+languages:
+- code: pt-BR
+  message: Uma ou mais informa√ß√µes de entrada enviadas n√£o s√£o v√°lidas.
+- code: en-US
+  message: One or more entered information are invalid.
+- code: es-ES
+  message: Una o m·s informaciÛn de entrada enviada no es v·lida.
+- code: es-CL
+  message: Una o m·s informaciÛn de entrada enviada no es v·lida.

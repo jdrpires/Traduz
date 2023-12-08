@@ -1,0 +1,13 @@
+messageCode: ID_CDV0111
+messageDomain: cadastral-core
+summary: ID_CDV0111 - 4th line print indicator not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de impressÃ£o de 4Âª linha nÃ£o informado
+- code: en-US
+  message: 4th line print indicator not reported.
+- code: es-ES
+  message: Indicador de impresión de cuarta línea no informado
+- code: es-CL
+  message: Indicador de impresión de cuarta línea no informado

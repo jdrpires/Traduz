@@ -1,0 +1,13 @@
+messageCode: ID_CP0191
+messageDomain: cadastral-core
+summary: ID_CP0191 - Maintenance Block not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Bloco de Manutenção não informado
+- code: en-US
+  message: Maintenance Block not informed.
+- code: es-ES
+  message: Bloque de mantenimiento no informado
+- code: es-CL
+  message: Bloque de mantenimiento no informado

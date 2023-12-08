@@ -1,0 +1,13 @@
+messageCode: device-holder-owner-is-required
+messageDomain: cadastral-core
+summary: Device_holder_owner is required
+type: error
+languages:
+- code: pt-BR
+  message: É necessário identificar o responsável pelo adicional vinculado.
+- code: en-US
+  message: Device_holder_owner is required.
+- code: es-ES
+  message: É necessário identificar o responsável pelo adicional vinculado.
+- code: es-CL
+  message: É necessário identificar o responsável pelo adicional vinculado.

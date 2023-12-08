@@ -1,0 +1,13 @@
+messageCode: ID_CON0277
+messageDomain: cadastral-core
+summary: ID_CON0277 - More than one main account informed for the device.
+type: error 
+languages:
+- code: pt-BR
+  message: Informada mais de uma conta principal para o dispositivo
+- code: en-US
+  message: More than one main account informed for the device.
+- code: es-ES
+  message: Más de una cuenta principal proporcionada para el dispositivo
+- code: es-CL
+  message: Más de una cuenta principal proporcionada para el dispositivo

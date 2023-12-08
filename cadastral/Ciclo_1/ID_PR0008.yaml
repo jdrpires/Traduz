@@ -1,0 +1,13 @@
+messageCode: ID_PR0008
+messageDomain: cadastral
+summary: ID_PR0008 - Invalid Parameter, cast exception
+type: error
+languages:
+- code: pt-BR
+  message: Parametro Invalido.
+- code: en-US
+  message: Invalid Parameter
+- code: es-ES
+  message: Parametro invalido
+- code: es-CL
+  message: Parametro invalido.

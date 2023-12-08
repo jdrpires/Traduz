@@ -1,0 +1,13 @@
+messageCode: ID_CP0058
+messageDomain: cadastral-core
+summary: ID_CP0058 - Invalid customer indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador cliente inválido
+- code: en-US
+  message: Invalid customer indicator.
+- code: es-ES
+  message: Indicador cliente inválido
+- code: es-CL
+  message: Indicador cliente inválido

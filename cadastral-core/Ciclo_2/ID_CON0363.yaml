@@ -1,0 +1,13 @@
+messageCode: ID_CON0363
+messageDomain: cadastral-core
+summary: ID_CON0363 - Blocked subcontract.
+type: error
+languages:
+- code: pt-BR
+  message: Subcontrato bloqueado.
+- code: en-US
+  message: Blocked subcontract.
+- code: es-ES
+  message: Subcontrato bloqueado.
+- code: es-CL
+  message: Subcontrato bloqueado.

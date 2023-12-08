@@ -1,0 +1,13 @@
+messageCode: ID_CON0169
+messageDomain: cadastral
+summary: ID_CON0169 - Contract has no active owner.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato sem titular ativo.
+- code: en-US
+  message: Contract has no active owner.
+- code: es-ES
+  message: Contrato sin titular activo.
+- code: es-CL
+  message: Contrato sin titular activo.

@@ -1,0 +1,13 @@
+messageCode: embossing-reason-is-invalid
+messageDomain: cadastral
+summary: embossing-reason-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo de embossing é inválida.
+- code: en-US
+  message: Embossing reason is invalid.
+- code: es-ES
+  message: Motivo de embossing é inválida.
+- code: es-CL
+  message: Motivo de embossing é inválida.

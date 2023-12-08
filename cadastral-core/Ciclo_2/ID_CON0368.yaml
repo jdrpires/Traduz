@@ -1,0 +1,13 @@
+messageCode: ID_CON0368
+messageDomain: cadastral-core
+summary: ID_CON0368 - Contract unity is required.
+type: error
+languages:
+- code: pt-BR
+  message: Unidade do contrato não recebido.
+- code: en-US
+  message: Contract unity is required.
+- code: es-ES
+  message: Unidad de contrato no recibida.
+- code: es-CL
+  message: Unidad de contrato no recibida.

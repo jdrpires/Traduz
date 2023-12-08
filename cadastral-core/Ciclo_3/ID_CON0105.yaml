@@ -1,0 +1,13 @@
+messageCode: ID_CON0105
+messageDomain: cadastral-core
+summary: ID_CON0105 - Device cancelled.
+type: error
+languages:
+- code: pt-BR
+  message: Dispositivo Cancelado.
+- code: en-US
+  message: Device cancelled.
+- code: es-ES
+  message: Dispositivo Cancelado.
+- code: es-CL
+  message: Dispositivo Cancelado.

@@ -1,0 +1,13 @@
+messageCode: ID_CON0192
+messageDomain: cadastral
+summary: ID_CON0192 - Product and/or subproduct not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Produto e/ou Subproduto não encontrado.
+- code: en-US
+  message: Product and/or subproduct not found.
+- code: es-ES
+  message: Producto y/o Subproducto no encontrado.
+- code: es-CL
+  message: Producto y/o Subproducto no encontrado.

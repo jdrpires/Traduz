@@ -1,0 +1,13 @@
+messageCode: partner-error-unable-status-inactive
+messageDomain: cadastral
+summary: Unable to change partner status to inactive
+type: info
+languages:
+  - code: pt-BR
+    message: Não é possível alterar o status do parceiro para inativo.
+  - code: en-US
+    message: Unable to change partner status to inactive.
+  - code: es-ES
+    message: No se puede cambiar el estado del socio a inactivo.
+    - code: es-CL
+  message: No es posible cambiar el estado del socio a inactivo.

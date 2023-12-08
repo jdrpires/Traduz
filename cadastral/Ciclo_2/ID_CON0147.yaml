@@ -1,0 +1,13 @@
+messageCode: ID_CON0147
+messageDomain: cadastral
+summary: ID_CON0147 - There is a block which does not permit reissue.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato cont√©m bloqueio que n√£o permite reemiss√£o
+- code: en-US
+  message: There is a block which does not permit reissue.
+- code: es-ES
+  message: El contrato contiene bloqueo que no permite la emisiÛn.
+- code: es-CL
+  message: El contrato contiene bloqueo que no permite la emisiÛn.

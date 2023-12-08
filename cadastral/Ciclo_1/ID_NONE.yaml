@@ -1,0 +1,13 @@
+messageCode: ID_NONE
+messageDomain: cadastral
+summary: ID_NONE - Batch failed
+type: error
+languages:
+- code: pt-BR
+  message: Falha na carga dados.
+- code: en-US
+  message: Batch failed.
+- code: es-ES
+  message: No se pudieron cargar los datos.
+- code: es-CL
+  message: La carga de datos falló.

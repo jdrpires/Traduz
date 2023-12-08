@@ -1,0 +1,13 @@
+messageCode: chip-technology-profile-not-found
+messageDomain: cadastral-core
+summary: Chip technology profile code not found.
+type: error
+languages:
+- code: pt-BR
+  message: Código de tecnologia do chip não encontrado.
+- code: en-US
+  message: Chip technology profile code not found.
+- code: es-ES
+  message: No se encontró el código de perfil de tecnología de chip.
+- code: es-CL
+  message: No se encontró el código de perfil de tecnología de chip.

@@ -1,0 +1,13 @@
+messageCode: ID_CON0291
+messageDomain: cadastral-core
+summary: ID_CON0291 - Insurance indicator not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de seguro não enviado
+- code: en-US
+  message: Insurance indicator not sent.
+- code: es-ES
+  message: Indicador de seguro não enviado
+- code: es-CL
+  message: Indicador de seguro não enviado

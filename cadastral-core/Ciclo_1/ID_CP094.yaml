@@ -1,0 +1,13 @@
+messageCode: ID_CP094
+messageDomain: cadastral-core
+summary: ID_CP094 - Mandatory document is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Documento obrigatório não recebido
+- code: en-US
+  message: Mandatory document is required.
+- code: es-ES
+  message: Documento obligatorio no recibido
+- code: es-CL
+  message: Documento obligatorio no recibido

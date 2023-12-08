@@ -1,0 +1,13 @@
+messageCode: unable-to-associate-more-devices-with-the-received-contract-and-subcontract
+messageDomain: cadastral
+summary: unable-to-associate-more-devices-with-the-received-contract-and-subcontract
+type: error 
+languages:
+- code: pt-BR
+  message: N√£o √© poss√≠vel associar mais devices ao CONTRATO e SUBCONTRATO RECEBIDOS
+- code: en-US
+  message: Unable to associate more devices with the RECEIVED CONTRACT AND SUBCONTRACT
+- code: es-ES
+  message: No es posible asociar m·s dispositivos al CONTRATO y SUBCONTRATO RECIBIDO
+- code: es-CL
+  message: No es posible asociar m·s dispositivos al CONTRATO y SUBCONTRATO RECIBIDO

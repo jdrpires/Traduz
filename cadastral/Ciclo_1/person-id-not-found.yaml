@@ -1,0 +1,13 @@
+messageCode: person-id-not-found
+messageDomain: cadastral
+summary: person-id-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: Código cliente Odin não encontrado.
+- code: en-US
+  message: Odin person_id not found
+- code: es-ES
+  message: Código cliente Odin não encontrado.
+- code: es-CL
+  message: Código cliente Odin não encontrado.

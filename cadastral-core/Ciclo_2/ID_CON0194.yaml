@@ -1,0 +1,13 @@
+messageCode: ID_CON0194
+messageDomain: cadastral-core
+summary: ID_CON0194 - Device or checking account information not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: InformaÃ§Ãµes de dispositivo ou conta corrente nÃ£o enviadas.
+- code: en-US
+  message: Device or checking account information not sent.
+- code: es-ES
+  message: Información del dispositivo o de la cuenta corriente no enviada.
+- code: es-CL
+  message: Información del dispositivo o de la cuenta corriente no enviada.

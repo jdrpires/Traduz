@@ -1,0 +1,13 @@
+messageCode: ID_CP0006
+messageDomain: cadastral-core
+summary: ID_CP0006 - Successfully Registered Intervener.
+type: error 
+languages:
+- code: pt-BR
+  message: Interveniente Cadastrado com Sucesso
+- code: en-US
+  message: Successfully Registered Intervener.
+- code: es-ES
+  message: Interventor registrado exitosamente
+- code: es-CL
+  message: Interventor registrado exitosamente

@@ -1,0 +1,13 @@
+messageCode: ID_CP0274
+messageDomain: cadastral-core
+summary: ID_CP0274 - Invalid reference name.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome de ReferÃªncia invÃ¡lido.
+- code: en-US
+  message: Invalid reference name.
+- code: es-ES
+  message: Nombre de referencia no válido.
+- code: es-CL
+  message: Nombre de referencia no válido.

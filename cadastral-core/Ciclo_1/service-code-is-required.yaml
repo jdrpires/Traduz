@@ -1,0 +1,13 @@
+messageCode: service-code-is-required
+messageDomain: cadastral-core
+summary: service-code-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Código do Serviço é Obrigatório.
+- code: en-US
+  message: Service code is required.
+- code: es-ES
+  message: Se requiere código de servicio.
+- code: es-CL
+  message: Se requiere código de servicio.

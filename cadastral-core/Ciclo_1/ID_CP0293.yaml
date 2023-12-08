@@ -1,0 +1,13 @@
+messageCode: ID_CP0293
+messageDomain: cadastral-core
+summary: ID_CP0293 - Invalid notary office number.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃºmero do cartÃ³rio da certidÃ£o de nascimento invÃ¡lida.
+- code: en-US
+  message: Invalid notary office number.
+- code: es-ES
+  message: Número de registro del acta de nacimiento inválida.
+- code: es-CL
+  message: Número de registro del acta de nacimiento inválida.

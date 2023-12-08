@@ -1,0 +1,13 @@
+messageCode: overdue-payment-allowance-parameter-was-not-found
+messageDomain: cadastral
+summary: overdue-payment-allowance-parameter-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: ParÃ¢metro de tempo mÃ¡ximo para ativar a funÃ§Ã£o crÃ©dito nÃ£o foi encontrado
+- code: en-US
+  message: Maximum time parameter for the activation of the credit funcion was not found
+- code: es-ES
+  message: No se encontró el parámetro de tiempo manual para activar la función de crédito.
+- code: es-CL
+  message: No se encontró el parámetro de tiempo manual para activar la función de crédito.

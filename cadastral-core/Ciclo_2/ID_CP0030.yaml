@@ -1,0 +1,13 @@
+messageCode: ID_CP0030
+messageDomain: cadastral-core
+summary: ID_CP0030 - Channel does not exist
+type: error 
+languages:
+- code: pt-BR
+  message: Canal informado não existe
+- code: en-US
+  message: Channel does not exist
+- code: es-ES
+  message: El canal informado no existe
+- code: es-CL
+  message: El canal informado no existe

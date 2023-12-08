@@ -1,0 +1,13 @@
+messageCode: currency-code-is-required
+messageDomain: cadastral
+summary: currency-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Moeda é obrigatório.
+- code: en-US
+  message: Currecy code is required.
+- code: es-ES
+  message: Se requiere moneda.
+- code: es-CL
+  message: Se requiere moneda.

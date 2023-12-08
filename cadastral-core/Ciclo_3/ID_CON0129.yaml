@@ -1,0 +1,13 @@
+messageCode: ID_CON0129
+messageDomain: cadastral-core
+summary: ID_CON0129 - An error occurred during group cancellation processing.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro durante o processamento do cancelamento do agrupamento.
+- code: en-US
+  message: An error occurred during group cancellation processing.
+- code: es-ES
+  message: Se produjo un error al procesar la cancelación de agrupación.
+- code: es-CL
+  message: Se produjo un error al procesar la cancelación de agrupación.

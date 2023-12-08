@@ -1,0 +1,13 @@
+messageCode: derivative-limit-type-by-currency-parameter-was-not-found
+messageDomain: cadastral
+summary: derivative-limit-type-by-currency-parameter-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: O parÃ¢metro tipo de limite derivado por moeda nÃ£o foi encontrado.
+- code: en-US
+  message: Derivative limit type by currency parameter was not found.
+- code: es-ES
+  message: No se encontró el tipo de parámetro de límite derivado por moneda.
+- code: es-CL
+  message: No se encontró el tipo de parámetro de límite derivado por moneda.

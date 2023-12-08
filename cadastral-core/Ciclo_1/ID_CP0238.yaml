@@ -1,0 +1,13 @@
+messageCode: ID_CP0238
+messageDomain: cadastral-core
+summary: ID_CP0238 - Client name invalid.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome do cliente inv√°lido.
+- code: en-US
+  message: Client name invalid.
+- code: es-ES
+  message: Nombre de cliente no v·lido.
+- code: es-CL
+  message: Nombre de cliente no v·lido.

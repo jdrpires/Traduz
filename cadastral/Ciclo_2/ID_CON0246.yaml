@@ -1,0 +1,13 @@
+messageCode: ID_CON0246
+messageDomain: cadastral
+summary: ID_CON0246 - Address sequential not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Sequencial de Endereço não informado
+- code: en-US
+  message: Address sequential not informed.
+- code: es-ES
+  message: Secuencia de direcciones no proporcionada
+- code: es-CL
+  message: Secuencia de direcciones no proporcionada

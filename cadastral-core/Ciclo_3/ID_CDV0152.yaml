@@ -1,0 +1,13 @@
+messageCode: ID_CDV0152
+messageDomain: cadastral-core
+summary: ID_CDV0152 - Error when calling the parameter service.
+type: error
+languages:
+- code: pt-BR
+  message: Erro ao chamar o serviço de parâmetro.
+- code: en-US
+  message: Error when calling the parameter service.
+- code: es-ES
+  message: Error al llamar al servicio de parámetros.
+- code: es-CL
+  message: Error al llamar al servicio de parámetros.

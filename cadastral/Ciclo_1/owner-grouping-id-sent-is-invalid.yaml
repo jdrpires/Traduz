@@ -1,0 +1,13 @@
+messageCode: owner-grouping-id-sent-is-invalid
+messageDomain: cadastral
+summary: owner-grouping-id-sent-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Código do beneficiário enviado é inválido.
+- code: en-US
+  message: Owner grouping id sent is invalid.
+- code: es-ES
+  message: Código do beneficiário enviado é inválido.
+- code: es-CL
+  message: Código do beneficiário enviado é inválido.

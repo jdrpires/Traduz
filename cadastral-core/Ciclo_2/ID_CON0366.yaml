@@ -1,0 +1,13 @@
+messageCode: ID_CON0366
+messageDomain: cadastral-core
+summary: ID_CON0366 - Unavailable subcontract range.
+type: error
+languages:
+- code: pt-BR
+  message: Range de subcontratos indisponível para a chave.
+- code: en-US
+  message: Unavailable subcontract range.
+- code: es-ES
+  message: Range de subcontratos indisponível para a chave.
+- code: es-CL
+  message: Range de subcontratos indisponível para a chave.

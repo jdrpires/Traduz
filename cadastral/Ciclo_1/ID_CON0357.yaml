@@ -1,0 +1,13 @@
+messageCode: ID_CON0357
+messageDomain: cadastral
+summary: ID_CON0357 - Valid Data.
+type: error
+languages:
+- code: pt-BR
+  message: Dados Validos.
+- code: en-US
+  message: Valid Data.
+- code: es-ES
+  message: Datos válidos.
+- code: es-CL
+  message: Datos válidos.

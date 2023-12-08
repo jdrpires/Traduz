@@ -1,0 +1,13 @@
+messageCode: ID_CON0262
+messageDomain: cadastral-core
+summary: ID_CON0262 - Lock code out of contract range.
+type: error
+languages:
+- code: pt-BR
+  message: Codigo de bloqueio fora do alcance de contrato.
+- code: en-US
+  message: Lock code out of contract range.
+- code: es-ES
+  message: Código de bloqueo fuera del alcance del contrato.
+- code: es-CL
+  message: Código de bloqueo fuera del alcance del contrato.

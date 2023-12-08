@@ -1,0 +1,13 @@
+messageCode: granted-limit-type-code-is-required
+messageDomain: cadastral
+summary: granted-limit-type-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de limite concedido Ã© obrigatÃ³rio.
+- code: en-US
+  message: Granted limit type code is required.
+- code: es-ES
+  message: El tipo de límite otorgado es obligatorio.
+- code: es-CL
+  message: El tipo de límite otorgado es obligatorio.

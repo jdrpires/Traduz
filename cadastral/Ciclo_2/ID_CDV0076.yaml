@@ -1,0 +1,13 @@
+messageCode: ID_CDV0076
+messageDomain: cadastral
+summary: ID_CDV0076 - Digital device not permitted for the hired product.
+type: error 
+languages:
+- code: pt-BR
+  message: Não é permitido gerar dispositivo Digital para o produto contratado.
+- code: en-US
+  message: Digital device not permitted for the hired product.
+- code: es-ES
+  message: Não é permitido gerar dispositivo Digital para o produto contratado.
+- code: es-CL
+  message: Não é permitido gerar dispositivo Digital para o produto contratado.

@@ -1,0 +1,13 @@
+messageCode: contract-id-is-required
+messageDomain: cadastral
+summary: contract-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do Contrato é obrigatório.
+- code: en-US
+  message: Contract id is required.
+- code: es-ES
+  message: Código do Contrato é obrigatório.
+- code: es-CL
+  message: Código do Contrato é obrigatório.

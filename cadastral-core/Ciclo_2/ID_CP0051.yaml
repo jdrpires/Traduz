@@ -1,0 +1,13 @@
+messageCode: ID_CP0051
+messageDomain: cadastral-core
+summary: ID_CP0051 - Invalid email receipt authorization indicator.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador autorizaÃ§Ã£o recebimento email invÃ¡lido.
+- code: en-US
+  message: Invalid email receipt authorization indicator.
+- code: es-ES
+  message: Indicador de autorización de recibo de correo electrónico no válido.
+- code: es-CL
+  message: Indicador de autorización de recibo de correo electrónico no válido.

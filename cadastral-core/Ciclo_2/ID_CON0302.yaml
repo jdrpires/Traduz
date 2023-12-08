@@ -1,0 +1,13 @@
+messageCode: ID_CON0302
+messageDomain: cadastral-core
+summary: ID_CON0302 - Entity is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Entidade não informada
+- code: en-US
+  message: Entity is required.
+- code: es-ES
+  message: Entidad no informada
+- code: es-CL
+  message: Entidad no informada

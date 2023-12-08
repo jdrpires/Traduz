@@ -1,0 +1,13 @@
+messageCode: bian-parameter-unsupported-value-type
+messageDomain: cadastral
+summary: Parameter with unsupported value type
+type: error
+languages:
+  - code: pt-BR
+    message: O parâmetro enviado "{{parameterName}}" com o valor {{value}} é incompatível com o tipo "{{propertyType}}".
+  - code: en-US
+    message: The parameter "{{parameterName}}" with value {{value}} is incompatible with type "{{propertyType}}".
+  - code: es-ES
+    message: El parámetro "{{parameterName}}" con valor {{value}} es incompatible con el tipo "{{propertyType}}".
+  - code: es-CL
+    message: El par�metro enviado "{{parameterName}}" con el valor {{value}} es incompatible con el tipo "{{propertyType}}".

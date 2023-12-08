@@ -1,0 +1,13 @@
+messageCode: ID_ONB082
+messageDomain: cadastral-core
+summary: ID_ONB082 - Current account currency is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Moeda da conta corrente não informado.
+- code: en-US
+  message: Current account currency is required.
+- code: es-ES
+  message: Moneda de la cuenta corriente no especificada.
+- code: es-CL
+  message: Moneda de la cuenta corriente no especificada.

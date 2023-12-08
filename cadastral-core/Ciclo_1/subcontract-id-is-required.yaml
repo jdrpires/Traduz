@@ -1,0 +1,13 @@
+messageCode: subcontract-id-is-required
+messageDomain: cadastral-core
+summary: subcontract-id-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Código do Subcontrato não informado.
+- code: en-US
+  message: Subcontract id is required.
+- code: es-ES
+  message: Se requiere identificación de subcontrato
+- code: es-CL
+  message: Se requiere identificación de subcontrato

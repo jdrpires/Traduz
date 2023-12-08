@@ -1,0 +1,13 @@
+messageCode: ID_CON0264
+messageDomain: cadastral
+summary: ID_CON0264 - Lock operability indicator not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de Operatividade de Bloqueio não encontrado
+- code: en-US
+  message: Lock operability indicator not found.
+- code: es-ES
+  message: Indicador de operatividad de bloqueo no encontrado
+- code: es-CL
+  message: Indicador de operatividad de bloqueo no encontrado

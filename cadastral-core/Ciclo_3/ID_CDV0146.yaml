@@ -1,0 +1,14 @@
+messageCode: ID_CDV0146
+messageDomain: cadastral-core
+summary: ID_CDV0146 - Customer not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Cliente não encontrado.
+- code: en-US
+  message: Customer not found.
+
+- code: es-ES
+  message: Cliente no encontrado.
+- code: es-CL
+  message: Cliente no encontrado.

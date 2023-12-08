@@ -1,0 +1,13 @@
+messageCode: ID_PM0010
+messageDomain: cadastral
+summary: ID_PM0010 - Risk CEP Range, outside the Delivery Company's
+type: error
+languages:
+- code: pt-BR
+  message: Faixa de CEP de Risco informado esta fora da Faixa de CEP de atuacao da Empresa de Entrega.
+- code: en-US
+  message: CEP Range of Risk informed is outside the CEP Range of action of the Delivery Company.
+- code: es-ES
+  message: CEP Rango de Riesgo informado está fuera del CEP Rango de acción de la Empresa de Entrega.
+- code: es-CL
+  message: El Rango CEP de Riesgo informado est� fuera del Rango CEP en el que opera la Empresa Repartidora.

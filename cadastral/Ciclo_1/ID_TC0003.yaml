@@ -1,0 +1,13 @@
+messageCode: ID_TC0003
+messageDomain: cadastral
+summary: ID_TC0003 - Not found
+type: error
+languages:
+- code: pt-BR
+  message: Registro nao encontrado.
+- code: en-US
+  message: Record not found.
+- code: es-ES
+  message: Registro no encontrado.
+- code: es-CL
+  message: Registro no encontrado.

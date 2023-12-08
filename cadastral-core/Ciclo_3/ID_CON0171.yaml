@@ -1,0 +1,13 @@
+messageCode: ID_CON0171
+messageDomain: cadastral-core
+summary: ID_CON0171 - Embossing name was not sent to be engraved.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome de embossing nÃ£o foi enviado para ser gravado.
+- code: en-US
+  message: Embossing name was not sent to be engraved.
+- code: es-ES
+  message: El nombre en relieve no se envió para grabar.
+- code: es-CL
+  message: El nombre en relieve no se envió para grabar.

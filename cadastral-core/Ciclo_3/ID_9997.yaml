@@ -1,0 +1,13 @@
+messageCode: ID_9997
+messageDomain: cadastral-core
+summary: ID_9997 - Beneficiary removal error.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na remoção do beneficiário.
+- code: en-US
+  message: Beneficiary removal error.
+- code: es-ES
+  message: Error al eliminar al beneficiario.
+- code: es-CL
+  message: Error al eliminar al beneficiario.

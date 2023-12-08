@@ -1,0 +1,13 @@
+messageCode: ID_CP0144
+messageDomain: cadastral-core
+summary: ID_CP0144 - Failed to include usage type.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro inclusão tipo de uso
+- code: en-US
+  message: Failed to include usage type.
+- code: es-ES
+  message: Erro inclusão tipo de uso
+- code: es-CL
+  message: Erro inclusão tipo de uso

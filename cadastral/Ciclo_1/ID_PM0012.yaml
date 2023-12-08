@@ -1,0 +1,13 @@
+messageCode: ID_PM0012
+messageDomain: cadastral
+summary: ID_PM0012 - Invalid AR number.
+type: error
+languages:
+  - code: pt-BR
+    message: Numero de AR informado ja esta cadastrado em outro Range de Numero de AR.
+  - code: en-US
+    message: The AR number informed is already registered in another AR Number Range.
+  - code: es-ES
+    message: El nÃºmero de AR informado ya estÃ¡ registrado en otro Rango de NÃºmeros de AR.
+  - code: es-CL
+    message: El número AR ingresado ya está registrado en otro rango de números AR.

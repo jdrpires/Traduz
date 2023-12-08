@@ -1,0 +1,13 @@
+messageCode: ID_9999
+messageDomain: cadastral
+summary: ID_9999 - An error occurred while generating the number.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao gerar numero de contrato.
+- code: en-US
+  message: An error occurred while generating the number.
+- code: es-ES
+  message: Erro ao gerar numero de contrato.
+- code: es-CL
+  message: Erro ao gerar numero de contrato.

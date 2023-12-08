@@ -1,0 +1,13 @@
+messageCode: ID_CON0253
+messageDomain: cadastral-core
+summary: ID_CON0253 - Filled insurance indicator other than “Y” or “N”
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de seguro preenchido diferente de “Y” ou “N”
+- code: en-US
+  message: Filled insurance indicator other than “Y” or “N”
+- code: es-ES
+  message: Indicador de seguro completado distinto de “Y” or “N”
+- code: es-CL
+  message: Indicador de seguro completado distinto de “Y” or “N”

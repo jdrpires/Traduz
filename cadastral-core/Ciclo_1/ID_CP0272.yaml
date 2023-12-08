@@ -1,0 +1,13 @@
+messageCode: ID_CP0272
+messageDomain: cadastral-core
+summary: ID_CP0272 - Invalid income proof type.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de comprovação de renda inválido.
+- code: en-US
+  message: Invalid income proof type.
+- code: es-ES
+  message: Tipo de comprovação de renda inválido.
+- code: es-CL
+  message: Tipo de comprovação de renda inválido.

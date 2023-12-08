@@ -1,0 +1,13 @@
+messageCode: ID_CP0060
+messageDomain: cadastral-core
+summary: ID_CP0060 - Income currency does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Moeda renda não existe
+- code: en-US
+  message: Income currency does not exist.
+- code: es-ES
+  message: La moneda de ingreso no existe.
+- code: es-CL
+  message: La moneda de ingreso no existe.

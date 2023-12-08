@@ -1,0 +1,13 @@
+messageCode: device-delivery-mode-is-required
+messageDomain: cadastral-core
+summary: device-delivery-mode-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de como será a entrega é obrigatório.
+- code: en-US
+  message: Device delivery mode is Required.
+- code: es-ES
+  message: Indicador de como será a entrega é obrigatório.
+- code: es-CL
+  message: Indicador de como será a entrega é obrigatório.

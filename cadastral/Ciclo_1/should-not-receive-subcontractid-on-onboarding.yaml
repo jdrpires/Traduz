@@ -1,0 +1,13 @@
+messageCode: should-not-receive-subcontractid-on-onboarding
+messageDomain: cadastral
+summary: should-not-receive-subcontractid-on-onboarding
+type: error 
+languages:
+- code: pt-BR
+  message: Não deve receber SubContrato no OnBoarding
+- code: en-US
+  message: Should not receive subContractId on onboarding
+- code: es-ES
+  message: NO debes recibir un Subcontratista en el OnBoarding
+- code: es-CL
+  message: NO debes recibir un Subcontratista en el OnBoarding

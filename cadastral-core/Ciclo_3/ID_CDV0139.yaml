@@ -1,0 +1,13 @@
+messageCode: ID_CDV0139
+messageDomain: cadastral-core
+summary: ID_CDV0139 - Current account currency not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Moeda da conta corrente não informada
+- code: en-US
+  message: Current account currency not reported.
+- code: es-ES
+  message: Moneda de la cuenta corriente no especificada
+- code: es-CL
+  message: Moneda de la cuenta corriente no especificada

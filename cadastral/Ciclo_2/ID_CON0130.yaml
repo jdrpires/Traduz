@@ -1,0 +1,13 @@
+messageCode: ID_CON0130
+messageDomain: cadastral
+summary: ID_CON0130 - Device is not the last one.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo não é a última via
+- code: en-US
+  message: Device is not the last one.
+- code: es-ES
+  message: Dispositivo não é a última via
+- code: es-CL
+  message: Dispositivo não é a última via

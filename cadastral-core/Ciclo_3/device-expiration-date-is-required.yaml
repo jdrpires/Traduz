@@ -1,0 +1,13 @@
+messageCode: device-expiration-date-is-required
+messageDomain: cadastral-core
+summary: device-expiration-date-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Data de expiracao do dispositivo é obrigatória.
+- code: en-US
+  message: Device expiration date is required.
+- code: es-ES
+  message: Se requiere la fecha de vencimiento del dispositivo.
+- code: es-CL
+  message: Data de expiracao do dispositivo é obrigatória.

@@ -1,0 +1,13 @@
+messageCode: ID_CON0350
+messageDomain: cadastral
+summary: ID_CON0350 - Expired device expiration date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data validade do dispositivo expirado.
+- code: en-US
+  message: Expired device expiration date.
+- code: es-ES
+  message: Fecha de vencimiento del dispositivo vencida.
+- code: es-CL
+  message: Fecha de vencimiento del dispositivo vencida.

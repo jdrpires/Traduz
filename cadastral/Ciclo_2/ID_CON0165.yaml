@@ -1,0 +1,13 @@
+messageCode: ID_CON0165
+messageDomain: cadastral
+summary: ID_CON0165 - There is a contract block which does not permit renewal.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato contém bloqueio que não permite renovação
+- code: en-US
+  message: There is a contract block which does not permit renewal.
+- code: es-ES
+  message: El contrato contiene un candado que no permite la renovaci�n.
+- code: es-CL
+  message: El contrato contiene un candado que no permite la renovaci�n.

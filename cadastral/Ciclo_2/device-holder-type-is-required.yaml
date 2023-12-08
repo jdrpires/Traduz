@@ -1,0 +1,13 @@
+messageCode: device-holder-type-is-required
+messageDomain: cadastral
+summary: device-holder-type-is-required
+type: error
+languages:
+- code: pt-BR
+  message: O tipo do suporte do dispositivo é exigido.
+- code: en-US
+  message: Device holder type is required.
+- code: es-ES
+  message: Se requiere el tipo de soporte del dispositivo.
+- code: es-CL
+  message: Se requiere el tipo de soporte del dispositivo.

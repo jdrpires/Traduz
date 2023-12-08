@@ -1,0 +1,13 @@
+messageCode: ID_CON0013
+messageDomain: cadastral
+summary: ID_CON0013 - Inconsistent Limit/Currency type - Not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo Limite/Moeda inconsistente - NÃ£o localizada.
+- code: en-US
+  message: Inconsistent Limit/Currency type - Not found.
+- code: es-ES
+  message: Límite/tipo de moneda inconsistente: no encontrado.
+- code: es-CL
+  message: Límite/tipo de moneda inconsistente: no encontrado.

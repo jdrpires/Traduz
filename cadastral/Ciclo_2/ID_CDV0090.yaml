@@ -1,0 +1,13 @@
+messageCode: ID_CDV0090
+messageDomain: cadastral
+summary: ID_CDV0090 - Password is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Campo Senha nÃ£o preenchido
+- code: en-US
+  message: Password is required.
+- code: es-ES
+  message: Campo de contraseña no completado
+- code: es-CL
+  message: Campo de contraseña no completado

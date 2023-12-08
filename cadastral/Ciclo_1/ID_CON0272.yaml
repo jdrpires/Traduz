@@ -1,0 +1,13 @@
+messageCode: ID_CON0272
+messageDomain: cadastral
+summary: ID_CON0272 - Product description not parameterized in TC036.
+type: error 
+languages:
+- code: pt-BR
+  message: DescriÃ§Ã£o de produto nÃ£o parametrizada na TC036
+- code: en-US
+  message: Product description not parameterized in TC036.
+- code: es-ES
+  message: Descripción del producto no parametrizada en TC036
+- code: es-CL
+  message: Descripción del producto no parametrizada en TC036

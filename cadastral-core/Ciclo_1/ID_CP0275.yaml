@@ -1,0 +1,13 @@
+messageCode: ID_CP0275
+messageDomain: cadastral-core
+summary: ID_CP0275 - Invalid area code.
+type: error 
+languages:
+- code: pt-BR
+  message: DDD de referência inválido
+- code: en-US
+  message: Invalid area code.
+- code: es-ES
+  message: DDD de referência inválido
+- code: es-CL
+  message: DDD de referência inválido

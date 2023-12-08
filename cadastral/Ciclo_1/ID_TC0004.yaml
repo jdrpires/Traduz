@@ -1,0 +1,13 @@
+messageCode: ID_TC0004
+messageDomain: cadastral
+summary: ID_TC0004 - Table not found
+type: error
+languages:
+- code: pt-BR
+  message: Nome da Tabela/coluna Informada Não Encontrada.
+- code: en-US
+  message: Name of Table/Column Not Found.
+- code: es-ES
+  message: Nombre de tabla/columna no encontrada.
+- code: es-CL
+  message: Nombre de la tabla/columna informada no encontrada.

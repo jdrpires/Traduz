@@ -1,0 +1,13 @@
+messageCode: ID_CP0294
+messageDomain: cadastral-core
+summary: ID_CP0294 - Invalid work card serial number.
+type: error 
+languages:
+- code: pt-BR
+  message: S√©rie da carteira de trabalho inv√°lida.
+- code: en-US
+  message: Invalid work card serial number.
+- code: es-ES
+  message: Serie de tarjetas de trabajo no v·lidas.
+- code: es-CL
+  message: Serie de tarjetas de trabajo no v·lidas.

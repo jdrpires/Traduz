@@ -1,0 +1,13 @@
+messageCode: ID_CDV0087
+messageDomain: cadastral-core
+summary: ID_CDV0087 - Contract is not active.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato n√£o se encontra ativo.
+- code: en-US
+  message: Contract is not active.
+- code: es-ES
+  message: El contrato no est· activo.
+- code: es-CL
+  message: El contrato no est· activo.

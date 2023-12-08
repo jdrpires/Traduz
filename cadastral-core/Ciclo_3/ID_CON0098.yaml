@@ -1,0 +1,13 @@
+messageCode: ID_CON0098
+messageDomain: cadastral-core
+summary: ID_CON0098 - Invalid information sent.
+type: error
+languages:
+- code: pt-BR
+  message: Informações enviadas inválidas.
+- code: en-US
+  message: Invalid information sent.
+- code: es-ES
+  message: Información no válida enviada.
+- code: es-CL
+  message: Información no válida enviada.

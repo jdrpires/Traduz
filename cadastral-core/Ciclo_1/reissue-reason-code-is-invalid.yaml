@@ -1,0 +1,13 @@
+messageCode: reissue-reason-code-is-invalid
+messageDomain: cadastral-core
+summary: reissue-reason-code-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo de reemissÃ£o invÃ¡lido
+- code: en-US
+  message: Reissue reason code is invalid
+- code: es-ES
+  message: Motivo de reemisión no válido
+- code: es-CL
+  message: Motivo de reemisión no válido

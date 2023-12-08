@@ -1,0 +1,13 @@
+messageCode: ID_CP0045
+messageDomain: cadastral-core
+summary: ID_CP0045 - Return reason does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo devoluÃ§Ã£o nÃ£o existe
+- code: en-US
+  message: Return reason does not exist.
+- code: es-ES
+  message: El motivo de la devolución no existe.
+- code: es-CL
+  message: El motivo de la devolución no existe.

@@ -1,0 +1,13 @@
+messageCode: ID_PM0003
+messageDomain: cadastral
+summary: ID_PM0003 - Record already exists in the database
+type: error
+languages:
+- code: pt-BR
+  message: Operacao nao realizada, registro ja existente.
+- code: en-US
+  message: Operation not performed, record already existing.
+- code: es-ES
+  message: Operacion no realizada, registro ya existente.
+- code: es-CL
+  message: Operacion no realizada, registro ya existente.

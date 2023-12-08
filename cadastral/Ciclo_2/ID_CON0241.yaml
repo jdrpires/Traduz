@@ -1,0 +1,13 @@
+messageCode: ID_CON0241
+messageDomain: cadastral
+summary: ID_CON0241 - Name print indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de impress√£o de Nome n√£o informado
+- code: en-US
+  message: Name print indicator not informed.
+- code: es-ES
+  message: Indicador de impress√o de Nome n√o informado
+- code: es-CL
+  message: Indicador de impress√o de Nome n√o informado

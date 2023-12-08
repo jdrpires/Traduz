@@ -1,0 +1,13 @@
+messageCode: ID_CON0260
+messageDomain: cadastral-core
+summary: ID_CON0260 - Account type indicator not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador tipo de conta não enviado.
+- code: en-US
+  message: Account type indicator not sent.
+- code: es-ES
+  message: Indicador tipo de conta não enviado.
+- code: es-CL
+  message: Indicador tipo de conta não enviado.

@@ -1,0 +1,13 @@
+messageCode: phone-id-is-required
+messageDomain: cadastral-core
+summary: Phone id is required.
+type: error
+languages:
+- code: pt-BR
+  message: ObrigatÃ³rio informar ID do telefone
+- code: en-US
+  message: Phone id is required.
+- code: es-ES
+  message: Se requiere identificación telefónica
+- code: es-CL
+  message: Se requiere identificación telefónica

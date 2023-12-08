@@ -1,0 +1,13 @@
+messageCode: ID_CON0099
+messageDomain: cadastral
+summary: ID_CON0099 - Entity and/or device_id not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Entidade e/ou device_id não enviados.
+- code: en-US
+  message: Entity and/or device_id not sent.
+- code: es-ES
+  message: Entidad y/o dispositivo_id no enviado.
+- code: es-CL
+  message: Entidad y/o dispositivo_id no enviado.

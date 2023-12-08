@@ -1,0 +1,13 @@
+messageCode: insertion-date-is-required
+messageDomain: cadastral-core
+summary: invalid-insertion-date - Data de inserção é obrigatória.
+type: error
+languages:
+- code: pt-BR
+  message: Data de inserção é obrigatória.
+- code: en-US
+  message: Insertion date is required.
+- code: es-ES
+  message: Se requiere fecha de inserción.
+- code: es-CL
+  message: Se requiere fecha de inserción.

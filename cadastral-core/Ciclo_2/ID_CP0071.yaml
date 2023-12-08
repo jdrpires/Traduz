@@ -1,0 +1,13 @@
+messageCode: ID_CP0071
+messageDomain: cadastral-core
+summary: ID_CP0071 - Country issuance document informed does not exist in the corresponding domain table.
+type: error 
+languages:
+- code: pt-BR
+  message: PaÃ­s emissÃ£o documento informado nÃ£o existe na tabela de domÃ­nio correspondente
+- code: en-US
+  message: Country issuance document informed does not exist in the corresponding domain table.
+- code: es-ES
+  message: El documento informado del país de emisión no existe en la tabla de dominio correspondiente
+- code: es-CL
+  message: El documento informado del país de emisión no existe en la tabla de dominio correspondiente

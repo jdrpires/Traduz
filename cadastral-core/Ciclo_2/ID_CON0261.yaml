@@ -1,0 +1,13 @@
+messageCode: ID_CON0261
+messageDomain: cadastral-core
+summary: ID_CON0261 - Cacelling reason informed not valid.
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo de Cancelamento passado estÃ¡ invÃ¡lido.
+- code: en-US
+  message: Cacelling reason informed not valid.
+- code: es-ES
+  message: El motivo de cancelación anterior no es válido.
+- code: es-CL
+  message: El motivo de cancelación anterior no es válido.

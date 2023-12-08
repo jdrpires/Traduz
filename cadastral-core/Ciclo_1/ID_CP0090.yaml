@@ -1,0 +1,13 @@
+messageCode: ID_CP0090
+messageDomain: cadastral-core
+summary: ID_CP0090 - Invalid Patrimony Inclusion Date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data Inclus√£o Patrim√¥nio inv√°lido
+- code: en-US
+  message: Invalid Patrimony Inclusion Date.
+- code: es-ES
+  message: Fecha InclusiÛn Patrimonio Inv·lido
+- code: es-CL
+  message: Fecha InclusiÛn Patrimonio Inv·lido

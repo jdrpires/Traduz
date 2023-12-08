@@ -1,0 +1,13 @@
+messageCode: ID_CP0261
+messageDomain: cadastral-core
+summary: ID_CP0261 - Invalid property number.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃºmero do imÃ³vel invÃ¡lido.
+- code: en-US
+  message: Invalid property number.
+- code: es-ES
+  message: Número de propiedad no válido.
+- code: es-CL
+  message: Número de propiedad no válido.

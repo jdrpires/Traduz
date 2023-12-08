@@ -1,0 +1,13 @@
+messageCode: bin-operational-function-is-required
+messageDomain: cadastral-core
+summary: bin-operational-function-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Funcionalidade do Bin é obrigatória.
+- code: en-US
+  message: Bin-operational function is required.
+- code: es-ES
+  message: Funcionalidad del Bin eres obligatorio.
+- code: es-CL
+  message: Funcionalidad del Bin eres obligatorio.

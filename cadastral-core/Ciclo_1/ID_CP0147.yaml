@@ -1,0 +1,13 @@
+messageCode: ID_CP0147
+messageDomain: cadastral-core
+summary: ID_CP0147 - Contract does not exist for the informed person.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato não existe para a pessoa informada.
+- code: en-US
+  message: Contract does not exist for the informed person.
+- code: es-ES
+  message: El contrato no existe para la persona informada.
+- code: es-CL
+  message: El contrato no existe para la persona informada.

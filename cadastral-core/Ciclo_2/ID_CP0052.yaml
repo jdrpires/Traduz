@@ -1,0 +1,13 @@
+messageCode: ID_CP0052
+messageDomain: cadastral-core
+summary: ID_CP0052 - Invalid email address.
+type: error
+languages:
+- code: pt-BR
+  message: EndereÃ§o email invÃ¡lido.
+- code: en-US
+  message: Invalid email address.
+- code: es-ES
+  message: Dirección de correo electrónico no válida.
+- code: es-CL
+  message: Dirección de correo electrónico no válida.

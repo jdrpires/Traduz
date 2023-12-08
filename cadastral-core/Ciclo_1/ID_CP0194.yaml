@@ -1,0 +1,13 @@
+messageCode: ID_CP0194
+messageDomain: cadastral-core
+summary: ID_CP0194 - Customer code in the issuing entity not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Código do cliente na entidade emissora não encontrado.
+- code: en-US
+  message: Customer code in the issuing entity not found.
+- code: es-ES
+  message: Código de cliente en la entidad emisora no encontrado.
+- code: es-CL
+  message: Código de cliente en la entidad emisora no encontrado.

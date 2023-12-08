@@ -1,0 +1,13 @@
+messageCode: ID_CON0249
+messageDomain: cadastral-core
+summary: ID_CON0249 - Requester channel information not sent.
+type: error
+languages:
+- code: pt-BR
+  message: Informações sobre o canal solicitante não enviadas.
+- code: en-US
+  message: Requester channel information not sent.
+- code: es-ES
+  message: Información sobre el canal de solicitud no visual.
+- code: es-CL
+  message: Información sobre el canal de solicitud no visual.

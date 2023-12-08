@@ -1,0 +1,13 @@
+messageCode: main-account-indicator-is-required
+messageDomain: cadastral
+summary: main-account-indicator-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador Tipo de conta é obrigatório.
+- code: en-US
+  message: Main Account Indicator is Required.
+- code: es-ES
+  message: Indicador Tipo de conta é obrigatório.
+- code: es-CL
+  message: Indicador Tipo de conta é obrigatório.

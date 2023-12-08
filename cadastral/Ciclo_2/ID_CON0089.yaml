@@ -1,0 +1,13 @@
+messageCode: ID_CON0089
+messageDomain: cadastral
+summary: ID_CON0089 - Insurance not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Seguro não encontrado.
+- code: en-US
+  message: Insurance not found.
+- code: es-ES
+  message: Seguro no encontrado.
+- code: es-CL
+  message: Seguro no encontrado.

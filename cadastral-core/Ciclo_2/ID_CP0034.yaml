@@ -1,0 +1,13 @@
+messageCode: ID_CP0034
+messageDomain: cadastral-core
+summary: ID_CP0034 - City of the birth does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Municipio nascimento informado não existe
+- code: en-US
+  message: City of the birth does not exist.
+- code: es-ES
+  message: Municipio de nacimiento informado no existe
+- code: es-CL
+  message: Municipio de nacimiento informado no existe

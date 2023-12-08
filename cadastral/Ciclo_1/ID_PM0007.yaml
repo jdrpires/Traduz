@@ -1,0 +1,13 @@
+messageCode: ID_PM0007
+messageDomain: cadastral
+summary: ID_PM0007 - Invalid range
+type: error
+languages:
+  - code: pt-BR
+    message: Range Inicial informado ja esta cadastrado em outro Range de BIN.
+  - code: en-US
+    message: Initial Range informed is already registered in another BIN Range.
+  - code: es-ES
+    message: El rango inicial informado ya esta registrado en otro rango BIN.
+  - code: es-CL
+    message: El rango inicial ingresado ya está registrado en otro rango BIN.

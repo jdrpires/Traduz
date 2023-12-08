@@ -1,0 +1,13 @@
+messageCode: ID_CON0276
+messageDomain: cadastral
+summary: ID_CON0276 - Main account for device not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Conta principal para o dispositivo não informada
+- code: en-US
+  message: Main account for device not informed.
+- code: es-ES
+  message: Cuenta principal para el dispositivo no proporcionada
+- code: es-CL
+  message: Cuenta principal para el dispositivo no proporcionada

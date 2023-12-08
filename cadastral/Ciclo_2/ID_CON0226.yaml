@@ -1,0 +1,13 @@
+messageCode: ID_CON0226
+messageDomain: cadastral
+summary: ID_CON0226 - Product code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo do Produto n√£o informado
+- code: en-US
+  message: Product code not informed.
+- code: es-ES
+  message: CÛdigo de producto no proporcionado
+- code: es-CL
+  message: CÛdigo de producto no proporcionado

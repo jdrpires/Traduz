@@ -1,0 +1,13 @@
+messageCode: ID_CP0087
+messageDomain: cadastral-core
+summary: ID_CP0087 - Invalid company admission date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de admissÃ£o na empresa invÃ¡lida
+- code: en-US
+  message: Invalid company admission date.
+- code: es-ES
+  message: Datos de admisión en empresa no válida
+- code: es-CL
+  message: Datos de admisión en empresa no válida

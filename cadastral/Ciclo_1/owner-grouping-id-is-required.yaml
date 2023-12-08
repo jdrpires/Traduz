@@ -1,0 +1,13 @@
+messageCode: owner-grouping-id-is-required
+messageDomain: cadastral
+summary: owner-grouping-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: ResponsÃ¡vel pelo agrupamento Ã© obrigatÃ³rio.
+- code: en-US
+  message: Owner grouping id is required
+- code: es-ES
+  message: El responsable de la agrupación es obligatorio.
+- code: es-CL
+  message: El responsable de la agrupación es obligatorio.

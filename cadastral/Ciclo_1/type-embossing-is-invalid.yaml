@@ -1,0 +1,13 @@
+messageCode: type-embossing-is-invalid
+messageDomain: cadastral
+summary: type-embossing-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de emissÃ£o do embossing Ã© invÃ¡lido.
+- code: en-US
+  message: Type Embossing is invalid.
+- code: es-ES
+  message: El tipo de emisión de relieve no es válido.
+- code: es-CL
+  message: El tipo de emisión de relieve no es válido.

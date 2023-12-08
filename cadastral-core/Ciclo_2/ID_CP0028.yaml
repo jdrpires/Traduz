@@ -1,0 +1,13 @@
+messageCode: ID_CP0028
+messageDomain: cadastral-core
+summary: ID_CP0028 - Invalid nationality code.
+type: error 
+languages:
+- code: pt-BR
+  message: Nacionalidade informada não existe
+- code: en-US
+  message: Invalid nationality code.
+- code: es-ES
+  message: Nacionalidade informada não existe
+- code: es-CL
+  message: Nacionalidade informada não existe

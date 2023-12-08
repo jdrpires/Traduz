@@ -1,0 +1,13 @@
+messageCode: ID_CON0101
+messageDomain: cadastral
+summary: ID_CON0101 - Cancellation did not occur. There are remaining linked accounts.
+type: error 
+languages:
+- code: pt-BR
+  message: Cancelamento nÃ£o realizado  pois ainda restam contas adicionais associadas.
+- code: en-US
+  message: Cancellation did not occur. There are remaining linked accounts.
+- code: es-ES
+  message: Cancelación no realizada ya que quedan cuentas adicionales asociadas.
+- code: es-CL
+  message: Cancelación no realizada ya que quedan cuentas adicionales asociadas.

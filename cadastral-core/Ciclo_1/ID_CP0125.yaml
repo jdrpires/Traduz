@@ -1,0 +1,13 @@
+messageCode: ID_CP0125
+messageDomain: cadastral-core
+summary: ID_CP0125 - SubProduct code not found.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo de subproduto informado n√£o existe na tabela de dom√≠nio correspondente
+- code: en-US
+  message: SubProduct code not found.
+- code: es-ES
+  message: C√≥digo de subproduto informado n√o existe na tabela de domÕnio correspondente
+- code: es-CL
+  message: C√≥digo de subproduto informado n√o existe na tabela de domÕnio correspondente

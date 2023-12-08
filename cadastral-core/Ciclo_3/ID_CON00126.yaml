@@ -1,0 +1,13 @@
+messageCode: ID_CON00126
+messageDomain: cadastral-core
+summary: ID_CON00126 - Block not found for informed contract.
+type: error 
+languages:
+- code: pt-BR
+  message: Bloqueio não encontrado para o Contrato
+- code: en-US
+  message: Block not found for informed contract.
+- code: es-ES
+  message: Candado no encontrado para contrato
+- code: es-CL
+  message: Candado no encontrado para contrato

@@ -1,0 +1,13 @@
+messageCode: ID_CON0221
+messageDomain: cadastral
+summary: ID_CON0221 - Owner's person_id not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: person_id do titular não informado
+- code: en-US
+  message: Owner's person_id not informed.
+- code: es-ES
+  message: person_id do titular não informado
+- code: es-CL
+  message: person_id do titular não informado

@@ -1,0 +1,13 @@
+messageCode: product-x-type-of-device-reported-are-not-registered
+messageDomain: cadastral-core
+summary: product-x-type-of-device-reported-are-not-registered
+type: error
+languages:
+- code: pt-BR
+  message: Produto x Tipo de dispositivo informado n√£o esta cadastrado.
+- code: en-US
+  message: product x type of device reported are not registered.
+- code: es-ES
+  message: producto x tipo de dispositivo reportado no estan registrados.
+- code: es-CL
+  message: Producto x Tipo de dispositivo informado no est· registrado.

@@ -1,0 +1,13 @@
+messageCode: ID_CON0378
+messageDomain: cadastral-core
+summary: ID_CON0378 - Subcontract product different from the product received.
+type: error
+languages:
+- code: pt-BR
+  message: Produto do subcontrato divergente do produto recebido.
+- code: en-US
+  message: Subcontract product different from the product received.
+- code: es-ES
+  message: Producto subcontratado diferente al producto recibido.
+- code: es-CL
+  message: Producto subcontratado diferente al producto recibido.

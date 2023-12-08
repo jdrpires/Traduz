@@ -1,0 +1,13 @@
+messageCode: ID_CON0216
+messageDomain: cadastral-core
+summary: ID_CON0216 - Delivery unit type not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de Unidade da Agência não informado
+- code: en-US
+  message: Delivery unit type not informed.
+- code: es-ES
+  message: Tipo de Agencia Unidad no informada
+- code: es-CL
+  message: Tipo de Agencia Unidad no informada

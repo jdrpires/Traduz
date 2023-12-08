@@ -1,0 +1,13 @@
+messageCode: ID_CON0284
+messageDomain: cadastral
+summary: ID_CON0284 - Device model information not found.
+type: error 
+languages:
+- code: pt-BR
+  message: InformaÃ§Ãµes sobre o modelo do dispositivo nÃ£o encontradas
+- code: en-US
+  message: Device model information not found.
+- code: es-ES
+  message: No se encontró la información del modelo del dispositivo
+- code: es-CL
+  message: No se encontró la información del modelo del dispositivo

@@ -1,0 +1,13 @@
+messageCode: bin-operational-function-not-found
+messageDomain: cadastral-core
+summary: Bin operational function not found.
+type: error
+languages:
+- code: pt-BR
+  message: Funcionalidade do Bin não encontrada.
+- code: en-US
+  message: Bin operational function not found.
+- code: es-ES
+  message: No se encontró la función operativa del contenedor.
+- code: es-CL
+  message: No se encontró la función operativa del contenedor.

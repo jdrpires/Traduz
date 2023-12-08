@@ -1,0 +1,13 @@
+messageCode: ID_CP0266
+messageDomain: cadastral-core
+summary: ID_CP0266 - Invalid street name.
+type: error 
+languages:
+- code: pt-BR
+  message: Logradouro invÃ¡lido.
+- code: en-US
+  message: Invalid street name.
+- code: es-ES
+  message: Dirección postal no válida.
+- code: es-CL
+  message: Dirección postal no válida.

@@ -1,0 +1,13 @@
+messageCode: ID_CP0124
+messageDomain: cadastral-core
+summary: ID_CP0124 - Product code not found.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo de produto informado n√£o existe na tabela de dom√≠nio correspondente
+- code: en-US
+  message: Product code not found.
+- code: es-ES
+  message: C√≥digo de produto informado n√o existe na tabela de domÕnio correspondente
+- code: es-CL
+  message: C√≥digo de produto informado n√o existe na tabela de domÕnio correspondente

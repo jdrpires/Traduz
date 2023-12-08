@@ -1,0 +1,13 @@
+messageCode: ID_ONB072
+messageDomain: cadastral-core
+summary: ID_ONB072 - User and channel are required.
+type: error 
+languages:
+- code: pt-BR
+  message: Usuário e canal não informado.
+- code: en-US
+  message: User and channel are required.
+- code: es-ES
+  message: Usuario y canal no especificados.
+- code: es-CL
+  message: Usuario y canal no especificados.

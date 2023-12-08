@@ -1,0 +1,13 @@
+messageCode: ID_CP0177
+messageDomain: cadastral-core
+summary: ID_CP0177 - Invalid activity indicator.
+type: error
+languages:
+- code: pt-BR
+  message: Indicador de atividade inválido.
+- code: en-US
+  message: Invalid activity indicator.
+- code: es-ES
+  message: Indicador de actividad no válido.
+- code: es-CL
+  message: Indicador de actividad no válido.

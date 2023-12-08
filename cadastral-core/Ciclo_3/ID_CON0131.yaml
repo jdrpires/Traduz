@@ -1,0 +1,13 @@
+messageCode: ID_CON0131
+messageDomain: cadastral-core
+summary: ID_CON0131 - Incosistent block - Not eligible for the device.
+type: error 
+languages:
+- code: pt-BR
+  message: Bloqueio inconsistente - Não Elegivel para dispositivo.
+- code: en-US
+  message: Incosistent block - Not eligible for the device.
+- code: es-ES
+  message: Bloqueo inconsistente: no elegible para el dispositivo.
+- code: es-CL
+  message: Bloqueo inconsistente: no elegible para el dispositivo.

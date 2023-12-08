@@ -1,0 +1,13 @@
+messageCode: ID_CON303
+messageDomain: cadastral
+summary: ID_CON303 - Operativity block indicator is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de Operatividade de Bloqueio não informado
+- code: en-US
+  message: Operativity block indicator is required.
+- code: es-ES
+  message: Indicador de operatividad de bloqueo no informado
+- code: es-CL
+  message: Indicador de operatividad de bloqueo no informado

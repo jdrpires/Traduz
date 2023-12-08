@@ -1,0 +1,13 @@
+messageCode: subcontract-status-is-rollback
+messageDomain: cadastral-core
+summary: subcontract-status-is-rollback
+type: error
+languages:
+- code: pt-BR
+  message: Status do subcontrato estÃ¡ rollback.
+- code: en-US
+  message: subcontract status is rollback.
+- code: es-ES
+  message: El estado del subcontrato es reversión.
+- code: es-CL
+  message: El estado del subcontrato es reversión.

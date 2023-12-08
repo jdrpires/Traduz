@@ -1,0 +1,13 @@
+messageCode: invoice-group-was-not-found
+messageDomain: cadastral
+summary: invoice-group-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: Grupo de Fatura não encontrado
+- code: en-US
+  message: Invoice group was not found
+- code: es-ES
+  message: Grupo de factura no encontrado
+- code: es-CL
+  message: Grupo de factura no encontrado

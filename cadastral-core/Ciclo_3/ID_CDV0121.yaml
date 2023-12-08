@@ -1,0 +1,13 @@
+messageCode: ID_CDV0121
+messageDomain: cadastral-core
+summary: ID_CDV0121 - Responsible for the unknown address.
+type: error 
+languages:
+- code: pt-BR
+  message: Respons√°vel pelo endere√ßo n√£o informado
+- code: en-US
+  message: Responsible for the unknown address.
+- code: es-ES
+  message: Respons√°vel pelo endere«o n√o informado
+- code: es-CL
+  message: Respons√°vel pelo endere«o n√o informado

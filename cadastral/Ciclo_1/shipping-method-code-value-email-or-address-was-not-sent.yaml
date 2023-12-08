@@ -1,0 +1,13 @@
+messageCode: shipping-method-code-value-email-or-address-was-not-sent
+messageDomain: cadastral
+summary: shipping-method-code-value-email-or-address-was-not-sent
+type: error 
+languages:
+- code: pt-BR
+  message: Valor para CÃ³digo da forma de envio, e-mail ou endereÃ§o nÃ£o enviado
+- code: en-US
+  message: Shipping method code value e-mail or address was not sent
+- code: es-ES
+  message: Valor por código de método de envío, correo electrónico o dirección no enviada
+- code: es-CL
+  message: Valor por código de método de envío, correo electrónico o dirección no enviada

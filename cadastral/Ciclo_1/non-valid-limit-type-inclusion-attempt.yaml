@@ -1,0 +1,13 @@
+messageCode: non-valid-limit-type-inclusion-attempt
+messageDomain: cadastral
+summary: non-valid-limit-type-inclusion-attempt
+type: error 
+languages:
+- code: pt-BR
+  message: Tentativa de inclus√£o de tipo de limite n√£o v√°lido.
+- code: en-US
+  message: Non valid limit type inclusion attempt
+- code: es-ES
+  message: Tentativa de inclus√o de tipo de limite n√o v√°lido.
+- code: es-CL
+  message: Tentativa de inclus√o de tipo de limite n√o v√°lido.

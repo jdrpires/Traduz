@@ -1,0 +1,13 @@
+messageCode: ID_DT0054
+messageDomain: cadastral
+summary: Unperformed certificate programming. Certificate validity is outside the programming period.
+type: error
+languages:
+- code: pt-BR
+  message: Programação de certificado não realizada. Validade do certificado está fora do período de programação.
+- code: en-US
+  message: Unperformed certificate programming. Certificate validity is outside the programming period.
+- code: es-ES
+  message: Programación de Certificado no realizada. La validez del certificado está fuera del período de programación.
+- code: es-CL
+  message: Programaci�n del certificado no realizada. La validez del certificado est� fuera del periodo de programaci�n.

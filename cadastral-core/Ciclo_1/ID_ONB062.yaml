@@ -1,0 +1,13 @@
+messageCode: ID_ONB062
+messageDomain: cadastral-core
+summary: ID_ONB062 - Stamping code is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Código de estampação não informado.
+- code: en-US
+  message: Stamping code is required.
+- code: es-ES
+  message: C�digo de estampado no informado.
+- code: es-CL
+  message: C�digo de estampado no informado.

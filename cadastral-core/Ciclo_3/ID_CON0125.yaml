@@ -1,0 +1,13 @@
+messageCode: ID_CON0125
+messageDomain: cadastral-core
+summary: ID_CON0125 - An error occurred in comunication with Stratos.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro de comunicaÃ§Ã£o com Stratos
+- code: en-US
+  message: An error occurred in comunication with Stratos.
+- code: es-ES
+  message: Error de comunicación con Stratos
+- code: es-CL
+  message: Error de comunicación con Stratos

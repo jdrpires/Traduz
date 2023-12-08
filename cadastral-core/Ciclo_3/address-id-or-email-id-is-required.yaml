@@ -1,0 +1,13 @@
+messageCode: address-id-or-email-id-is-required
+messageDomain: cadastral-core
+summary: address-id-or-email-id-is-required
+type: error
+languages:
+- code: pt-BR
+  message: ObrigatÃ³rio informar endereÃ§o ou e-mail.
+- code: en-US
+  message: Addressid or emailid is required.
+- code: es-ES
+  message: Es obligatorio proporcionar una dirección o correo electrónico.
+- code: es-CL
+  message: Es obligatorio proporcionar una dirección o correo electrónico.

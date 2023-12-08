@@ -1,0 +1,13 @@
+messageCode: amount-is-required
+messageDomain: cadastral
+summary: amount-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Valor do limite é requerido.
+- code: en-US
+  message: Limit type amount is required
+- code: es-ES
+  message: Valor do limite é requerido.
+- code: es-CL
+  message: Valor do limite é requerido.

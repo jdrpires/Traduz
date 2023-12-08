@@ -1,0 +1,13 @@
+messageCode: ID_CON0384
+messageDomain: cadastral-core
+summary: ID_CON0384 - Lock code out of subcontract range.
+type: error
+languages:
+- code: pt-BR
+  message: CÃ³digo de bloqueio fora do alcance de subcontrato.
+- code: en-US
+  message: Lock code out of subcontract range.
+- code: es-ES
+  message: Código de bloqueo fuera del rango de subcontrato.
+- code: es-CL
+  message: Código de bloqueo fuera del rango de subcontrato.

@@ -1,0 +1,13 @@
+messageCode: ID_CP0093
+messageDomain: cadastral-core
+summary: ID_CP0093 - Invalid document expedition date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de expediÃ§Ã£o do documento invÃ¡lida
+- code: en-US
+  message: Invalid document expedition date.
+- code: es-ES
+  message: Fecha de emisión del documento no válida
+- code: es-CL
+  message: Fecha de emisión del documento no válida

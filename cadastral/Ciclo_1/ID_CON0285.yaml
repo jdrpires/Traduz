@@ -1,0 +1,13 @@
+messageCode: ID_CON0285
+messageDomain: cadastral
+summary: ID_CON0285 - Address usage type not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de uso de endereço não informado
+- code: en-US
+  message: Address usage type not informed.
+- code: es-ES
+  message: Tipo de uso de endereço não informado
+- code: es-CL
+  message: Tipo de uso de endereço não informado

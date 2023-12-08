@@ -1,0 +1,13 @@
+messageDomain: cadastral
+messageCode: no-data-found-in-database
+type: error
+summary: no-data-found-in-database
+languages:
+  - code: pt-BR
+    message: Não foi encontrado dado na base.
+  - code: en-US
+    message: No data found in database.
+  - code: es-ES
+    message: No se encontró dado en la base.
+  - code: es-CL
+    message: No se encontró dado en la base.

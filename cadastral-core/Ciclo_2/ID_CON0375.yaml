@@ -1,0 +1,13 @@
+messageCode: ID_CON0375
+messageDomain: cadastral-core
+summary: ID_CON0375 - There is no pre-cancellation block on subcontract.
+type: error
+languages:
+- code: pt-BR
+  message: Subcontrato nÃ£o possui bloqueio de prÃ©-cancelamento.
+- code: en-US
+  message: There is no pre-cancellation block on subcontract.
+- code: es-ES
+  message: La subcontratación no tiene bloqueo de precancelación.
+- code: es-CL
+  message: La subcontratación no tiene bloqueo de precancelación.

@@ -1,0 +1,13 @@
+messageCode: ID_CON306
+messageDomain: cadastral-core
+summary: ID_CON306 - Stamping code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código de estampação não informado
+- code: en-US
+  message: Stamping code not informed.
+- code: es-ES
+  message: C�digo de estampado no informado
+- code: es-CL
+  message: C�digo de estampado no informado

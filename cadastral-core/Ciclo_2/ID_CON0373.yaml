@@ -1,0 +1,13 @@
+messageCode: ID_CON0373
+messageDomain: cadastral-core
+summary: ID_CON0373 - Block range different than expected.
+type: error
+languages:
+- code: pt-BR
+  message: Alcance de bloqueio diferente do esperado.
+- code: en-US
+  message: Block range different than expected.
+- code: es-ES
+  message: Rango de bloqueo diferente al esperado.
+- code: es-CL
+  message: Rango de bloqueo diferente al esperado.

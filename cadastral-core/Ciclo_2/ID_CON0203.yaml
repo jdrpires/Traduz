@@ -1,0 +1,13 @@
+messageCode: ID_CON0203
+messageDomain: cadastral-core
+summary: ID_CON0203 - Client already registred as a holder.
+type: error 
+languages:
+- code: pt-BR
+  message: Cliente já cadastrado como titular.
+- code: en-US
+  message: Client already registred as a holder.
+- code: es-ES
+  message: Cliente ya registrado como propietario.
+- code: es-CL
+  message: Cliente ya registrado como propietario.

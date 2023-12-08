@@ -1,0 +1,13 @@
+messageCode: ID_ONB053
+messageDomain: cadastral-core
+summary: ID_ONB053 - Contract management unit is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Unidade gestora do contrato nÃ£o informado.
+- code: en-US
+  message: Contract management unit is required.
+- code: es-ES
+  message: Unidad de gestión de contratos no informada.
+- code: es-CL
+  message: Unidad de gestión de contratos no informada.

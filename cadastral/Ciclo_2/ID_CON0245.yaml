@@ -1,0 +1,13 @@
+messageCode: ID_CON0245
+messageDomain: cadastral
+summary: ID_CON0245 - Code of the person responsible for the address not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código do Responsável pelo Endereço não informado
+- code: en-US
+  message: Code of the person responsible for the address not informed.
+- code: es-ES
+  message: Código do Responsável pelo Endere�o n�o informado
+- code: es-CL
+  message: Código do Responsável pelo Endere�o n�o informado

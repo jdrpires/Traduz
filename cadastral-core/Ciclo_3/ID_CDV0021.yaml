@@ -1,0 +1,13 @@
+messageCode: ID_CDV0021
+messageDomain: cadastral-core
+summary: ID_CDV0021 - Error in insurance marking.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na marcação do seguro.
+- code: en-US
+  message: Error in insurance marking.
+- code: es-ES
+  message: Error al reservar el seguro.
+- code: es-CL
+  message: Error al reservar el seguro.

@@ -1,0 +1,13 @@
+messageCode: brandcode-is-required
+messageDomain: cadastral
+summary: brandcode-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: O cÃ³digo da bandeira Ã© obrigatÃ³rio..
+- code: en-US
+  message: Brandcode is Required.
+- code: es-ES
+  message: El código de bandera es obligatorio.
+- code: es-CL
+  message: El código de bandera es obligatorio.

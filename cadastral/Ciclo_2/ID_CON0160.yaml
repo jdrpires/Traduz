@@ -1,0 +1,13 @@
+messageCode: ID_CON0160
+messageDomain: cadastral
+summary: ID_CON0160 - One or more required information not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Uma ou mais informa√ß√µes obrigat√≥rias de entrada n√£o foram enviadas
+- code: en-US
+  message: One or more required information not sent.
+- code: es-ES
+  message: Una o m·s informaciÛn de entrada requerida no fue enviada
+- code: es-CL
+  message: Una o m·s informaciÛn de entrada requerida no fue enviada

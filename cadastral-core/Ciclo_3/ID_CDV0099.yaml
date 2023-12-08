@@ -1,0 +1,13 @@
+messageCode: ID_CDV0099
+messageDomain: cadastral-core
+summary: ID_CDV0099 - Current Account not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Conta Corrente não enviada.
+- code: en-US
+  message: Current Account not sent.
+- code: es-ES
+  message: Cuenta corriente no enviada.
+- code: es-CL
+  message: Cuenta corriente no enviada.

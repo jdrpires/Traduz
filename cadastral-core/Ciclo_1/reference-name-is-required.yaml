@@ -1,0 +1,13 @@
+messageCode: reference-name-is-required
+messageDomain: cadastral-core
+summary: Reference name is required.
+type: error
+languages:
+- code: pt-BR
+  message: Obrigatório informar Nome da pessoa de referência
+- code: en-US
+  message: Reference name is required.
+- code: es-ES
+  message: Es obligatorio informar el nombre de la persona de referencia.
+- code: es-CL
+  message: Es obligatorio informar el nombre de la persona de referencia.

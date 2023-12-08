@@ -1,0 +1,13 @@
+messageCode: ID_CON0096
+messageDomain: cadastral
+summary: ID_CON0096 - Informed device does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo informado não existe
+- code: en-US
+  message: Informed device does not exist.
+- code: es-ES
+  message: Dispositivo informado não existe
+- code: es-CL
+  message: Dispositivo informado não existe

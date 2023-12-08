@@ -1,0 +1,13 @@
+messageCode: ID_CP0265
+messageDomain: cadastral-core
+summary: ID_CP0265 - Invalid Zip code.
+type: error 
+languages:
+- code: pt-BR
+  message: Código CEP inválido.
+- code: en-US
+  message: Invalid Zip code.
+- code: es-ES
+  message: Código CEP inválido.
+- code: es-CL
+  message: Código CEP inválido.

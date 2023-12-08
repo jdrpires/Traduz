@@ -1,0 +1,13 @@
+messageCode: ID_CDV0144
+messageDomain: cadastral-core
+summary: ID_CDV0144 - Contract and Device not sent on entry.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato e Dispositivo não foram enviados na entrada
+- code: en-US
+  message: Contract and Device not sent on entry.
+- code: es-ES
+  message: El contrato y el dispositivo no se enviaron al ingresar
+- code: es-CL
+  message: El contrato y el dispositivo no se enviaron al ingresar

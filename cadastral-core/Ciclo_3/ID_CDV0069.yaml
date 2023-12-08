@@ -1,0 +1,13 @@
+messageCode: ID_CDV0069
+messageDomain: cadastral-core
+summary: ID_CDV0069 - The device was successfully activated.
+type: error
+languages:
+- code: pt-BR
+  message: O dispositivo foi ativado com sucesso.
+- code: en-US
+  message: The device was successfully activated.
+- code: es-ES
+  message: El dispositivo se ha activado correctamente.
+- code: es-CL
+  message: El dispositivo se ha activado correctamente.

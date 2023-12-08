@@ -1,0 +1,13 @@
+messageCode: ID_CP0214
+messageDomain: cadastral-core
+summary: ID_CP0214 - Birth date is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de nascimento não informada
+- code: en-US
+  message: Birth date is required.
+- code: es-ES
+  message: Fecha de nacimiento no proporcionada
+- code: es-CL
+  message: Fecha de nacimiento no proporcionada

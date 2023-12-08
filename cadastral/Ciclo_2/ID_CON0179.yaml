@@ -1,0 +1,13 @@
+messageCode: ID_CON0179
+messageDomain: cadastral
+summary: ID_CON0179 - An error occurred in the cancellation of device x account association rollback.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro na reversÃ£o do cancelamento da associaÃ§Ã£o de dispositivo x conta corrente.
+- code: en-US
+  message: An error occurred in the cancellation of device x account association rollback.
+- code: es-ES
+  message: Ocurrió un error al revertir la cancelación de la asociación dispositivo x cuenta corriente.
+- code: es-CL
+  message: Ocurrió un error al revertir la cancelación de la asociación dispositivo x cuenta corriente.

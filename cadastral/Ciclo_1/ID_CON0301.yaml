@@ -1,0 +1,13 @@
+messageCode: ID_CON0301
+messageDomain: cadastral
+summary: ID_CON0301 - Contract manager is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Gestora do contrato não informada
+- code: en-US
+  message: Contract manager is required.
+- code: es-ES
+  message: Gerente de contrato no informado
+- code: es-CL
+  message: Gerente de contrato no informado

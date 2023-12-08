@@ -1,0 +1,13 @@
+messageCode: ID_CON0170
+messageDomain: cadastral
+summary: ID_CON0170 - Activation not permitted. Device is not the last one.
+type: error 
+languages:
+- code: pt-BR
+  message: Ativação não permitida.  Dispositivo não é última via
+- code: en-US
+  message: Activation not permitted. Device is not the last one.
+- code: es-ES
+  message: Ativação não permitida.  Dispositivo não é última via
+- code: es-CL
+  message: Ativação não permitida.  Dispositivo não é última via

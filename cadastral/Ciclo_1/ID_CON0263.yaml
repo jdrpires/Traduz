@@ -1,0 +1,13 @@
+messageCode: ID_CON0263
+messageDomain: cadastral
+summary: ID_CON0263 - Currency code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo de moeda n√£o informado
+- code: en-US
+  message: Currency code not informed.
+- code: es-ES
+  message: CÛdigo de moneda no proporcionado
+- code: es-CL
+  message: CÛdigo de moneda no proporcionado

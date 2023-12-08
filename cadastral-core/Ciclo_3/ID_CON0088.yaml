@@ -1,0 +1,13 @@
+messageCode: ID_CON0088
+messageDomain: cadastral-core
+summary: ID_CON0088 - Cancelled insurance.
+type: error 
+languages:
+- code: pt-BR
+  message: Seguro cancelado.
+- code: en-US
+  message: Cancelled insurance.
+- code: es-ES
+  message: Seguro cancelado.
+- code: es-CL
+  message: Seguro cancelado.

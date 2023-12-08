@@ -1,0 +1,13 @@
+messageCode: ID_CON0332
+messageDomain: cadastral-core
+summary: ID_CON0332 - Channel has no configuration to activate card.
+type: error
+languages:
+- code: pt-BR
+  message: Canal não possui configuração para ativar cartão.
+- code: en-US
+  message: Channel has no configuration to activate card.
+- code: es-ES
+  message: El canal no tiene configuraci�n para activar tarjeta.
+- code: es-CL
+  message: El canal no tiene configuraci�n para activar tarjeta.

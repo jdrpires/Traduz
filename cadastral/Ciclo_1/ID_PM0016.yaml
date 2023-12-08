@@ -1,0 +1,13 @@
+messageCode: ID_PM0016
+messageDomain: cadastral
+summary: ID_PM0016 - Invalid Date
+type: error
+languages:
+- code: pt-BR
+  message: Data de Fim de Atividade deve ser maior ou igual a Data de Inicio de Atividade.
+- code: en-US
+  message: Activity End Date must be greater than or equal to Activity Start Date.
+- code: es-ES
+  message: La fecha de finalizacion de la actividad debe ser mayor o igual que la fecha de inicio de la actividad.
+- code: es-CL
+  message: La Fecha de finalización de la actividad debe ser mayor o igual a la Fecha de inicio de la actividad.

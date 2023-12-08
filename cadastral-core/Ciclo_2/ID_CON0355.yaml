@@ -1,0 +1,13 @@
+messageCode: ID_CON0355
+messageDomain: cadastral-core
+summary: ID_CON0355 - Option not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: OpÃ§Ã£o nÃ£o enviado.
+- code: en-US
+  message: Option not sent.
+- code: es-ES
+  message: Opción no enviada.
+- code: es-CL
+  message: Opción no enviada.

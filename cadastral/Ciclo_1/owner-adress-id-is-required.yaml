@@ -1,0 +1,13 @@
+messageCode: owner-adress-id-is-required
+messageDomain: cadastral
+summary: owner-adress-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do Responsável pelo endereço não informado.
+- code: en-US
+  message: owner adress id is required
+- code: es-ES
+  message: Código do Responsável pelo endere�o n�o informado.
+- code: es-CL
+  message: Código do Responsável pelo endere�o n�o informado.

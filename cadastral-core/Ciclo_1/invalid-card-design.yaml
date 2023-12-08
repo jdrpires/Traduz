@@ -1,0 +1,13 @@
+messageCode: invalid-card-design
+messageDomain: cadastral-core
+summary: invalid-card-design
+type: error
+languages:
+- code: pt-BR
+  message: Card design inválido.
+- code: en-US
+  message: Invalid card design.
+- code: es-ES
+  message: Diseño de tarjeta no válido.
+- code: es-CL
+  message: Diseño de tarjeta no válido.

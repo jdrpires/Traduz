@@ -1,0 +1,13 @@
+messageCode: ID_CON308
+messageDomain: cadastral
+summary: ID_CON308 - Password sending mode indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador modo de entrega de senha nÃ£o informado
+- code: en-US
+  message: Password sending mode indicator not informed.
+- code: es-ES
+  message: Indicador de modo de entrega de contraseña no proporcionado
+- code: es-CL
+  message: Indicador de modo de entrega de contraseña no proporcionado

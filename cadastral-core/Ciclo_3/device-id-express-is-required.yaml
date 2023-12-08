@@ -1,0 +1,13 @@
+messageCode: device-id-express-is-required
+messageDomain: cadastral-core
+summary: device-id-express-is-required
+type: error
+languages:
+- code: pt-BR
+  message: codigo do dispositivo expresso é obrigatório.
+- code: en-US
+  message: device id express is required.
+- code: es-ES
+  message: El código de dispositivo exprés es obligatorio.
+- code: es-CL
+  message: c�digo de dispositivo expreso � obligatorio.

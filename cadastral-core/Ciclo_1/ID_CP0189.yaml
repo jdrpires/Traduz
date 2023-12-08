@@ -1,0 +1,13 @@
+messageCode: ID_CP0189
+messageDomain: cadastral-core
+summary: ID_CP0189 - Invalid Carrier Special Needs indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador Portador Necessidades Especiais inv√°lido
+- code: en-US
+  message: Invalid Carrier Special Needs indicator.
+- code: es-ES
+  message: Indicador de transportista para necesidades especiales no v·lido
+- code: es-CL
+  message: Indicador de transportista para necesidades especiales no v·lido

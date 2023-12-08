@@ -1,0 +1,13 @@
+messageCode: ID_CON0044
+messageDomain: cadastral
+summary: ID_CON0044 - An error occurred in hired device number generation.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na geraÃ§Ã£o do nÃºmero do dispositivo contratado
+- code: en-US
+  message: An error occurred in hired device number generation.
+- code: es-ES
+  message: Error al generar el número de dispositivo contratado
+- code: es-CL
+  message: Error al generar el número de dispositivo contratado

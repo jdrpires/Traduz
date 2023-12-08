@@ -1,0 +1,13 @@
+messageCode: ID_CON0180
+messageDomain: cadastral-core
+summary: ID_CON0180 - An error occurred in block inclusion to device rollback.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro na reversÃ£o da inclusÃ£o do bloqueio junto ao dispositivo.
+- code: en-US
+  message: An error occurred in block inclusion to device rollback.
+- code: es-ES
+  message: Se produjo un error al revertir la inclusión del bloqueo en el dispositivo.
+- code: es-CL
+  message: Se produjo un error al revertir la inclusión del bloqueo en el dispositivo.

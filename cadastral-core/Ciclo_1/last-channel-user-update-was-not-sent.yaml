@@ -1,0 +1,13 @@
+messageCode: last-channel-user-update-was-not-sent
+messageDomain: cadastral-core
+summary: last-channel-user-update-was-not-sent
+type: error 
+languages:
+- code: pt-BR
+  message: Canal de Usu√°rio √© obrigat√≥rio.
+- code: en-US
+  message: Last channel user update was not sent
+- code: es-ES
+  message: Canal de usuario È obligatorio.
+- code: es-CL
+  message: Canal de usuario È obligatorio.

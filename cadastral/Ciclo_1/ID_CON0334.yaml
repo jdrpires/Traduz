@@ -1,0 +1,13 @@
+messageCode: ID_CON0334
+messageDomain: cadastral
+summary: ID_CON0334 - Code of the person responsible for the address must be the bearer or holder of the contract.
+type: error
+languages:
+  - code: pt-BR
+    message: Código do responsável pelo endereço deve ser do portador ou titular do contrato
+  - code: en-US
+    message: Code of the person responsible for the address must be the bearer or holder of the contract.
+    - code: es-ES
+  message: Código do responsável pelo endereço deve ser do portador ou titular do contrato
+  - code: es-CL
+    message: Código do responsável pelo endereço deve ser do portador ou titular do contrato

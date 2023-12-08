@@ -1,0 +1,13 @@
+messageCode: ID_CON0136
+messageDomain: cadastral-core
+summary: ID_CON0136 - Activation not permitted. Cancelled contract.
+type: error 
+languages:
+- code: pt-BR
+  message: AtivaÃ§Ã£o nÃ£o permitida Contrato Cancelado
+- code: en-US
+  message: Activation not permitted. Cancelled contract.
+- code: es-ES
+  message: Activación no permitida Contrato Cancelado
+- code: es-CL
+  message: Activación no permitida Contrato Cancelado

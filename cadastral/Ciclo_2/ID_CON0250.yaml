@@ -1,0 +1,13 @@
+messageCode: ID_CON0250
+messageDomain: cadastral
+summary: ID_CON0250 - Sales channel not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Canal de venda não informado
+- code: en-US
+  message: Sales channel not informed.
+- code: es-ES
+  message: Canal de ventas no informado
+- code: es-CL
+  message: Canal de ventas no informado

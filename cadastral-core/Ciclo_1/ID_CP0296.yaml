@@ -1,0 +1,13 @@
+messageCode: ID_CP0296
+messageDomain: cadastral-core
+summary: ID_CP0296 - Invalid voter registration zone.
+type: error 
+languages:
+- code: pt-BR
+  message: Zona do tÃ­tulo de eleitor invÃ¡lida.
+- code: en-US
+  message: Invalid voter registration zone.
+- code: es-ES
+  message: Zona de identificación de votantes no válida.
+- code: es-CL
+  message: Zona de identificación de votantes no válida.

@@ -1,0 +1,13 @@
+messageCode: device-holder-id-is-required
+messageDomain: cadastral-core
+summary: device-holder-id-is-required - O ID do titular do dispositivo é obrigatório
+type: error
+languages:
+- code: pt-BR
+  message: O ID do titular do dispositivo é obrigatório.
+- code: en-US
+  message: Device holder id is required.
+- code: es-ES
+  message: Se requiere identificación del titular del dispositivo.
+- code: es-CL
+  message: Se requiere identificación del titular del dispositivo.

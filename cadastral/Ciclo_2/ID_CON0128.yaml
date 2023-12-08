@@ -1,0 +1,13 @@
+messageCode: ID_CON0128
+messageDomain: cadastral
+summary: ID_CON0128 - Client is already cancelled.
+type: error 
+languages:
+- code: pt-BR
+  message: O beneficiário já se encontra cancelado.
+- code: en-US
+  message: Client is already cancelled.
+- code: es-ES
+  message: O beneficiário já se encontra cancelado.
+- code: es-CL
+  message: O beneficiário já se encontra cancelado.

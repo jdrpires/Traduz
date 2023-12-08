@@ -1,0 +1,13 @@
+messageCode: ID_ONB084
+messageDomain: cadastral-core
+summary: ID_ONB084 - Current account indicator is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador de conta principal não informado.
+- code: en-US
+  message: Current account indicator is required.
+- code: es-ES
+  message: Indicador de conta principal não informado.
+- code: es-CL
+  message: Indicador de conta principal não informado.

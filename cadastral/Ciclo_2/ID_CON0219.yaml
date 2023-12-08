@@ -1,0 +1,13 @@
+messageCode: ID_CON0219
+messageDomain: cadastral
+summary: ID_CON0219 - Device cancellation error.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro no cancelamento de dispositivo.
+- code: en-US
+  message: Device cancellation error.
+- code: es-ES
+  message: Error al cancelar el dispositivo.
+- code: es-CL
+  message: Error al cancelar el dispositivo.

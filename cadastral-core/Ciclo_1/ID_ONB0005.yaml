@@ -1,0 +1,13 @@
+messageCode: ID_ONB0005
+messageDomain: cadastral-core
+summary: ID_ONB0005 - Origin person code is required.
+type: error 
+languages:
+- code: pt-BR
+  message: C√≥digo de pessoa no sistema origem n√£o informado.
+- code: en-US
+  message: Origin person code is required.
+- code: es-ES
+  message: CÛdigo de persona en el sistema fuente no proporcionado.
+- code: es-CL
+  message: CÛdigo de persona en el sistema fuente no proporcionado.

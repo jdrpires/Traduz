@@ -1,0 +1,13 @@
+messageCode: ID_CON0177
+messageDomain: cadastral-core
+summary: ID_CON0177 - An error occurred in association inclusion rollback.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro na reversÃ£o da inclusÃ£o da associaÃ§Ã£o.
+- code: en-US
+  message: An error occurred in association inclusion rollback.
+- code: es-ES
+  message: Se produjo un error al revertir la adición de la asociación.
+- code: es-CL
+  message: Se produjo un error al revertir la adición de la asociación.

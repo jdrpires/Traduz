@@ -1,0 +1,13 @@
+messageCode: ID_PM0015
+messageDomain: cadastral
+summary: ID_PM0015 - Invalid Date
+type: error
+languages:
+- code: pt-BR
+  message: Data de inicio da atividade deve ser menor ou igual a data atual.
+- code: en-US
+  message: Activity start date must be less than or equal to the current date.
+- code: es-ES
+  message: La fecha de inicio de la actividad debe ser menor o igual a la fecha actual.
+- code: es-CL
+  message: La fecha de inicio de la actividad debe ser menor o igual a la fecha actual.

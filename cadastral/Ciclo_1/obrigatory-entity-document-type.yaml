@@ -1,0 +1,13 @@
+messageCode: obrigatory-entity-document-type
+messageDomain: cadastral
+summary: obrigatory-entity-document-type
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo documento informado deve ser um tipo documento obrigatório para a Entidade Emissora.
+- code: en-US
+  message: Informed document type must be an issuing entity required document type.
+- code: es-ES
+  message: El tipo de documento ingresado debe ser un tipo de documento obligatorio para la Entidad Emisora.
+- code: es-CL
+  message: El tipo de documento ingresado debe ser un tipo de documento obligatorio para la Entidad Emisora.

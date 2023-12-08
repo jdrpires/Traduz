@@ -1,0 +1,13 @@
+messageCode: ID_CON0207
+messageDomain: cadastral-core
+summary: ID_CON0207 - The submitted contract status is not valid.
+type: error 
+languages:
+- code: pt-BR
+  message: A situação do contrato enviada não é válida
+- code: en-US
+  message: The submitted contract status is not valid.
+- code: es-ES
+  message: A situação do contrato enviada não é válida
+- code: es-CL
+  message: A situação do contrato enviada não é válida

@@ -1,0 +1,13 @@
+messageCode: operational-function-is-invalid
+messageDomain: cadastral
+summary: operational-function-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: funcionalidade é invalida.
+- code: en-US
+  message: Operational function is invalid.
+- code: es-ES
+  message: funcionalidade é invalida.
+- code: es-CL
+  message: funcionalidade é invalida.

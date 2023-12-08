@@ -1,0 +1,13 @@
+messageCode: ID_CP0252
+messageDomain: cadastral-core
+summary: ID_CP0252 - Father name invalid.
+type: error 
+languages:
+- code: pt-BR
+  message: Nome do pai inv√°lido.
+- code: en-US
+  message: Father name invalid.
+- code: es-ES
+  message: Nombre del padre no v·lido.
+- code: es-CL
+  message: Nombre del padre no v·lido.

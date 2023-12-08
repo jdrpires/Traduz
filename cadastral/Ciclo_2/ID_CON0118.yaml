@@ -1,0 +1,13 @@
+messageCode: ID_CON0118
+messageDomain: cadastral
+summary: ID_CON0118 - Device_id not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Device_id não enviado.
+- code: en-US
+  message: Device_id not sent.
+- code: es-ES
+  message: Device_id não enviado.
+- code: es-CL
+  message: Device_id não enviado.

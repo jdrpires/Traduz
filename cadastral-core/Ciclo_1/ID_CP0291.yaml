@@ -1,0 +1,13 @@
+messageCode: ID_CP0291
+messageDomain: cadastral-core
+summary: ID_CP0291 - Invalid birth certificate sheet number.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃºmero da folha da certidÃ£o de nascimento invÃ¡lida.
+- code: en-US
+  message: Invalid birth certificate sheet number.
+- code: es-ES
+  message: Número de página del certificado de nacimiento no válido.
+- code: es-CL
+  message: Número de página del certificado de nacimiento no válido.

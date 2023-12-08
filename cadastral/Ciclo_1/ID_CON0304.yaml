@@ -1,0 +1,13 @@
+messageCode: ID_CON0304
+messageDomain: cadastral
+summary: ID_CON0304 - Required last_channel_user_update.
+type: error 
+languages:
+- code: pt-BR
+  message: last_channel_user_update não informado
+- code: en-US
+  message: Required last_channel_user_update.
+- code: es-ES
+  message: last_channel_user_update não informado
+- code: es-CL
+  message: last_channel_user_update não informado

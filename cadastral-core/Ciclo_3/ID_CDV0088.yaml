@@ -1,0 +1,13 @@
+messageCode: ID_CDV0088
+messageDomain: cadastral-core
+summary: ID_CDV0088 - CVV is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Campo CVV não recebido
+- code: en-US
+  message: CVV is required.
+- code: es-ES
+  message: Campo CVV no recibido
+- code: es-CL
+  message: Campo CVV no recibido

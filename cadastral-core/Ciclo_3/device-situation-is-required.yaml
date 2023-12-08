@@ -1,0 +1,13 @@
+messageCode: device-situation-is-required
+messageDomain: cadastral-core
+summary: device-situation-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Situação do dipositivo é obrigatória.
+- code: en-US
+  message: Device situation is required.
+- code: es-ES
+  message: El estado del dispositivo es obligatorio.
+- code: es-CL
+  message: El estado del dispositivo es obligatorio.

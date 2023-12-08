@@ -1,0 +1,13 @@
+messageCode: device-holder-unregistered
+messageDomain: cadastral-core
+summary: device-holder-unregistered
+type: error
+languages:
+- code: pt-BR
+  message: Portador recebido n√£o est√° associado ao contrato.
+- code: en-US
+  message: Device holder is not associated with the contract.
+- code: es-ES
+  message: El transportista recibido no est· asociado al contrato.
+- code: es-CL
+  message: El transportista recibido no est· asociado al contrato.

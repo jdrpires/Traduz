@@ -1,0 +1,13 @@
+messageCode: ID_CON0186
+messageDomain: cadastral-core
+summary: ID_CON0186 - Dormant credit indicator not valid.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador crÃ©dito adormecido invÃ¡lido.
+- code: en-US
+  message: Dormant credit indicator not valid.
+- code: es-ES
+  message: Indicador de crédito para dormir no válido.
+- code: es-CL
+  message: Indicador de crédito para dormir no válido.

@@ -1,0 +1,13 @@
+messageCode: limit-type-parameter-was-not-found
+messageDomain: cadastral
+summary: limit-type-parameter-was-not-found
+type: error 
+languages:
+- code: pt-BR
+  message: O parÃ¢metro Tipo de Limite nÃ£o foi encontrado
+- code: en-US
+  message: Limit Type parameter was not found
+- code: es-ES
+  message: No se encontró el parámetro Tipo de límite
+- code: es-CL
+  message: No se encontró el parámetro Tipo de límite

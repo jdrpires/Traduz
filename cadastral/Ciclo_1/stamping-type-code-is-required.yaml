@@ -1,0 +1,13 @@
+messageCode: stamping-type-code-is-required
+messageDomain: cadastral
+summary: stamping-type-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Código do tipo de estampação é obrigatório.
+- code: en-US
+  message: Stamping type code is required.
+- code: es-ES
+  message: El c�digo de tipo de estampado es obligatorio.
+- code: es-CL
+  message: El c�digo de tipo de estampado es obligatorio.

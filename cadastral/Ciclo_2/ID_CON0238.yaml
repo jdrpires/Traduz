@@ -1,0 +1,13 @@
+messageCode: ID_CON0238
+messageDomain: cadastral
+summary: ID_CON0238 - Embossing emission type not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de emissÃ£o do embossing nÃ£o informado
+- code: en-US
+  message: Embossing emission type not informed.
+- code: es-ES
+  message: Tipo de emisión de relieve no especificado
+- code: es-CL
+  message: Tipo de emisión de relieve no especificado

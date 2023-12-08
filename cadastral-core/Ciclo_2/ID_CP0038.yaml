@@ -1,0 +1,13 @@
+messageCode: ID_CP0038
+messageDomain: cadastral-core
+summary: ID_CP0038 - Informed address category code does not exist in the corresponding domain table.
+type: error 
+languages:
+- code: pt-BR
+  message: Código categoria endereço informado não existe na tabela de domínio correspondente
+- code: en-US
+  message: Informed address category code does not exist in the corresponding domain table.
+- code: es-ES
+  message: Código categoria endere�o informado n�o existe na tabela de domínio correspondente
+- code: es-CL
+  message: Código categoria endere�o informado n�o existe na tabela de domínio correspondente

@@ -1,0 +1,13 @@
+messageCode: ID_CP0047
+messageDomain: cadastral-core
+summary: ID_CP0047 - Invalid confirmed address indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Marca endereço confirmado informado inválido
+- code: en-US
+  message: Invalid confirmed address indicator.
+- code: es-ES
+  message: Marca endereço confirmado informado inválido
+- code: es-CL
+  message: Marca endereço confirmado informado inválido

@@ -1,0 +1,13 @@
+messageCode: ID_CDV0106
+messageDomain: cadastral-core
+summary: ID_CDV0106 - Operational function not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: FunÃ§Ã£o operacional nÃ£o informada
+- code: en-US
+  message: Operational function not reported.
+- code: es-ES
+  message: Función operativa no informada
+- code: es-CL
+  message: Función operativa no informada

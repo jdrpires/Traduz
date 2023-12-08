@@ -1,0 +1,13 @@
+messageCode: ID_CDV0164
+messageDomain: cadastral-core
+summary: ID_CDV0164 - Unable to perform block search without subcontract search.
+type: error
+languages:
+- code: pt-BR
+  message: NÃ£o Ã© possÃ­vel realizar pesquisa de bloqueio sem a pesquisa de subcontrato.
+- code: en-US
+  message: Unable to perform block search without subcontract search.
+- code: es-ES
+  message: No es posible realizar una búsqueda de bloqueo sin una búsqueda de subcontrato.
+- code: es-CL
+  message: No es posible realizar una búsqueda de bloqueo sin una búsqueda de subcontrato.

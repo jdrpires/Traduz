@@ -1,0 +1,13 @@
+messageCode: ID_CON0066
+messageDomain: cadastral-core
+summary: ID_CON0066 - An error occurred during recording.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro na gravaÃ§Ã£o
+- code: en-US
+  message: An error occurred during recording.
+- code: es-ES
+  message: Error de grabación
+- code: es-CL
+  message: Error de grabación

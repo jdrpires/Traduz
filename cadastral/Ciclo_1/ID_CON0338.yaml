@@ -1,0 +1,13 @@
+messageCode: ID_CON0338
+messageDomain: cadastral
+summary: ID_CON0338 - Cancellation not allowed. There is an active previous device.
+type: error 
+languages:
+- code: pt-BR
+  message: Cancelamento nÃ£o permitido. Existe dispositivo anterior ativo
+- code: en-US
+  message: Cancellation not allowed. There is an active previous device.
+- code: es-ES
+  message: Cancelación no permitida. Hay un dispositivo anterior activo
+- code: es-CL
+  message: Cancelación no permitida. Hay un dispositivo anterior activo

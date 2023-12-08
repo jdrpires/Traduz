@@ -1,0 +1,13 @@
+messageCode: ID_CP0018
+messageDomain: cadastral-core
+summary: ID_CP0018 - Invalid document type entered.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de documento informado inválido
+- code: en-US
+  message: Invalid document type entered.
+- code: es-ES
+  message: Tipo de documento informado inválido
+- code: es-CL
+  message: Tipo de documento informado inválido

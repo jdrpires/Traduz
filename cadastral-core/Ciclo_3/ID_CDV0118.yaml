@@ -1,0 +1,13 @@
+messageCode: ID_CDV0118
+messageDomain: cadastral-core
+summary: ID_CDV0118 - Delivery unit type not specified.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de unidade de entrega não informado
+- code: en-US
+  message: Delivery unit type not specified.
+- code: es-ES
+  message: Tipo de unidad de entrega no especificada
+- code: es-CL
+  message: Tipo de unidad de entrega no especificada

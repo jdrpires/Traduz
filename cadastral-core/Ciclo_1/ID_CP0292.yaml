@@ -1,0 +1,13 @@
+messageCode: ID_CP0292
+messageDomain: cadastral-core
+summary: ID_CP0292 - Invalid birth certificate book number.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃºmero do livro da certidÃ£o de nascimento invÃ¡lido
+- code: en-US
+  message: Invalid birth certificate book number.
+- code: es-ES
+  message: Número de libro de certificado de nacimiento no válido
+- code: es-CL
+  message: Número de libro de certificado de nacimiento no válido

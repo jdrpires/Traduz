@@ -1,0 +1,13 @@
+messageCode: ID_CON0331
+messageDomain: cadastral-core
+summary: ID_CON0331 - Transaction status is pending for the informed device.
+type: error
+languages:
+- code: pt-BR
+  message: O status da transação está pendente para o dispositivo informado.
+- code: en-US
+  message: Transaction status is pending for the informed device.
+- code: es-ES
+  message: O status da transação está pendente para o dispositivo informado.
+- code: es-CL
+  message: O status da transação está pendente para o dispositivo informado.

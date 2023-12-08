@@ -1,0 +1,13 @@
+messageCode: device-id-is-required
+messageDomain: cadastral-core
+summary: device-id-is-required
+type: error
+languages:
+- code: pt-BR
+  message: O dispositivo é obrigatório.
+- code: en-US
+  message: Device id is required.
+- code: es-ES
+  message: El dispositivo es obligatorio.
+- code: es-CL
+  message: El dispositivo es obligatorio.

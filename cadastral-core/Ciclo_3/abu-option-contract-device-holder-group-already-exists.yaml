@@ -1,0 +1,13 @@
+messageCode: abu-option-contract-device-holder-group-already-exists
+messageDomain: cadastral-core
+summary: abu-option-contract-device-Holder-group-already-exists
+type: error
+languages:
+- code: pt-BR
+  message: Opção ABU para contrato, portador e grupo já existe.
+- code: en-US
+  message: ABU option for contract deviceHolder group already exists.
+- code: es-ES
+  message: Opção ABU para contrato, portador e grupo já existe.
+- code: es-CL
+  message: Opção ABU para contrato, portador e grupo já existe.

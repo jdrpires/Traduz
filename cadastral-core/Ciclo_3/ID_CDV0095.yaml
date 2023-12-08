@@ -1,0 +1,13 @@
+messageCode: ID_CDV0095
+messageDomain: cadastral-core
+summary: ID_CDV0095 - Canceled device callsign not received.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicativo de dispositivo cancelado nÃ£o recebido.
+- code: en-US
+  message: Canceled device callsign not received.
+- code: es-ES
+  message: No se recibió el indicador del dispositivo conectado.
+- code: es-CL
+  message: No se recibió el indicador del dispositivo conectado.

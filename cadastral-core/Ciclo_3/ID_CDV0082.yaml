@@ -1,0 +1,14 @@
+messageCode: ID_CDV0082
+messageDomain: cadastral-core
+summary: ID_CDV0082 - Device not reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Device_id não informado.
+- code: en-US
+  message: Device not reported.
+- code: es-ES
+  message: Dispositivo no reportado.
+- code: es-CL
+  message: Dispositivo no reportado.
+

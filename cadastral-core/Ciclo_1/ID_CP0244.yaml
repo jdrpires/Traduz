@@ -1,0 +1,13 @@
+messageCode: ID_CP0244
+messageDomain: cadastral-core
+summary: ID_CP0244 - Invalid client responsible entity unit code.
+type: error 
+languages:
+- code: pt-BR
+  message: Código da unidade da entidade responsável pelo cliente inválido.
+- code: en-US
+  message: Invalid client responsible entity unit code.
+- code: es-ES
+  message: Código da unidade da entidade responsável pelo cliente inválido.
+- code: es-CL
+  message: Código da unidade da entidade responsável pelo cliente inválido.

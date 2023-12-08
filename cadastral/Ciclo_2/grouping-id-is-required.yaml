@@ -1,0 +1,13 @@
+messageCode: grouping-id-is-required
+messageDomain: cadastral
+summary: grouping-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: O agrupamento Ã© obrigatÃ³rio
+- code: en-US
+  message: Grouping id is required
+- code: es-ES
+  message: La agrupación es obligatoria
+- code: es-CL
+  message: La agrupación es obligatoria

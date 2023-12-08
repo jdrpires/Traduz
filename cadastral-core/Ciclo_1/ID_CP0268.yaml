@@ -1,0 +1,13 @@
+messageCode: ID_CP0268
+messageDomain: cadastral-core
+summary: ID_CP0268 - Invalid devolution reason.
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo de DevoluÃ§Ã£o invÃ¡lido.
+- code: en-US
+  message: Invalid devolution reason.
+- code: es-ES
+  message: Motivo de devolución no válido.
+- code: es-CL
+  message: Motivo de devolución no válido.

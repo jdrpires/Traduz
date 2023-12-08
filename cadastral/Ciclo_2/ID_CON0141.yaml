@@ -1,0 +1,13 @@
+messageCode: ID_CON0141
+messageDomain: cadastral
+summary: ID_CON0141 - Reissue not permitted. Device is not the last one.
+type: error 
+languages:
+- code: pt-BR
+  message: A reemissÃ£o Ã© permitida apenas para Ãºltima via do dispositivo
+- code: en-US
+  message: Reissue not permitted. Device is not the last one.
+- code: es-ES
+  message: Sólo se permite la remisión de la última copia del dispositivo.
+- code: es-CL
+  message: Sólo se permite la remisión de la última copia del dispositivo.

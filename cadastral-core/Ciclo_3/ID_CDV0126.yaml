@@ -1,0 +1,13 @@
+messageCode: ID_CDV0126
+messageDomain: cadastral-core
+summary: ID_CDV0126 - Sales Channel not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Canal de Venda não informado
+- code: en-US
+  message: Sales Channel not informed.
+- code: es-ES
+  message: Canal de ventas no informado
+- code: es-CL
+  message: Canal de ventas no informado

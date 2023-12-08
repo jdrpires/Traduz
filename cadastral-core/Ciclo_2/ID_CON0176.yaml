@@ -1,0 +1,13 @@
+messageCode: ID_CON0176
+messageDomain: cadastral-core
+summary: ID_CON0176 - An error occurred in group cancellation rollback.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro na reversÃ£o do cancelamento do agrupamento.
+- code: en-US
+  message: An error occurred in group cancellation rollback.
+- code: es-ES
+  message: Se produjo un error al revertir la cancelación de agrupación.
+- code: es-CL
+  message: Se produjo un error al revertir la cancelación de agrupación.

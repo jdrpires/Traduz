@@ -1,0 +1,13 @@
+messageCode: personidodin-is-required
+messageDomain: cadastral
+summary: personidodin-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Person_id do portador é obrigatório.
+- code: en-US
+  message: personIdOdin is required.
+- code: es-ES
+  message: Se requiere person_id del portador.
+- code: es-CL
+  message: Se requiere person_id del portador.

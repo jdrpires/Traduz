@@ -1,0 +1,13 @@
+messageCode: this-operation-is-not-allowed-for-this-contract-condition
+messageDomain: cadastral
+summary: this-operation-is-not-allowed-for-this-contract-condition
+type: error 
+languages:
+- code: pt-BR
+  message: Esta operaÃ§Ã£o nÃ£o Ã© permitida para esta condiÃ§Ã£o de contrato.
+- code: en-US
+  message: This operation is not allowed for this contract condition.
+- code: es-ES
+  message: Esta operación no está permitida para esta condición de contrato.
+- code: es-CL
+  message: Esta operación no está permitida para esta condición de contrato.

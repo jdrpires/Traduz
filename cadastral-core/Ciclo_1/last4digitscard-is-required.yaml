@@ -1,0 +1,13 @@
+messageCode: last4digitscard-is-required
+messageDomain: cadastral-core
+summary: last4digitscard-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Últimos 4 dígitos do cartão é obrigatório
+- code: en-US
+  message: last4DigitsCard is required.
+- code: es-ES
+  message: Los últimos 4 dígitos de la tarjeta son obligatorios.
+- code: es-CL
+  message: Los últimos 4 dígitos de la tarjeta son obligatorios.

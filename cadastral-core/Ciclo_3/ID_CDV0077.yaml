@@ -1,0 +1,13 @@
+messageCode: ID_CDV0077
+messageDomain: cadastral-core
+summary: ID_CDV0077 - Expiration date is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Campo de Data de validade não recebido
+- code: en-US
+  message: Expiration date is required.
+- code: es-ES
+  message: Campo de fecha de vencimiento no recibido
+- code: es-CL
+  message: Campo de fecha de vencimiento no recibido

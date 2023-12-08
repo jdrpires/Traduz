@@ -1,0 +1,13 @@
+messageCode: ID_CON0341
+messageDomain: cadastral-core
+summary: ID_CON0341 - Call error to retrieve the last 4 digits of the card.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro de chamada para recuperar os Ãºltimos 4 dÃ­gitos do cartÃ£o.
+- code: en-US
+  message: Call error to retrieve the last 4 digits of the card.
+- code: es-ES
+  message: Error de llamada al recuperar los últimos 4 dígitos de la tarjeta.
+- code: es-CL
+  message: Error de llamada al recuperar los últimos 4 dígitos de la tarjeta.

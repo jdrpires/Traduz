@@ -1,0 +1,13 @@
+messageCode: ID_CDV0068
+messageDomain: cadastral-core
+summary: ID_CDV0068 - Operation performed successfully.
+type: success
+languages:
+- code: pt-BR
+  message: Operação realizada com sucesso.
+- code: en-US
+  message: Operation performed successfully.
+- code: es-ES
+  message: Operación realizada con éxito.
+- code: es-CL
+  message: Operación realizada con éxito.

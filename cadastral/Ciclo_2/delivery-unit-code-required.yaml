@@ -1,0 +1,13 @@
+messageCode: delivery-unit-code-required
+messageDomain: cadastral
+summary: delivery-unit-code-required
+type: error 
+languages:
+- code: pt-BR
+  message: É necessário indentificar Número da Agência.
+- code: en-US
+  message: Delivery unit Code Required.
+- code: es-ES
+  message: Es necesario identificar el N�mero de Agencia.
+- code: es-CL
+  message: Es necesario identificar el N�mero de Agencia.

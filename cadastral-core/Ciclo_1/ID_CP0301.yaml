@@ -1,0 +1,13 @@
+messageCode: ID_CP0301
+messageDomain: cadastral-core
+summary: ID_CP0301 - Basic customer data not found.
+type: error
+languages:
+- code: pt-BR
+  message: Dados b√°sicos do cliente n√£o encontrados
+- code: en-US
+  message: Basic customer data not found.
+- code: es-ES
+  message: Datos b·sicos del cliente no encontrados
+- code: es-CL
+  message: Datos b·sicos del cliente no encontrados

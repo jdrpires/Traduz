@@ -1,0 +1,13 @@
+messageCode: ID_CON0313
+messageDomain: cadastral-core
+summary: ID_CON0313 - Divergent validity date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de validade divergente
+- code: en-US
+  message: Divergent validity date.
+- code: es-ES
+  message: Fecha de vencimiento diferente
+- code: es-CL
+  message: Fecha de vencimiento diferente

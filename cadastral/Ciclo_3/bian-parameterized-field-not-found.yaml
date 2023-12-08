@@ -1,0 +1,13 @@
+messageCode: bian-parameterized-field-not-found
+messageDomain: cadastral
+summary: Parameterized field not found as declared filtered field
+type: error
+languages:
+  - code: pt-BR
+    message: O parâmetro "{{parameterName}}" não existe ou não é parametrizavel como filtro, revisar os queries parameters.
+  - code: en-US
+    message: The parameter "{{parameterName}}" not exists or its not parameterizable as filter, review query parameters.
+  - code: es-ES
+    message: El parámetro "{{parameterName}}" no existe o no es parametrizable como filtro, revise los parámetros de consulta.
+  - code: es-CL
+    message: El par�metro "{{parameterName}}" no existe o no se puede parametrizar como filtro, revise los par�metros de consulta.

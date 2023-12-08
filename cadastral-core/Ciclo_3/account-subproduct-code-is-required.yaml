@@ -1,0 +1,13 @@
+messageCode: account-subproduct-code-is-required
+messageDomain: cadastral-core
+summary: account-subproduct-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Subproduto da conta corrente é necessário.
+- code: en-US
+  message: Account Subproduct code is required.
+- code: es-ES
+  message: El código de subproducto de la cuenta corriente es obligatorio.
+- code: es-CL
+  message: El código de subproducto de la cuenta corriente es obligatorio.

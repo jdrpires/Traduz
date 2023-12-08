@@ -1,0 +1,13 @@
+messageCode: ID_CON0309
+messageDomain: cadastral-core
+summary: ID_CON0309 - Invalid device type code
+type: error 
+languages:
+- code: pt-BR
+  message: CÃ³digo do tipo de dispositivo recebido Ã© invÃ¡lido
+- code: en-US
+  message: Invalid device type code
+- code: es-ES
+  message: El código de tipo de dispositivo recibido no es válido
+- code: es-CL
+  message: El código de tipo de dispositivo recibido no es válido

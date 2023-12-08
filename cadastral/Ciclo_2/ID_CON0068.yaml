@@ -1,0 +1,13 @@
+messageCode: ID_CON0068
+messageDomain: cadastral
+summary: ID_CON0068 - BIN certificate not found.
+type: error 
+languages:
+- code: pt-BR
+  message: Certificado do BIN não encontrado
+- code: en-US
+  message: BIN certificate not found.
+- code: es-ES
+  message: Certificado do BIN não encontrado
+- code: es-CL
+  message: Certificado do BIN não encontrado

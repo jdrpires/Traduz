@@ -1,0 +1,13 @@
+messageCode: ID_CP0259
+messageDomain: cadastral-core
+summary: ID_CP0259 - Category address code is required.
+type: error
+languages:
+- code: pt-BR
+  message: Categoria de Endereço é obrigatória.
+- code: en-US
+  message: Category address code is required.
+- code: es-ES
+  message: Categoria de Endereço é obrigatória.
+- code: es-CL
+  message: Categoria de Endereço é obrigatória.

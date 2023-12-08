@@ -1,0 +1,13 @@
+messageCode: ID_CON0210
+messageDomain: cadastral
+summary: ID_CON0210 - Account code not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: account_code nÃ£o enviado
+- code: en-US
+  message: Account code not sent.
+- code: es-ES
+  message: código de cuenta no enviado
+- code: es-CL
+  message: código de cuenta no enviado

@@ -1,0 +1,13 @@
+messageCode: ID_CP9999
+messageDomain: cadastral-core
+summary: ID_CP9999 - Null Issuing Entity.
+type: error 
+languages:
+- code: pt-BR
+  message: Entidade nula
+- code: en-US
+  message: Null Issuing Entity.
+- code: es-ES
+  message: Entidade nula
+- code: es-CL
+  message: Entidade nula

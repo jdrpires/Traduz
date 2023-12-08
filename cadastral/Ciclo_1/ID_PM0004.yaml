@@ -1,0 +1,13 @@
+messageCode: ID_PM0004
+messageDomain: cadastral
+summary: ID_PM0004 - Error registering/updating registration
+type: error
+languages:
+  - code: pt-BR
+    message: Operacao nao realizada, dados inconsistentes.
+  - code: en-US
+    message: Operation not performed, inconsistent data.
+  - code: es-ES
+    message: Operacion no realizada, datos inconsistentes.
+  - code: es-CL
+    message: Operacion no realizada, datos inconsistentes.

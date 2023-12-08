@@ -1,0 +1,13 @@
+messageCode: person-qualification-inactive
+messageDomain: cadastral
+summary: person-qualification-inactive
+type: error 
+languages:
+- code: pt-BR
+  message: QualificaÃ§Ã£o da Pessoa Inativa
+- code: en-US
+  message: person qualification inactive
+- code: es-ES
+  message: Calificación de la Persona Inactiva
+- code: es-CL
+  message: Calificación de la Persona Inactiva

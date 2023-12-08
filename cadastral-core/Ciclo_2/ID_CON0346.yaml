@@ -1,0 +1,13 @@
+messageCode: ID_CON0346
+messageDomain: cadastral-core
+summary: ID_CON0346 - Activation pending.
+type: error 
+languages:
+- code: pt-BR
+  message: Pendente de ativação.
+- code: en-US
+  message: Activation pending.
+- code: es-ES
+  message: Activacion pendiente.
+- code: es-CL
+  message: Activacion pendiente.

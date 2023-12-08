@@ -1,0 +1,13 @@
+messageCode: ID_CON0046
+messageDomain: cadastral
+summary: ID_CON0046 - Invalid additional client inclusion. Contract has no owner.
+type: error 
+languages:
+- code: pt-BR
+  message: InclusÃ£o de adicional invalida. Contrato sem Titular
+- code: en-US
+  message: Invalid additional client inclusion. Contract has no owner.
+- code: es-ES
+  message: Inclusión de inválidos adicionales. Contrato sin propietario
+- code: es-CL
+  message: Inclusión de inválidos adicionales. Contrato sin propietario

@@ -1,0 +1,13 @@
+messageCode: this-subcontract-is-blocked-for-reissue
+messageDomain: cadastral-core
+summary: this-subcontract-is-blocked-for-reissue
+type: error 
+languages:
+- code: pt-BR
+  message: Este subcontrato está bloqueado para reemissão.
+- code: en-US
+  message: This subcontract is blocked for reissue.
+- code: es-ES
+  message: Este subcontrato está bloqueado para reemissão.
+- code: es-CL
+  message: Este subcontrato está bloqueado para reemissão.

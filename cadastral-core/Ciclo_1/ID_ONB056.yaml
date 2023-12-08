@@ -1,0 +1,13 @@
+messageCode: ID_ONB056
+messageDomain: cadastral-core
+summary: ID_ONB056 - Limit value is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Valor do limite nÃ£o informado.
+- code: en-US
+  message: Limit value is required.
+- code: es-ES
+  message: Valor límite no informado.
+- code: es-CL
+  message: Valor límite no informado.

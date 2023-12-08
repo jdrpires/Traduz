@@ -1,0 +1,13 @@
+messageCode: ID_CDV0120
+messageDomain: cadastral-core
+summary: ID_CDV0120 - Address sequence not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Sequencial de Endereço não informado
+- code: en-US
+  message: Address sequence not informed.
+- code: es-ES
+  message: Secuencia de direcciones no proporcionada
+- code: es-CL
+  message: Secuencia de direcciones no proporcionada

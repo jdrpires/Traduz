@@ -1,0 +1,13 @@
+messageCode: ID_CP0076
+messageDomain: cadastral-core
+summary: ID_CP0076 - Segment code does not exist.
+type: error 
+languages:
+- code: pt-BR
+  message: CÃ³digo segmento nÃ£o existe
+- code: en-US
+  message: Segment code does not exist.
+- code: es-ES
+  message: El código de segmento no existe
+- code: es-CL
+  message: El código de segmento no existe

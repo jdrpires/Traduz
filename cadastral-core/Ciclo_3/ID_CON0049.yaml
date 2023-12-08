@@ -1,0 +1,13 @@
+messageCode: ID_CON0049
+messageDomain: cadastral-core
+summary: ID_CON0049 - An error occurred during blocking operativity update.
+type: error 
+languages:
+- code: pt-BR
+  message: Ocorreu um erro durante a atualizaÃ§Ã£o da operatividade do bloqueio nas bases.
+- code: en-US
+  message: An error occurred during blocking operativity update.
+- code: es-ES
+  message: Ocurrió un error al actualizar el funcionamiento del bloqueo en las bases.
+- code: es-CL
+  message: Ocurrió un error al actualizar el funcionamiento del bloqueo en las bases.

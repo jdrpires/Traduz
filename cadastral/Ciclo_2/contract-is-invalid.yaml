@@ -1,0 +1,13 @@
+messageCode: contract-is-invalid
+messageDomain: cadastral
+summary: contract-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato invalido
+- code: en-US
+  message: Contract is invalid.
+- code: es-ES
+  message: Contrato invalido
+- code: es-CL
+  message: Contrato invalido

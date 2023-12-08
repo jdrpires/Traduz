@@ -1,0 +1,13 @@
+messageCode: this-device-is-blocked-for-reissue
+messageDomain: cadastral
+summary: this-device-is-blocked-for-reissue
+type: error 
+languages:
+- code: pt-BR
+  message: Este dispositivo está bloqueado para reemissão.
+- code: en-US
+  message: This device is blocked for reissue.
+- code: es-ES
+  message: Este dispositivo está bloqueado para reemissão.
+- code: es-CL
+  message: Este dispositivo está bloqueado para reemissão.

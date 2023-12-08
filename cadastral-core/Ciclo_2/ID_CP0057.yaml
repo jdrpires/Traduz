@@ -1,0 +1,13 @@
+messageCode: ID_CP0057
+messageDomain: cadastral-core
+summary: ID_CP0057 - Invalid relationship type.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo relaÃ§Ã£o invÃ¡lido
+- code: en-US
+  message: Invalid relationship type.
+- code: es-ES
+  message: Tipo de relación no válida
+- code: es-CL
+  message: Tipo de relación no válida

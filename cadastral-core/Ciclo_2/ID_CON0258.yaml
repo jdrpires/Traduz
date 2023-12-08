@@ -1,0 +1,13 @@
+messageCode: ID_CON0258
+messageDomain: cadastral-core
+summary: ID_CON0258 - Device cancelling reason not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Motivo do cancelamento do dispositivo nÃ£o informado.
+- code: en-US
+  message: Device cancelling reason not informed.
+- code: es-ES
+  message: Motivo de la cancelación del dispositivo no informado.
+- code: es-CL
+  message: Motivo de la cancelación del dispositivo no informado.

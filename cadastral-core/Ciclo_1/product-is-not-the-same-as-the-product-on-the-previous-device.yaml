@@ -1,0 +1,13 @@
+messageCode: product-is-not-the-same-as-the-product-on-the-previous-device
+messageDomain: cadastral-core
+summary: product-is-not-the-same-as-the-product-on-the-previous-device
+type: error
+languages:
+- code: pt-BR
+  message: produto informado não é igual ao produto do dispositivo anterior.
+- code: en-US
+  message: product is not the same as the product on the previous device.
+- code: es-ES
+  message: El producto no es el mismo que el del dispositivo anterior.
+- code: es-CL
+  message: El producto informado no es el mismo que el producto del dispositivo anterior.

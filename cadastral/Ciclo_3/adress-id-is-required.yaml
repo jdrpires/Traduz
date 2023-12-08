@@ -1,0 +1,13 @@
+messageCode: adress-id-is-required
+messageDomain: cadastral
+summary: adress-id-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: Sequencial de Endereço é obrigatória.
+- code: en-US
+  message: Adress id is required
+- code: es-ES
+  message: La secuencia de direcciones es obligatoria.
+- code: es-CL
+  message: La secuencia de direcciones es obligatoria.

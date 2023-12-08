@@ -1,0 +1,13 @@
+messageCode: contract-does-not-exist
+messageDomain: cadastral-core
+summary: Contract does not exist.
+type: error
+languages:
+- code: pt-BR
+  message: Contrato Inexistente.
+- code: en-US
+  message: Contract does not exist.
+- code: es-ES
+  message: Contrato Inexistente.
+- code: es-CL
+  message: Contrato Inexistente.

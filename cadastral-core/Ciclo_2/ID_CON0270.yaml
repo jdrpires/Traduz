@@ -1,0 +1,13 @@
+messageCode: ID_CON0270
+messageDomain: cadastral-core
+summary: ID_CON0270 - Contract condition does not permit renewal or reissue.
+type: error 
+languages:
+- code: pt-BR
+  message: CondiÃ§Ã£o do contrato nÃ£o permite renovaÃ§Ã£o ou reemissÃ£o.
+- code: en-US
+  message: Contract condition does not permit renewal or reissue.
+- code: es-ES
+  message: La condición del contrato no permite renovación o reemisión.
+- code: es-CL
+  message: La condición del contrato no permite renovación o reemisión.

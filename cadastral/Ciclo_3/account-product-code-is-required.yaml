@@ -1,0 +1,13 @@
+messageCode: account-product-code-is-required
+messageDomain: cadastral
+summary: account-product-code-is-required
+type: error 
+languages:
+- code: pt-BR
+  message: CÃ³digo de Produto da Conta Corrente Ã© obrigatÃ³rio.
+- code: en-US
+  message: Account Product Code is Required.
+- code: es-ES
+  message: El código de producto de cuenta corriente es obligatorio.
+- code: es-CL
+  message: El código de producto de cuenta corriente es obligatorio.

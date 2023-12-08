@@ -1,0 +1,13 @@
+messageCode: no-available-limit-offer
+messageDomain: cadastral
+summary: no-available-limit-offer
+type: error
+languages:
+- code: pt-BR
+  message: O contrato não tem limite disponível para oferecer um produto para o interveniente.
+- code: en-US
+  message: Contract has no available limit to offer a product for the intervenient.
+- code: es-ES
+  message: Contrato no tiene límite disponible para ofrecer un producto para el interviniente.
+- code: es-CL
+  message: Contrato no tiene límite disponible para ofrecer un producto para el interviniente.

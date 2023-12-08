@@ -1,0 +1,13 @@
+messageCode: ID_CDV380
+messageDomain: cadastral-core
+summary: ID_CDV380 - Not informed password delivery mode indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador modo de entrega de senha nÃ£o informado
+- code: en-US
+  message: Not informed password delivery mode indicator.
+- code: es-ES
+  message: Indicador de modo de entrega de contraseña no proporcionado
+- code: es-CL
+  message: Indicador de modo de entrega de contraseña no proporcionado

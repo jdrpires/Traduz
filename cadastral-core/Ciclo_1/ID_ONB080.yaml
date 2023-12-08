@@ -1,0 +1,13 @@
+messageCode: ID_ONB080
+messageDomain: cadastral-core
+summary: ID_ONB080 - Current account product is required.
+type: error 
+languages:
+- code: pt-BR
+  message: Produto da conta corrente não informado.
+- code: en-US
+  message: Current account product is required.
+- code: es-ES
+  message: Progresos en cuenta corriente no informados.
+- code: es-CL
+  message: Progresos en cuenta corriente no informados.

@@ -1,0 +1,13 @@
+messageDomain: cadastral
+messageCode: page-parameter-not-found
+type: error
+summary: incomplete-pagination-parameters
+languages:
+  - code: pt-BR
+    message: Foram encontrados parâmetros de paginação incompletos. O parâmetro de consulta 'page' deve ser especificado quando a página é especificada.
+  - code: en-US
+    message: Incomplete pagination parameters found. 'page' query parameter must be specified when the page is specified.
+  - code: es-ES
+    message: Paramètres de pagination incomplets trouvés. Le paramètre de requête 'page' doit être spécifié lorsque la page est spécifiée.
+  - code: es-CL
+    message: Se encontraron par�metros de paginaci�n incompletos. El par�metro de consulta 'p�gina' debe especificarse cuando se especifica la p�gina.

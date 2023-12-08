@@ -1,0 +1,13 @@
+messageCode: ID_CP0264
+messageDomain: cadastral-core
+summary: ID_CP0264 - Invalid address complement.
+type: error 
+languages:
+- code: pt-BR
+  message: Complemento de endereço inválido.
+- code: en-US
+  message: Invalid address complement.
+- code: es-ES
+  message: Complemento de endereço inválido.
+- code: es-CL
+  message: Complemento de endereço inválido.

@@ -1,0 +1,13 @@
+messageCode: ID_CDV0156
+messageDomain: cadastral-core
+summary: ID_CDV0156 - Invalid Option.
+type: error
+languages:
+- code: pt-BR
+  message: Op√ß√£o n√£o √© v√°lido.
+- code: en-US
+  message: Invalid Option.
+- code: es-ES
+  message: La opciÛn no es v·lida.
+- code: es-CL
+  message: La opciÛn no es v·lida.

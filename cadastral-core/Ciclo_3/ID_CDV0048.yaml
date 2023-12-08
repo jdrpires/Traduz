@@ -1,0 +1,13 @@
+messageCode: ID_CDV0048
+messageDomain: cadastral-core
+summary: ID_CDV0048 - Input data not sent.
+type: error 
+languages:
+- code: pt-BR
+  message: Dados de Entrada não enviados.
+- code: en-US
+  message: Input data not sent.
+- code: es-ES
+  message: Datos de entrada no enviados.
+- code: es-CL
+  message: Datos de entrada no enviados.

@@ -1,0 +1,13 @@
+messageCode: ID_CP0092
+messageDomain: cadastral-core
+summary: ID_CP0092 - Invalid Expiration document date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de vencimento do documento inv√°lida
+- code: en-US
+  message: Invalid Expiration document date.
+- code: es-ES
+  message: Fecha de vencimiento del documento no v·lido
+- code: es-CL
+  message: Fecha de vencimiento del documento no v·lido

@@ -1,0 +1,13 @@
+messageCode: ID_CDV0129
+messageDomain: cadastral-core
+summary: ID_CDV0129 - No current account reported.
+type: error 
+languages:
+- code: pt-BR
+  message: Nenhuma conta corrente informada
+- code: en-US
+  message: No current account reported.
+- code: es-ES
+  message: Ninguna cuenta corriente reportada
+- code: es-CL
+  message: Ninguna cuenta corriente reportada

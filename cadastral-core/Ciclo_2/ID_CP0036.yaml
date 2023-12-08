@@ -1,0 +1,13 @@
+messageCode: ID_CP0036
+messageDomain: cadastral-core
+summary: ID_CP0036 - Invalid occupation.
+type: error 
+languages:
+- code: pt-BR
+  message: ProfissÃ£o informada nÃ£o existe
+- code: en-US
+  message: Invalid occupation.
+- code: es-ES
+  message: La profesión informada no existe
+- code: es-CL
+  message: La profesión informada no existe

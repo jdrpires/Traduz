@@ -1,0 +1,13 @@
+messageCode: ID_CON0283
+messageDomain: cadastral
+summary: ID_CON0283 - Product and subproduct information not found.
+type: error 
+languages:
+- code: pt-BR
+  message: InformaÃ§Ãµes sobre produto e subproduto nÃ£o encontradas
+- code: en-US
+  message: Product and subproduct information not found.
+- code: es-ES
+  message: No se encontró información sobre productos y subproductos
+- code: es-CL
+  message: No se encontró información sobre productos y subproductos

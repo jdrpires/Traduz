@@ -1,0 +1,13 @@
+messageCode: ID_CON0265
+messageDomain: cadastral-core
+summary: ID_CON0265 - Device has a block that does not allow reissue.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo cont√©m bloqueio que n√£o permite reemis√£o.
+- code: en-US
+  message: Device has a block that does not allow reissue.
+- code: es-ES
+  message: El dispositivo contiene un bloque que no permite la emisiÛn.
+- code: es-CL
+  message: El dispositivo contiene un bloque que no permite la emisiÛn.

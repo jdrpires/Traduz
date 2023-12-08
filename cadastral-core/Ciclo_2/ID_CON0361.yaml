@@ -1,0 +1,13 @@
+messageCode: ID_CON0361
+messageDomain: cadastral-core
+summary: ID_CON0361 - Password not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Senha nÃ£o informada.
+- code: en-US
+  message: Password not informed.
+- code: es-ES
+  message: Contraseña no proporcionada.
+- code: es-CL
+  message: Contraseña no proporcionada.

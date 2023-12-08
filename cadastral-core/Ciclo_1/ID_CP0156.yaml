@@ -1,0 +1,13 @@
+messageCode: ID_CP0156
+messageDomain: cadastral-core
+summary: ID_CP0156 - Invalid employee code.
+type: error 
+languages:
+- code: pt-BR
+  message: Marca empregado inválido
+- code: en-US
+  message: Invalid employee code.
+- code: es-ES
+  message: Marca empregado inválido
+- code: es-CL
+  message: Marca empregado inválido

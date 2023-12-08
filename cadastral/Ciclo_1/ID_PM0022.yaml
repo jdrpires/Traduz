@@ -1,0 +1,13 @@
+messageCode: ID_PM0022
+messageDomain: cadastral
+summary: ID_PM0022 - Zip code overlap error
+type: error
+languages:
+- code: pt-BR
+  message: Faixa de CEP de Atuação está sobrepondo uma outra Faixa de CEP de Atuação.
+- code: en-US
+  message: Actuation zip code range is overlapping another actuation zip code range.
+- code: es-ES
+  message: El rango de código postal de activación se superpone a otro rango de código postal de activación.
+- code: es-CL
+  message: El rango operativo CEP se superpone a otro rango operativo CEP.

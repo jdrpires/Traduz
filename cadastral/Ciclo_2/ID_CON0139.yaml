@@ -1,0 +1,13 @@
+messageCode: ID_CON0139
+messageDomain: cadastral
+summary: ID_CON0139 - Product/Subproduct/Device type already exists for this client.
+type: error 
+languages:
+- code: pt-BR
+  message: Produto/Subproduto/Tipo de Dispositivo já existente para o cliente
+- code: en-US
+  message: Product/Subproduct/Device type already exists for this client.
+- code: es-ES
+  message: Produto/Subproduto/Tipo de Dispositivo já existente para o cliente
+- code: es-CL
+  message: Produto/Subproduto/Tipo de Dispositivo já existente para o cliente

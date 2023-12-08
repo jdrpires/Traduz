@@ -1,0 +1,13 @@
+messageCode: ID_CON0336
+messageDomain: cadastral-core
+summary: ID_CON0336 - Contract does not have pre-cancellation lock.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato nÃ£o possui bloqueio de prÃ©-cancelamento.
+- code: en-US
+  message: Contract does not have pre-cancellation lock.
+- code: es-ES
+  message: El contrato no tiene bloqueo de precancelación.
+- code: es-CL
+  message: El contrato no tiene bloqueo de precancelación.

@@ -1,0 +1,13 @@
+messageCode: account-indicator-is-required
+messageDomain: cadastral
+summary: account-indicator-is-required
+type: error
+languages:
+- code: pt-BR
+  message: Indicador de conta é necessário.
+- code: en-US
+  message: Account indicator is required.
+- code: es-ES
+  message: Indicador de cuenta es necesario.
+- code: es-CL
+  message: Indicador de cuenta es necesario.

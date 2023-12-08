@@ -1,0 +1,13 @@
+messageCode: ID_CON0247
+messageDomain: cadastral
+summary: ID_CON0247 - Bearer's sequential not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Sequencial do Portador não informado
+- code: en-US
+  message: Bearer's sequential not informed.
+- code: es-ES
+  message: Secuencia del transportista no informada
+- code: es-CL
+  message: Secuencia del transportista no informada

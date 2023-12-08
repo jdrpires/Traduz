@@ -1,0 +1,13 @@
+messageCode: bian-invalid-parameter-type
+messageDomain: cadastral
+summary: Invalid parameter type specified in request
+type: error
+languages:
+  - code: pt-BR
+    message: O valor do parâmetro "{{parameterName}}" é incompatível com o tipo "{{propertyType}}".
+  - code: en-US
+    message: The value of parameter "{{parameterName}}" is incompatible with type "{{propertyType}}"
+  - code: es-ES
+    message: El parámetro "{{parameterName}}" con valor {{value}} es incompatible con el tipo "{{propertyType}}".
+  - code: es-CL
+    message: El valor del par�metro "{{parameterName}}" es incompatible con el tipo "{{propertyType}}".

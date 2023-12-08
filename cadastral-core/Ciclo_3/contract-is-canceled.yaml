@@ -1,0 +1,13 @@
+messageCode: contract-is-canceled
+messageDomain: cadastral-core
+summary: Contract is canceled.
+type: error
+languages:
+- code: pt-BR
+  message: Contrato Cancelado.
+- code: en-US
+  message: Contract is canceled.
+- code: es-ES
+  message: Contrato Cancelado.
+- code: es-CL
+  message: Contrato Cancelado.

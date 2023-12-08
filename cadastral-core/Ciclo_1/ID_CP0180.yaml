@@ -1,0 +1,13 @@
+messageCode: ID_CP0180
+messageDomain: cadastral-core
+summary: ID_CP0180 - Failed defining next usage type. There is no next use type available.
+type: error 
+languages:
+- code: pt-BR
+  message: Erro ao definir prÃ³ximo tipo de uso. NÃ£o existe prÃ³ximo tipo de uso disponivel.
+- code: en-US
+  message: Failed defining next usage type. There is no next use type available.
+- code: es-ES
+  message: Error al definir el siguiente tipo de uso. No hay ningún siguiente tipo de uso disponible.
+- code: es-CL
+  message: Error al definir el siguiente tipo de uso. No hay ningún siguiente tipo de uso disponible.

@@ -1,0 +1,13 @@
+messageCode: ID_CON0220
+messageDomain: cadastral-core
+summary: ID_CON0220 - Contract manager code not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Código da Gestora do contrato não informado
+- code: en-US
+  message: Contract manager code not informed.
+- code: es-ES
+  message: Código da Gestora do contrato não informado
+- code: es-CL
+  message: Código da Gestora do contrato não informado

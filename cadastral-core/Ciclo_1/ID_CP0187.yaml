@@ -1,0 +1,13 @@
+messageCode: ID_CP0187
+messageDomain: cadastral-core
+summary: ID_CP0187 - Intervener not found in the informed Agreement.
+type: error 
+languages:
+- code: pt-BR
+  message: Interveniente não encontrado no Contrato informado
+- code: en-US
+  message: Intervener not found in the informed Agreement.
+- code: es-ES
+  message: Interveniente não encontrado no Contrato informado
+- code: es-CL
+  message: Interveniente não encontrado no Contrato informado

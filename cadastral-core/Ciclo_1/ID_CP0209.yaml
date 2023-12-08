@@ -1,0 +1,13 @@
+messageCode: ID_CP0209
+messageDomain: cadastral-core
+summary: ID_CP0209 - Contract and Person not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Contrato e Pessoa não informados
+- code: en-US
+  message: Contract and Person not informed.
+- code: es-ES
+  message: Contrato y Persona no informada
+- code: es-CL
+  message: Contrato y Persona no informada

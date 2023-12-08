@@ -1,0 +1,13 @@
+messageCode: ID_CP0083
+messageDomain: cadastral-core
+summary: ID_CP0083 - Invalid person type.
+type: error 
+languages:
+- code: pt-BR
+  message: Tipo de pessoa inv√°lido
+- code: en-US
+  message: Invalid person type.
+- code: es-ES
+  message: Tipo de persona no v·lida
+- code: es-CL
+  message: Tipo de persona no v·lida

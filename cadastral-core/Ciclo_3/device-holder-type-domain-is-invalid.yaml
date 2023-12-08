@@ -1,0 +1,13 @@
+messageCode: device-holder-type-domain-is-invalid
+messageDomain: cadastral-core
+summary: device-holder-type-domain-is-invalid
+type: error 
+languages:
+- code: pt-BR
+  message: O domínio do Tipo de Beneficiário está inválido.
+- code: en-US
+  message: Device_holder_type domain is invalid.
+- code: es-ES
+  message: O dom�nio do Tipo de Beneficiário está inválido.
+- code: es-CL
+  message: O dom�nio do Tipo de Beneficiário está inválido.

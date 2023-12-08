@@ -1,0 +1,13 @@
+messageCode: ID_CON0286
+messageDomain: cadastral
+summary: ID_CON0286 - Letter sending mode indicator not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador Modo de Envio Carta nÃ£o informado
+- code: en-US
+  message: Letter sending mode indicator not informed.
+- code: es-ES
+  message: Indicador Modo de envío de carta no informada
+- code: es-CL
+  message: Indicador Modo de envío de carta no informada

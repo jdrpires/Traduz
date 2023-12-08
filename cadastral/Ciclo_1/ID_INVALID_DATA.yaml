@@ -1,0 +1,13 @@
+messageCode: ID_INVALID_DATA
+messageDomain: cadastral
+summary: ID_INVALID_DATA - Invalid DATA
+type: error
+languages:
+  - code: pt-BR
+    message: Dados inválidos.
+  - code: en-US
+    message: Invalid Data.
+  - code: es-ES
+    message: Datos inválidos.
+  - code: es-CL
+    message: Datos inv�lidos.

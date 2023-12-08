@@ -1,0 +1,13 @@
+messageCode: ID_CON0353
+messageDomain: cadastral-core
+summary: ID_CON0353 - Number of Attempts not allowed for Password / IDP (security key).
+type: error 
+languages:
+- code: pt-BR
+  message: Quantidade de Tentativas nÃ£o permitida para Senha / IDP (chave de seguranÃ§a).
+- code: en-US
+  message: Number of Attempts not allowed for Password / IDP (security key).
+- code: es-ES
+  message: Número de intentos no permitidos para Contraseña/IDP (clave de seguridad).
+- code: es-CL
+  message: Número de intentos no permitidos para Contraseña/IDP (clave de seguridad).

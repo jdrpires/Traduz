@@ -1,0 +1,13 @@
+messageCode: there-is-no-card-design-default-registered
+messageDomain: cadastral-core
+summary: there-is-no-card-design-default-registered
+type: error
+languages:
+- code: pt-BR
+  message: Não há card design default cadastrado para essa combinação.
+- code: en-US
+  message: There is no default card design registered for this combination.
+- code: es-ES
+  message: No hay ningún diseño de tarjeta predeterminado registrado para esta combinación.
+- code: es-CL
+  message: No hay ningún diseño de tarjeta predeterminado registrado para esta combinación.

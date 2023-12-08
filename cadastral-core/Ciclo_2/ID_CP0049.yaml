@@ -1,0 +1,13 @@
+messageCode: ID_CP0049
+messageDomain: cadastral-core
+summary: ID_CP0049 - Invalid shipping indicator.
+type: error 
+languages:
+- code: pt-BR
+  message: Indicador envio correspondência informado inválido
+- code: en-US
+  message: Invalid shipping indicator.
+- code: es-ES
+  message: Indicador envio correspondência informado inválido
+- code: es-CL
+  message: Indicador envio correspondência informado inválido

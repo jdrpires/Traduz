@@ -1,0 +1,13 @@
+messageCode: ID_CON0175
+messageDomain: cadastral-core
+summary: ID_CON0175 - Rollback did not happen. Group already exists.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃ£o foi realizada a reversÃ£o - Agrupamento jÃ¡ existe.
+- code: en-US
+  message: Rollback did not happen. Group already exists.
+- code: es-ES
+  message: La reversión no se realizó: la agrupación ya existe.
+- code: es-CL
+  message: La reversión no se realizó: la agrupación ya existe.

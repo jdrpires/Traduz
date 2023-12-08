@@ -1,0 +1,13 @@
+messageCode: ID_CON0070
+messageDomain: cadastral
+summary: ID_CON0070 - BIN certificate not found expiration date is previous to the device expiration date.
+type: error 
+languages:
+- code: pt-BR
+  message: Data de validade do certificado BIN é menor que data de validade do dispositivo
+- code: en-US
+  message: BIN certificate not found expiration date is previous to the device expiration date.
+- code: es-ES
+  message: La fecha de vencimiento del certificado BIN es menor que la fecha de vencimiento del dispositivo
+- code: es-CL
+  message: La fecha de vencimiento del certificado BIN es menor que la fecha de vencimiento del dispositivo

@@ -1,0 +1,13 @@
+messageCode: ID_CON0325
+messageDomain: cadastral-core
+summary: ID_CON0325 - There is no request to send a password.
+type: error 
+languages:
+- code: pt-BR
+  message: NÃ£o existe uma solicitaÃ§Ã£o de envio de senha.
+- code: en-US
+  message: There is no request to send a password.
+- code: es-ES
+  message: No hay ninguna solicitud para enviar una contraseña.
+- code: es-CL
+  message: No hay ninguna solicitud para enviar una contraseña.

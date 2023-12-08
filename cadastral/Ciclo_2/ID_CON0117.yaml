@@ -1,0 +1,13 @@
+messageCode: ID_CON0117
+messageDomain: cadastral
+summary: ID_CON0117 - Block not found for informed device.
+type: error 
+languages:
+- code: pt-BR
+  message: Bloqueio não encontrado para o dispositivo.
+- code: en-US
+  message: Block not found for informed device.
+- code: es-ES
+  message: Bloqueo no encontrado para el dispositivo.
+- code: es-CL
+  message: Bloqueo no encontrado para el dispositivo.

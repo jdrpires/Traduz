@@ -1,0 +1,13 @@
+messageCode: ID_CON0337
+messageDomain: cadastral-core
+summary: ID_CON0337 - NSU must be single for contracting.
+type: error 
+languages:
+- code: pt-BR
+  message: NSU deve ser único para contratação.
+- code: en-US
+  message: NSU must be single for contracting.
+- code: es-ES
+  message: NSU deve ser único para contratação.
+- code: es-CL
+  message: NSU deve ser único para contratação.

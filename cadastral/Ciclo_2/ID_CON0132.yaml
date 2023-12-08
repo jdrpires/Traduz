@@ -1,0 +1,13 @@
+messageCode: ID_CON0132
+messageDomain: cadastral
+summary: ID_CON0132 - Agency number not informed.
+type: error 
+languages:
+- code: pt-BR
+  message: O nÃºmero da agÃªncia nÃ£o foi informado.
+- code: en-US
+  message: Agency number not informed.
+- code: es-ES
+  message: No se proporcionó el número de la agencia.
+- code: es-CL
+  message: No se proporcionó el número de la agencia.

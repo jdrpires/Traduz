@@ -1,0 +1,13 @@
+messageCode: ID_CDV0128
+messageDomain: cadastral-core
+summary: ID_CDV0137 - Channel information not sent.
+type: error
+languages:
+- code: pt-BR
+  message: Informações sobre o canal solicitante não enviadas.
+- code: en-US
+  message: Requesting Channel information not sent.
+- code: es-ES
+  message: Información del canal del solicitante no enviada.
+- code: es-CL
+  message: Información del canal del solicitante no enviada.

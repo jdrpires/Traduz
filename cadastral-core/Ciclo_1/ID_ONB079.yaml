@@ -1,0 +1,13 @@
+messageCode: ID_ONB079
+messageDomain: cadastral-core
+summary: ID_ONB079 - No current account informed.
+type: error 
+languages:
+- code: pt-BR
+  message: Nenhuma conta corrente informada.
+- code: en-US
+  message: No current account informed.
+- code: es-ES
+  message: No se reporta ninguna cuenta corriente.
+- code: es-CL
+  message: No se reporta ninguna cuenta corriente.

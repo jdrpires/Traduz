@@ -1,0 +1,13 @@
+messageCode: ID_CON0266
+messageDomain: cadastral
+summary: ID_CON0266 - Device has a block that does not allow renewal.
+type: error 
+languages:
+- code: pt-BR
+  message: Dispositivo contém bloqueio que não permite renovação.
+- code: en-US
+  message: Device has a block that does not allow renewal.
+- code: es-ES
+  message: El dispositivo contiene un candado que no permite la renovaci�n.
+- code: es-CL
+  message: El dispositivo contiene un candado que no permite la renovaci�n.

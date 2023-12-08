@@ -1,0 +1,13 @@
+messageCode: phone-type-is-required
+messageDomain: cadastral-core
+summary: Phone type is required.
+type: error
+languages:
+- code: pt-BR
+  message: ObrigatÃ³rio informar tipo do telefone
+- code: en-US
+  message: Phone type is required.
+- code: es-ES
+  message: Es obligatorio informar el tipo de teléfono.
+- code: es-CL
+  message: Es obligatorio informar el tipo de teléfono.
